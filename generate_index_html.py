@@ -1,0 +1,1590 @@
+html_content = r'''<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>68-Day Transformation · Lean & Muscular Workout & PG Diet Tracker</title>
+  <meta name="description" content="68-Day Progressive Overload Workout and PG-Friendly Indian Nutrition Tracker (Oct 25 - Dec 31, 2026). 10kg Dumbbells + Calisthenics." />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🏋️</text></svg>" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet" />
+
+  <style>
+    :root {
+      --bg: #07090e;
+      --card-bg: rgba(15, 23, 42, 0.88);
+      --card-border: rgba(255, 255, 255, 0.08);
+      --card-hover: rgba(30, 41, 59, 0.95);
+      --t1: #f8fafc;
+      --t2: #94a3b8;
+      --t3: #475569;
+      --accent: #f59e0b;
+      --accent-glow: rgba(245, 158, 11, 0.28);
+      --orange: #f97316;
+      --cyan: #06b6d4;
+      --emerald: #10b981;
+      --emerald-glow: rgba(16, 185, 129, 0.25);
+      --purple: #8b5cf6;
+      --red: #ef4444;
+      --glass: rgba(255, 255, 255, 0.03);
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: var(--bg);
+      color: var(--t1);
+      min-height: 100vh;
+      overflow-x: hidden;
+      line-height: 1.5;
+    }
+
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background:
+        radial-gradient(ellipse at 15% 10%, rgba(245, 158, 11, 0.08) 0%, transparent 50%),
+        radial-gradient(ellipse at 85% 85%, rgba(6, 182, 212, 0.06) 0%, transparent 50%),
+        radial-gradient(ellipse at 50% 50%, rgba(139, 92, 246, 0.04) 0%, transparent 60%);
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    .wrap {
+      max-width: 1360px;
+      margin: 0 auto;
+      padding: 0 20px;
+      position: relative;
+      z-index: 1;
+    }
+
+    /* ─── HERO HEADER ─── */
+    .hero {
+      background: linear-gradient(180deg, rgba(20, 26, 43, 0.95) 0%, rgba(11, 15, 25, 0.98) 100%);
+      border-bottom: 1px solid var(--card-border);
+      padding: 24px 0 20px;
+      position: relative;
+    }
+    .hero::after {
+      content: '';
+      position: absolute;
+      bottom: 0; left: 0; right: 0; height: 1px;
+      background: linear-gradient(90deg, transparent, var(--accent), transparent);
+    }
+
+    .hero-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 16px;
+      margin-bottom: 20px;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+    }
+    .brand-icon {
+      width: 44px;
+      height: 44px;
+      background: linear-gradient(135deg, #f59e0b, #ea580c);
+      border-radius: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.4rem;
+      box-shadow: 0 0 20px var(--accent-glow);
+    }
+    .brand-text h1 {
+      font-size: 1.35rem;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+      color: #fff;
+    }
+    .brand-text p {
+      font-size: 0.8rem;
+      color: var(--t2);
+      font-family: 'JetBrains Mono', monospace;
+    }
+
+    .hero-actions {
+      display: flex;
+      gap: 10px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
+    .btn {
+      padding: 8px 16px;
+      border-radius: 8px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.2s ease;
+      text-decoration: none;
+      border: 1px solid var(--card-border);
+      background: rgba(255, 255, 255, 0.05);
+      color: var(--t1);
+    }
+    .btn:hover {
+      background: rgba(255, 255, 255, 0.1);
+      border-color: rgba(255, 255, 255, 0.2);
+      transform: translateY(-1px);
+    }
+    .btn-primary {
+      background: linear-gradient(135deg, #f59e0b, #ea580c);
+      border: none;
+      color: #07090e;
+      font-weight: 700;
+      box-shadow: 0 0 15px rgba(245, 158, 11, 0.35);
+    }
+    .btn-primary:hover {
+      background: linear-gradient(135deg, #fbbf24, #f97316);
+      transform: translateY(-1px);
+      box-shadow: 0 0 20px rgba(245, 158, 11, 0.5);
+    }
+    .btn-emerald {
+      background: rgba(16, 185, 129, 0.15);
+      color: #34d399;
+      border-color: rgba(16, 185, 129, 0.3);
+    }
+    .btn-emerald:hover {
+      background: rgba(16, 185, 129, 0.25);
+    }
+
+    /* Stats Grid */
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 12px;
+      margin-top: 14px;
+    }
+    .stat-pill {
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid var(--card-border);
+      border-radius: 12px;
+      padding: 12px 16px;
+      backdrop-filter: blur(8px);
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+    .stat-pill .lbl {
+      font-size: 0.72rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--t2);
+      font-weight: 600;
+    }
+    .stat-pill .val {
+      font-size: 1.45rem;
+      font-weight: 800;
+      font-family: 'JetBrains Mono', monospace;
+      color: #fff;
+    }
+    .stat-pill .sub {
+      font-size: 0.7rem;
+      color: var(--t3);
+    }
+
+    /* Overall Progress Bar */
+    .overall-prog-wrap {
+      margin-top: 18px;
+    }
+    .prog-meta {
+      display: flex;
+      justify-content: space-between;
+      font-size: 0.78rem;
+      margin-bottom: 6px;
+      font-weight: 600;
+    }
+    .prog-track {
+      height: 10px;
+      background: rgba(255, 255, 255, 0.06);
+      border-radius: 999px;
+      overflow: hidden;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      position: relative;
+    }
+    .prog-fill {
+      height: 100%;
+      background: linear-gradient(90deg, #f59e0b, #10b981, #06b6d4);
+      border-radius: 999px;
+      width: 0%;
+      transition: width 0.4s ease;
+      box-shadow: 0 0 14px var(--accent-glow);
+    }
+
+    /* ─── TODAY'S FOCUS HERO CARD ─── */
+    .today-focus-card {
+      background: linear-gradient(135deg, rgba(245, 158, 11, 0.12) 0%, rgba(16, 185, 129, 0.05) 50%, rgba(15, 23, 42, 0.95) 100%);
+      border: 1px solid rgba(245, 158, 11, 0.35);
+      border-radius: 18px;
+      margin: 28px 0;
+      padding: 24px;
+      box-shadow: 0 0 35px rgba(245, 158, 11, 0.12);
+      position: relative;
+      overflow: hidden;
+    }
+    .today-focus-card::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0; height: 3px;
+      background: linear-gradient(90deg, #f59e0b, #10b981);
+    }
+    .tf-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-bottom: 18px;
+      padding-bottom: 14px;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.07);
+    }
+    .tf-title {
+      font-size: 1.4rem;
+      font-weight: 800;
+      color: #fff;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .tf-badges {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+    .badge {
+      font-size: 0.72rem;
+      font-weight: 700;
+      padding: 4px 10px;
+      border-radius: 999px;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+    .badge-today {
+      background: linear-gradient(135deg, #f59e0b, #ea580c);
+      color: #000;
+      animation: pulseGlow 2s infinite;
+    }
+    @keyframes pulseGlow {
+      0%, 100% { box-shadow: 0 0 0 0 rgba(245, 158, 11, 0.4); }
+      50% { box-shadow: 0 0 0 6px rgba(245, 158, 11, 0); }
+    }
+    .badge-phase {
+      background: rgba(139, 92, 246, 0.2);
+      color: #c084fc;
+      border: 1px solid rgba(139, 92, 246, 0.35);
+    }
+    .badge-body {
+      background: rgba(6, 182, 212, 0.2);
+      color: #38bdf8;
+      border: 1px solid rgba(6, 182, 212, 0.35);
+    }
+
+    /* Sections inside Day */
+    .tf-sections {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+    }
+    @media (max-width: 900px) {
+      .tf-sections { grid-template-columns: 1fr; }
+    }
+
+    .sec-box {
+      background: rgba(10, 15, 28, 0.75);
+      border: 1px solid var(--card-border);
+      border-radius: 14px;
+      padding: 16px;
+    }
+    .sec-title {
+      font-size: 0.88rem;
+      font-weight: 700;
+      color: var(--accent);
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .sec-sub {
+      font-size: 0.72rem;
+      color: var(--t2);
+      font-weight: 500;
+    }
+
+    /* Checklist Table / Rows */
+    .task-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      padding: 10px 12px;
+      margin-bottom: 8px;
+      background: rgba(255, 255, 255, 0.02);
+      border: 1px solid rgba(255, 255, 255, 0.05);
+      border-radius: 10px;
+      transition: all 0.15s ease;
+    }
+    .task-item:hover {
+      background: rgba(255, 255, 255, 0.04);
+      border-color: rgba(255, 255, 255, 0.1);
+    }
+    .task-item.done {
+      background: rgba(16, 185, 129, 0.08);
+      border-color: rgba(16, 185, 129, 0.25);
+    }
+    .task-chk {
+      appearance: none;
+      -webkit-appearance: none;
+      width: 20px;
+      height: 20px;
+      border: 2px solid var(--t3);
+      border-radius: 6px;
+      cursor: pointer;
+      flex-shrink: 0;
+      margin-top: 2px;
+      position: relative;
+      transition: all 0.2s;
+    }
+    .task-chk:checked {
+      background: var(--emerald);
+      border-color: var(--emerald);
+    }
+    .task-chk:checked::after {
+      content: '✓';
+      position: absolute;
+      color: #07090e;
+      font-weight: 900;
+      font-size: 13px;
+      top: 50%; left: 50%;
+      transform: translate(-50%, -50%);
+    }
+
+    .task-info {
+      flex: 1;
+    }
+    .task-name {
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: #fff;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+    .task-item.done .task-name {
+      text-decoration: line-through;
+      color: var(--t2);
+    }
+    .task-meta {
+      font-size: 0.72rem;
+      color: var(--t2);
+      margin-top: 3px;
+      font-family: 'JetBrains Mono', monospace;
+    }
+    .task-meta span {
+      color: #cbd5e1;
+      margin-right: 8px;
+    }
+
+    .yt-btn {
+      font-size: 0.68rem;
+      padding: 3px 8px;
+      border-radius: 6px;
+      background: rgba(239, 68, 68, 0.15);
+      color: #f87171;
+      border: 1px solid rgba(239, 68, 68, 0.3);
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      font-weight: 600;
+      transition: all 0.15s;
+    }
+    .yt-btn:hover {
+      background: rgba(239, 68, 68, 0.25);
+      border-color: #f87171;
+      color: #fff;
+    }
+
+    /* PG Diet Section */
+    .diet-box {
+      margin-top: 16px;
+      background: rgba(16, 185, 129, 0.05);
+      border: 1px solid rgba(16, 185, 129, 0.25);
+      border-radius: 14px;
+      padding: 16px;
+    }
+    .diet-header {
+      font-size: 0.88rem;
+      font-weight: 700;
+      color: #34d399;
+      margin-bottom: 10px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .diet-highlight {
+      font-size: 0.78rem;
+      font-weight: 600;
+      color: #fde047;
+      background: rgba(234, 179, 8, 0.12);
+      border: 1px solid rgba(234, 179, 8, 0.25);
+      padding: 6px 12px;
+      border-radius: 8px;
+      margin-bottom: 12px;
+    }
+    .diet-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 10px;
+    }
+    .diet-card {
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid var(--card-border);
+      border-radius: 10px;
+      padding: 10px;
+      font-size: 0.78rem;
+    }
+    .diet-card b {
+      color: #fff;
+      display: block;
+      margin-bottom: 3px;
+      font-size: 0.74rem;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+
+    /* Water Cups Widget */
+    .water-row {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-top: 12px;
+      flex-wrap: wrap;
+    }
+    .water-pill {
+      font-size: 0.72rem;
+      font-weight: 600;
+      padding: 5px 12px;
+      border-radius: 999px;
+      border: 1px solid rgba(6, 182, 212, 0.3);
+      background: rgba(6, 182, 212, 0.1);
+      color: #38bdf8;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    .water-pill.checked {
+      background: #06b6d4;
+      color: #07090e;
+      box-shadow: 0 0 10px rgba(6, 182, 212, 0.4);
+    }
+
+    /* ─── CONTROLS & FILTER TABS ─── */
+    .controls-wrap {
+      margin: 24px 0 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+    }
+    .filter-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .tabs-group {
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid var(--card-border);
+      padding: 4px;
+      border-radius: 10px;
+    }
+    .tab-btn {
+      padding: 6px 14px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      border-radius: 7px;
+      border: none;
+      background: transparent;
+      color: var(--t2);
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+    .tab-btn:hover {
+      color: #fff;
+      background: rgba(255, 255, 255, 0.06);
+    }
+    .tab-btn.active {
+      background: linear-gradient(135deg, #f59e0b, #ea580c);
+      color: #07090e;
+      font-weight: 700;
+      box-shadow: 0 0 10px rgba(245, 158, 11, 0.3);
+    }
+
+    .search-box {
+      position: relative;
+      min-width: 240px;
+    }
+    .search-input {
+      width: 100%;
+      padding: 8px 12px 8px 32px;
+      background: rgba(255, 255, 255, 0.04);
+      border: 1px solid var(--card-border);
+      border-radius: 8px;
+      color: #fff;
+      font-size: 0.8rem;
+      font-family: inherit;
+    }
+    .search-input:focus {
+      outline: none;
+      border-color: var(--accent);
+      background: rgba(255, 255, 255, 0.07);
+    }
+    .search-icon {
+      position: absolute;
+      left: 10px;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 0.8rem;
+      color: var(--t3);
+      pointer-events: none;
+    }
+
+    /* ─── 68 DAYS LIST ─── */
+    .days-grid {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      margin-bottom: 60px;
+    }
+
+    .day-card {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 14px;
+      overflow: hidden;
+      backdrop-filter: blur(12px);
+      transition: all 0.2s ease;
+    }
+    .day-card:hover {
+      border-color: rgba(255, 255, 255, 0.16);
+    }
+    .day-card.today-card {
+      border-color: rgba(245, 158, 11, 0.45);
+      box-shadow: 0 0 25px rgba(245, 158, 11, 0.1);
+    }
+    .day-card.completed-card {
+      border-color: rgba(16, 185, 129, 0.35);
+    }
+
+    .dc-header {
+      padding: 16px 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+      cursor: pointer;
+      background: rgba(255, 255, 255, 0.015);
+      border-bottom: 1px solid transparent;
+      transition: background 0.15s;
+    }
+    .dc-header:hover {
+      background: rgba(255, 255, 255, 0.035);
+    }
+    .day-card.expanded .dc-header {
+      border-bottom-color: var(--card-border);
+    }
+
+    .dc-left {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+    }
+    .dc-day-num {
+      font-family: 'JetBrains Mono', monospace;
+      font-weight: 800;
+      font-size: 1.15rem;
+      color: #fff;
+    }
+    .dc-title-group h3 {
+      font-size: 0.95rem;
+      font-weight: 700;
+      color: #fff;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .dc-date-str {
+      font-size: 0.72rem;
+      color: var(--t2);
+      font-family: 'JetBrains Mono', monospace;
+    }
+
+    .dc-right {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .dc-prog-mini {
+      width: 100px;
+      height: 6px;
+      background: rgba(255, 255, 255, 0.08);
+      border-radius: 999px;
+      overflow: hidden;
+    }
+    .dc-prog-mini-fill {
+      height: 100%;
+      background: var(--emerald);
+      width: 0%;
+      transition: width 0.3s;
+    }
+    .dc-pct {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.75rem;
+      font-weight: 700;
+      color: var(--t2);
+      min-width: 38px;
+      text-align: right;
+    }
+    .dc-toggle-icon {
+      font-size: 0.8rem;
+      color: var(--t2);
+      transition: transform 0.2s;
+    }
+    .day-card.expanded .dc-toggle-icon {
+      transform: rotate(180deg);
+    }
+
+    .dc-body {
+      padding: 20px;
+      display: none;
+    }
+    .day-card.expanded .dc-body {
+      display: block;
+    }
+
+    /* Note Textarea */
+    .note-box {
+      margin-top: 14px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .note-box label {
+      font-size: 0.72rem;
+      font-weight: 600;
+      color: var(--t2);
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+    .note-input {
+      width: 100%;
+      min-height: 55px;
+      padding: 8px 12px;
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid var(--card-border);
+      border-radius: 8px;
+      color: #fff;
+      font-family: inherit;
+      font-size: 0.8rem;
+      resize: vertical;
+    }
+    .note-input:focus {
+      outline: none;
+      border-color: var(--accent);
+    }
+
+    /* ─── MODAL / DRAWER (CURRICULUM & GUIDE) ─── */
+    .modal-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.8);
+      backdrop-filter: blur(8px);
+      z-index: 100;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+    .modal-overlay.open {
+      display: flex;
+    }
+    .modal-card {
+      background: #0f172a;
+      border: 1px solid var(--card-border);
+      border-radius: 18px;
+      max-width: 800px;
+      width: 100%;
+      max-height: 85vh;
+      overflow-y: auto;
+      padding: 26px;
+      box-shadow: 0 0 50px rgba(0,0,0,0.8);
+      position: relative;
+    }
+    .modal-close {
+      position: absolute;
+      top: 18px; right: 18px;
+      background: rgba(255, 255, 255, 0.08);
+      border: none;
+      color: #fff;
+      width: 32px; height: 32px;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 1rem;
+      font-weight: 700;
+    }
+    .modal-card h2 {
+      font-size: 1.3rem;
+      color: #fff;
+      margin-bottom: 12px;
+    }
+    .modal-card h3 {
+      font-size: 1rem;
+      color: var(--accent);
+      margin: 18px 0 8px;
+    }
+    .modal-card p, .modal-card li {
+      font-size: 0.84rem;
+      color: var(--t2);
+      line-height: 1.6;
+    }
+    .modal-card ul {
+      margin-left: 20px;
+      margin-bottom: 12px;
+    }
+
+    /* ─── TOAST ─── */
+    .toast {
+      position: fixed;
+      bottom: 24px;
+      right: 24px;
+      background: #1e293b;
+      color: #fff;
+      border: 1px solid var(--card-border);
+      padding: 10px 18px;
+      border-radius: 10px;
+      font-size: 0.82rem;
+      font-weight: 600;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+      transform: translateY(100px);
+      opacity: 0;
+      transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+      z-index: 1000;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .toast.show {
+      transform: translateY(0);
+      opacity: 1;
+    }
+    .toast.success { border-color: var(--emerald); background: rgba(16, 185, 129, 0.2); color: #34d399; }
+    .toast.error { border-color: var(--red); background: rgba(239, 68, 68, 0.2); color: #f87171; }
+
+    /* Hidden file input */
+    #importInput { display: none; }
+  </style>
+</head>
+
+<body>
+  <!-- HERO -->
+  <header class="hero">
+    <div class="wrap">
+      <div class="hero-top">
+        <div class="brand">
+          <div class="brand-icon">🏋️</div>
+          <div class="brand-text">
+            <h1>68-Day Transformation · Lean & Muscular</h1>
+            <p>Oct 25 – Dec 31, 2026 · 10kg Dumbbells + Calisthenics + PG Diet</p>
+          </div>
+        </div>
+
+        <div class="hero-actions">
+          <button class="btn btn-primary" onclick="jumpToToday()">⚡ Today's Mission</button>
+          <button class="btn" onclick="openGuideModal()">📖 Guide & Plates</button>
+          <button class="btn btn-emerald" onclick="exportProgress()">📥 Export Backup</button>
+          <label class="btn" for="importInput" style="cursor:pointer">📤 Import Backup</label>
+          <input type="file" id="importInput" accept=".json" onchange="importProgress(event)" />
+          <button class="btn" onclick="resetProgress()" title="Reset all progress">🔄 Reset</button>
+        </div>
+      </div>
+
+      <!-- Stats Bar -->
+      <div class="stats-bar">
+        <div class="stat-pill">
+          <div class="lbl">Current Day</div>
+          <div class="val" id="statCurDay">Day 1</div>
+          <div class="sub" id="statCurDate">Oct 25, 2026</div>
+        </div>
+        <div class="stat-pill">
+          <div class="lbl">Overall Completion</div>
+          <div class="val" id="statPct">0%</div>
+          <div class="sub" id="statTasksCount">0 / 0 tasks checked</div>
+        </div>
+        <div class="stat-pill">
+          <div class="lbl">Workouts Completed</div>
+          <div class="val" id="statDaysDone">0 / 68</div>
+          <div class="sub">100% finished days</div>
+        </div>
+        <div class="stat-pill">
+          <div class="lbl">Active Streak</div>
+          <div class="val" id="statStreak">0 🔥</div>
+          <div class="sub">Consecutive active days</div>
+        </div>
+      </div>
+
+      <!-- Overall Progress Bar -->
+      <div class="overall-prog-wrap">
+        <div class="prog-meta">
+          <span>Transformation Trajectory</span>
+          <span id="statBarPct">0% Completed</span>
+        </div>
+        <div class="prog-track">
+          <div class="prog-fill" id="mainProgFill"></div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- MAIN CONTAINER -->
+  <main class="wrap">
+    <!-- TODAY'S MISSION CARD -->
+    <div id="todayFocusContainer"></div>
+
+    <!-- CONTROLS & FILTER TABS -->
+    <div class="controls-wrap">
+      <div class="filter-row">
+        <!-- Phase Tabs -->
+        <div class="tabs-group" id="phaseTabs">
+          <button class="tab-btn active" onclick="setPhaseFilter(0)">All (68 Days)</button>
+          <button class="tab-btn" onclick="setPhaseFilter(1)">Phase 1: Foundation</button>
+          <button class="tab-btn" onclick="setPhaseFilter(2)">Phase 2: Hypertrophy</button>
+          <button class="tab-btn" onclick="setPhaseFilter(3)">Phase 3: Density</button>
+          <button class="tab-btn" onclick="setPhaseFilter(4)">Phase 4: V-Taper</button>
+        </div>
+
+        <!-- Search Box -->
+        <div class="search-box">
+          <span class="search-icon">🔍</span>
+          <input type="text" class="search-input" id="searchInput" placeholder="Search exercises, foods..." oninput="handleSearch(this.value)" />
+        </div>
+      </div>
+
+      <div class="filter-row">
+        <!-- Body Part Tabs -->
+        <div class="tabs-group" id="bodyTabs">
+          <button class="tab-btn active" onclick="setBodyFilter('all')">All Splits</button>
+          <button class="tab-btn" onclick="setBodyFilter('Push')">Push</button>
+          <button class="tab-btn" onclick="setBodyFilter('Pull')">Pull</button>
+          <button class="tab-btn" onclick="setBodyFilter('Legs')">Legs</button>
+          <button class="tab-btn" onclick="setBodyFilter('Upper')">Upper</button>
+          <button class="tab-btn" onclick="setBodyFilter('Recovery')">Recovery & Mobility</button>
+        </div>
+
+        <!-- Status Filter -->
+        <div class="tabs-group" id="statusTabs">
+          <button class="tab-btn active" onclick="setStatusFilter('all')">All Status</button>
+          <button class="tab-btn" onclick="setStatusFilter('pending')">Pending</button>
+          <button class="tab-btn" onclick="setStatusFilter('completed')">Completed</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- 68 DAYS LIST CONTAINER -->
+    <div class="days-grid" id="daysGrid"></div>
+  </main>
+
+  <!-- GUIDE MODAL -->
+  <div class="modal-overlay" id="guideModal" onclick="closeGuideModal(event)">
+    <div class="modal-card" onclick="event.stopPropagation()">
+      <button class="modal-close" onclick="closeGuideModal()">✕</button>
+      <h2>📖 68-Day Transformation & PG Survival Guide</h2>
+      <p>Everything you need to know to pack on lean muscle and shed fat in a PG room with limited weights.</p>
+
+      <h3>⚖️ Dumbbell Plate Configuration (Max 10kg)</h3>
+      <p>You have 2 handles, 4 × 2kg plates, and 3kg plates:</p>
+      <ul>
+        <li><b>Light Pair (4kg – 5kg each)</b>: Ideal for Strict Lateral Raises, Rear Delt Flyes, and Arnold Press.</li>
+        <li><b>Medium Pair (7kg – 8kg each)</b>: Great for Bicep Curls, Floor Press, and Walking Lunges.</li>
+        <li><b>Heavy Loaded Single (10kg+)</b>: Put 2kg + 3kg on both sides of a single handle. Perfect for Goblet Squats, Bulgarian Split Squats, Single-Arm DB Rows, and Overhead Tricep Extensions!</li>
+      </ul>
+
+      <h3>🧬 The Science of Hypertrophy with 10kg Weights</h3>
+      <p>When you cannot add 20kg of metal, you grow muscle through <b>Mechanical Tension & Muscle Fiber Recruitment</b>:</p>
+      <ul>
+        <li><b>3-Second Eccentric Tempo</b>: Lower every weight slowly (count 1... 2... 3...). This forces the muscle to withstand tension 3x longer than ordinary gym gym-goers!</li>
+        <li><b>1-Second Peak Contraction</b>: Pause at the top of curls and rows to completely eliminate momentum.</li>
+        <li><b>Unilateral Leverage</b>: Bulgarian split squats and single-arm rows place all load onto ONE muscle. A 10kg single-arm row provides more lats stimulus than a sloppy 25kg barbell row.</li>
+        <li><b>Progressive Calisthenics</b>: Elevate your feet on your PG bed during pushups to shift 75% of your total bodyweight onto your upper chest and shoulders.</li>
+      </ul>
+
+      <h3>🍳 PG Nutrition & Supplement Protocol</h3>
+      <ul>
+        <li><b>Sunday Chicken Special</b>: On Sunday, PG serves chicken dinner! Skip the 2 eggs on Sunday and enjoy the chicken feast.</li>
+        <li><b>Monday–Saturday Eggs</b>: 2 whole boiled eggs daily (₹7 each = ₹14/day). Eat at breakfast or evening snack.</li>
+        <li><b>Whey Protein</b>: 1 scoop (24g–25g protein) post-workout or in the evening. Keep your shaker in your room.</li>
+        <li><b>Creatine Monohydrate</b>: 3g–5g daily. Take it every day at the same time with water or meals. Fully saturates your muscle cells by Week 2 for increased strength and fuller muscles.</li>
+        <li><b>Water Rule (3.5L – 4.0L)</b>: Mandatory with creatine to prevent cramps and maximize muscle cellular volumization.</li>
+        <li><b>Cheap Protein Boosters</b>: Soya chunks (Nutrela ₹45/box), Roasted Bhuna Chana (₹50/pack), Roasted Peanuts, Curd/Dahi (₹15 packet), and Sattu powder.</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- TOAST NOTIFICATION -->
+  <div class="toast" id="toast"></div>
+
+  <!-- LOAD WORKOUT DATA -->
+  <script src="workout_data.js"></script>
+
+  <!-- DASHBOARD CONTROLLER -->
+  <script>
+    // ════════════════════════════════════════════════════════════════════
+    // STATE MANAGEMENT & LOCAL STORAGE
+    // ════════════════════════════════════════════════════════════════════
+    const STORAGE_KEY = 'wt_progress_v1';
+    let progressState = {
+      checks: {}, // e.g. { 'm_1_1': true, 'e_1_1': true, 'n_1_egg': true }
+      water: {},  // e.g. { 'w_1_1': true, 'w_1_2': true }
+      notes: {}   // e.g. { 'note_1': 'Did 14 reps on split squat' }
+    };
+
+    let activePhaseFilter = 0; // 0 = all
+    let activeBodyFilter = 'all';
+    let activeStatusFilter = 'all';
+    let searchQuery = '';
+
+    // Load state from localStorage
+    function loadState() {
+      try {
+        const saved = localStorage.getItem(STORAGE_KEY);
+        if (saved) {
+          progressState = JSON.parse(saved);
+          if (!progressState.checks) progressState.checks = {};
+          if (!progressState.water) progressState.water = {};
+          if (!progressState.notes) progressState.notes = {};
+        }
+      } catch (e) {
+        console.error('Failed to load localStorage:', e);
+      }
+    }
+
+    // Save state to localStorage
+    function saveState() {
+      try {
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(progressState));
+        // Try optional background sync with server if running locally
+        syncWithServer();
+      } catch (e) {
+        console.error('Failed to save to localStorage:', e);
+      }
+    }
+
+    // Optional sync with local server /api/progress if active
+    async function syncWithServer() {
+      try {
+        if (window.location.protocol.startsWith('http')) {
+          await fetch('/api/progress', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(progressState)
+          });
+        }
+      } catch (e) {
+        // Silently fallback to pure client-side localStorage
+      }
+    }
+
+    // Detect current day based on local clock
+    function getTodayDayNum() {
+      const todayStr = new Date().toISOString().slice(0, 10);
+      const match = WORKOUT_PLAN.find(d => d.date === todayStr);
+      if (match) return match.day;
+      // Default fallback: if before start date, return 1; if after, return 68
+      if (todayStr < WORKOUT_PLAN[0].date) return 1;
+      return 1;
+    }
+
+    // Toggle a task checkbox
+    function toggleTask(id) {
+      progressState.checks[id] = !progressState.checks[id];
+      saveState();
+      updateAll();
+      showToast(progressState.checks[id] ? '✅ Task Completed!' : '↩️ Task Unchecked', 'success');
+    }
+
+    // Toggle water cup
+    function toggleWater(day, liter) {
+      const key = `w_${day}_${liter}`;
+      progressState.water[key] = !progressState.water[key];
+      saveState();
+      updateAll();
+    }
+
+    // Save notes
+    function saveNote(day, text) {
+      progressState.notes[`note_${day}`] = text;
+      saveState();
+    }
+
+    // Check if task is done
+    function isDone(id) {
+      return !!progressState.checks[id];
+    }
+
+    // Calculate day completion percentage
+    function getDayStats(dayObj) {
+      let total = 0;
+      let completed = 0;
+
+      // Morning exercises
+      dayObj.morning.forEach(ex => {
+        total++;
+        if (isDone(ex.id)) completed++;
+      });
+
+      // Evening routine
+      if (dayObj.evening.core) { total++; if (isDone(dayObj.evening.core.id)) completed++; }
+      if (dayObj.evening.mobility) { total++; if (isDone(dayObj.evening.mobility.id)) completed++; }
+      if (dayObj.evening.cardio) { total++; if (isDone(dayObj.evening.cardio.id)) completed++; }
+
+      // Nutrition checks
+      total += 4; // Eggs/Chicken, Whey, Creatine, Snack booster
+      if (isDone(`n_${dayObj.day}_prot`)) completed++;
+      if (isDone(`n_${dayObj.day}_whey`)) completed++;
+      if (isDone(`n_${dayObj.day}_creatine`)) completed++;
+      if (isDone(`n_${dayObj.day}_snack`)) completed++;
+
+      const pct = total > 0 ? Math.round((completed / total) * 100) : 0;
+      return { total, completed, pct, isFullyDone: completed === total && total > 0 };
+    }
+
+    // ════════════════════════════════════════════════════════════════════
+    // RENDERING LOGIC
+    // ════════════════════════════════════════════════════════════════════
+
+    function renderTodayFocus() {
+      const todayNum = getTodayDayNum();
+      const day = WORKOUT_PLAN.find(d => d.day === todayNum) || WORKOUT_PLAN[0];
+      const stats = getDayStats(day);
+      const isSunday = day.nutrition.isSunday;
+
+      const container = document.getElementById('todayFocusContainer');
+      container.innerHTML = `
+        <div class="today-focus-card" id="todayCardAnchor">
+          <div class="tf-header">
+            <div>
+              <div class="tf-title">
+                <span>⚡ Day ${day.day} · ${day.title}</span>
+              </div>
+              <div style="font-size:0.8rem;color:var(--t2);margin-top:4px;font-family:'JetBrains Mono',monospace;">
+                ${day.weekday}, ${day.date} · ${day.tempoNote}
+              </div>
+            </div>
+            <div class="tf-badges">
+              <span class="badge badge-today">🔥 TODAY'S MISSION</span>
+              <span class="badge badge-phase">${day.phaseName.split('—')[0].trim()}</span>
+              <span class="badge badge-body">${day.bodyPart} Split</span>
+              <span class="badge" style="background:rgba(16,185,129,0.2);color:#34d399;font-family:'JetBrains Mono'">${stats.pct}% Done</span>
+            </div>
+          </div>
+
+          <div class="tf-sections">
+            <!-- Morning Workout -->
+            <div class="sec-box">
+              <div class="sec-title">
+                <span>☀️ Morning Session (60 mins)</span>
+                <span class="sec-sub">Strength & Hypertrophy</span>
+              </div>
+              ${day.morning.map(ex => `
+                <div class="task-item ${isDone(ex.id) ? 'done' : ''}">
+                  <input type="checkbox" class="task-chk" ${isDone(ex.id) ? 'checked' : ''} onchange="toggleTask('${ex.id}')" />
+                  <div class="task-info">
+                    <div class="task-name">
+                      <span>${ex.name}</span>
+                      ${ex.yt ? `<a href="${ex.yt}" target="_blank" rel="noopener noreferrer" class="yt-btn">▶ Form Video</a>` : ''}
+                    </div>
+                    <div class="task-meta">
+                      <span>${ex.sets} sets × ${ex.reps}</span>
+                      <span>⚖️ ${ex.load}</span>
+                      <span>⏱️ ${ex.tempo}</span>
+                    </div>
+                  </div>
+                </div>
+              `).join('')}
+            </div>
+
+            <!-- Evening Session & Core -->
+            <div class="sec-box">
+              <div class="sec-title">
+                <span>🌙 Evening Session (30 mins)</span>
+                <span class="sec-sub">Core, Posture & Recovery</span>
+              </div>
+
+              ${day.evening.core ? `
+                <div class="task-item ${isDone(day.evening.core.id) ? 'done' : ''}">
+                  <input type="checkbox" class="task-chk" ${isDone(day.evening.core.id) ? 'checked' : ''} onchange="toggleTask('${day.evening.core.id}')" />
+                  <div class="task-info">
+                    <div class="task-name">
+                      <span>🧘 ${day.evening.core.name}</span>
+                      ${day.evening.core.yt ? `<a href="${day.evening.core.yt}" target="_blank" rel="noopener noreferrer" class="yt-btn">▶ Form Video</a>` : ''}
+                    </div>
+                    <div class="task-meta"><span>${day.evening.core.target}</span></div>
+                  </div>
+                </div>
+              ` : ''}
+
+              ${day.evening.mobility ? `
+                <div class="task-item ${isDone(day.evening.mobility.id) ? 'done' : ''}">
+                  <input type="checkbox" class="task-chk" ${isDone(day.evening.mobility.id) ? 'checked' : ''} onchange="toggleTask('${day.evening.mobility.id}')" />
+                  <div class="task-info">
+                    <div class="task-name">
+                      <span>🦴 ${day.evening.mobility.name}</span>
+                      ${day.evening.mobility.yt ? `<a href="${day.evening.mobility.yt}" target="_blank" rel="noopener noreferrer" class="yt-btn">▶ Form Video</a>` : ''}
+                    </div>
+                    <div class="task-meta"><span>${day.evening.mobility.target}</span></div>
+                  </div>
+                </div>
+              ` : ''}
+
+              ${day.evening.cardio ? `
+                <div class="task-item ${isDone(day.evening.cardio.id) ? 'done' : ''}">
+                  <input type="checkbox" class="task-chk" ${isDone(day.evening.cardio.id) ? 'checked' : ''} onchange="toggleTask('${day.evening.cardio.id}')" />
+                  <div class="task-info">
+                    <div class="task-name"><span>🚶 ${day.evening.cardio.name}</span></div>
+                    <div class="task-meta"><span>${day.evening.cardio.target}</span></div>
+                  </div>
+                </div>
+              ` : ''}
+
+              <!-- Daily Notes for Today -->
+              <div class="note-box">
+                <label>📝 Today's Notes & Reps Log</label>
+                <textarea class="note-input" placeholder="Record weights used, reps achieved, or energy levels..." onchange="saveNote(${day.day}, this.value)">${progressState.notes[`note_${day.day}`] || ''}</textarea>
+              </div>
+            </div>
+          </div>
+
+          <!-- PG Nutrition Protocol for Today -->
+          <div class="diet-box">
+            <div class="diet-header">
+              <span>🥗 PG Nutrition & Supplement Protocol</span>
+              <span style="font-family:'JetBrains Mono';font-size:0.75rem;color:#38bdf8;">Target Protein: ${day.nutrition.estProtein}</span>
+            </div>
+            <div class="diet-highlight">${day.nutrition.highlight}</div>
+
+            <div class="diet-grid">
+              <div class="diet-card">
+                <b>Breakfast (PG)</b>
+                <div>${day.nutrition.breakfast}</div>
+              </div>
+              <div class="diet-card">
+                <b>Lunch (PG Mess)</b>
+                <div>${day.nutrition.lunch}</div>
+              </div>
+              <div class="diet-card">
+                <b>Evening Snack</b>
+                <div>${day.nutrition.snack}</div>
+              </div>
+              <div class="diet-card">
+                <b>Dinner (PG Mess)</b>
+                <div>${day.nutrition.dinner}</div>
+              </div>
+            </div>
+
+            <!-- Nutrition Checklist -->
+            <div style="margin-top:14px;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:8px;">
+              <label class="task-item" style="cursor:pointer;margin:0;">
+                <input type="checkbox" class="task-chk" ${isDone(`n_${day.day}_prot`) ? 'checked' : ''} onchange="toggleTask('n_${day.day}_prot')" />
+                <div class="task-info"><div class="task-name">${isSunday ? '🍗 PG Chicken Feast' : '🥚 2 Boiled Eggs'}</div></div>
+              </label>
+
+              <label class="task-item" style="cursor:pointer;margin:0;">
+                <input type="checkbox" class="task-chk" ${isDone(`n_${day.day}_whey`) ? 'checked' : ''} onchange="toggleTask('n_${day.day}_whey')" />
+                <div class="task-info"><div class="task-name">🥤 1 Scoop Whey Protein</div></div>
+              </label>
+
+              <label class="task-item" style="cursor:pointer;margin:0;">
+                <input type="checkbox" class="task-chk" ${isDone(`n_${day.day}_creatine`) ? 'checked' : ''} onchange="toggleTask('n_${day.day}_creatine')" />
+                <div class="task-info"><div class="task-name">⚡ 3g–5g Creatine Monohydrate</div></div>
+              </label>
+
+              <label class="task-item" style="cursor:pointer;margin:0;">
+                <input type="checkbox" class="task-chk" ${isDone(`n_${day.day}_snack`) ? 'checked' : ''} onchange="toggleTask('n_${day.day}_snack')" />
+                <div class="task-info"><div class="task-name">🥜 Daily Protein Booster Snack</div></div>
+              </label>
+            </div>
+
+            <!-- Hydration Tracker -->
+            <div class="water-row">
+              <span style="font-size:0.75rem;font-weight:700;color:var(--t2);">💧 Hydration (3.5L–4L):</span>
+              <button class="water-pill ${progressState.water[`w_${day.day}_1`] ? 'checked' : ''}" onclick="toggleWater(${day.day}, 1)">1.0 Liter</button>
+              <button class="water-pill ${progressState.water[`w_${day.day}_2`] ? 'checked' : ''}" onclick="toggleWater(${day.day}, 2)">2.0 Liters</button>
+              <button class="water-pill ${progressState.water[`w_${day.day}_3`] ? 'checked' : ''}" onclick="toggleWater(${day.day}, 3)">3.0 Liters</button>
+              <button class="water-pill ${progressState.water[`w_${day.day}_4`] ? 'checked' : ''}" onclick="toggleWater(${day.day}, 4)">4.0 Liters ✨</button>
+            </div>
+          </div>
+        </div>
+      `;
+    }
+
+    function renderDaysGrid() {
+      const todayNum = getTodayDayNum();
+      const grid = document.getElementById('daysGrid');
+
+      // Filter days
+      const filtered = WORKOUT_PLAN.filter(d => {
+        // Phase Filter
+        if (activePhaseFilter !== 0 && d.phase !== activePhaseFilter) return false;
+        // Body Part Filter
+        if (activeBodyFilter !== 'all' && d.bodyPart.toLowerCase() !== activeBodyFilter.toLowerCase()) return false;
+        // Status Filter
+        const stats = getDayStats(d);
+        if (activeStatusFilter === 'completed' && !stats.isFullyDone) return false;
+        if (activeStatusFilter === 'pending' && stats.isFullyDone) return false;
+        // Search Query
+        if (searchQuery) {
+          const q = searchQuery.toLowerCase();
+          const matchTitle = d.title.toLowerCase().includes(q);
+          const matchBody = d.bodyPart.toLowerCase().includes(q);
+          const matchEx = d.morning.some(e => e.name.toLowerCase().includes(q));
+          const matchDiet = d.nutrition.highlight.toLowerCase().includes(q);
+          if (!matchTitle && !matchBody && !matchEx && !matchDiet) return false;
+        }
+        return true;
+      });
+
+      if (filtered.length === 0) {
+        grid.innerHTML = `<div style="text-align:center;padding:60px 20px;color:var(--t2)">No days matched the selected filters.</div>`;
+        return;
+      }
+
+      grid.innerHTML = filtered.map(day => {
+        const stats = getDayStats(day);
+        const isToday = day.day === todayNum;
+        const isSunday = day.nutrition.isSunday;
+
+        return `
+          <div class="day-card ${isToday ? 'today-card expanded' : ''} ${stats.isFullyDone ? 'completed-card' : ''}" id="dayCard_${day.day}">
+            <!-- Header -->
+            <div class="dc-header" onclick="toggleDayCard(${day.day})">
+              <div class="dc-left">
+                <span class="dc-day-num">#${day.day}</span>
+                <div class="dc-title-group">
+                  <h3>
+                    <span>${day.title}</span>
+                    ${isToday ? `<span class="badge badge-today" style="font-size:0.65rem;">TODAY</span>` : ''}
+                    <span class="badge badge-phase" style="font-size:0.65rem;">${day.bodyPart}</span>
+                  </h3>
+                  <div class="dc-date-str">${day.weekday}, ${day.date} · W${day.week} · ${day.phaseName.split('—')[0].trim()}</div>
+                </div>
+              </div>
+
+              <div class="dc-right">
+                <div class="dc-prog-mini">
+                  <div class="dc-prog-mini-fill" style="width:${stats.pct}%"></div>
+                </div>
+                <span class="dc-pct">${stats.pct}%</span>
+                <span class="dc-toggle-icon">▼</span>
+              </div>
+            </div>
+
+            <!-- Body (Collapsible) -->
+            <div class="dc-body">
+              <div class="tf-sections">
+                <!-- Morning -->
+                <div class="sec-box">
+                  <div class="sec-title">
+                    <span>☀️ Morning Session (60 mins)</span>
+                    <span class="sec-sub">${day.tempoNote}</span>
+                  </div>
+                  ${day.morning.map(ex => `
+                    <div class="task-item ${isDone(ex.id) ? 'done' : ''}">
+                      <input type="checkbox" class="task-chk" ${isDone(ex.id) ? 'checked' : ''} onchange="toggleTask('${ex.id}')" />
+                      <div class="task-info">
+                        <div class="task-name">
+                          <span>${ex.name}</span>
+                          ${ex.yt ? `<a href="${ex.yt}" target="_blank" rel="noopener noreferrer" class="yt-btn">▶ Form Video</a>` : ''}
+                        </div>
+                        <div class="task-meta">
+                          <span>${ex.sets} sets × ${ex.reps}</span>
+                          <span>⚖️ ${ex.load}</span>
+                          <span>⏱️ ${ex.tempo}</span>
+                        </div>
+                      </div>
+                    </div>
+                  `).join('')}
+                </div>
+
+                <!-- Evening -->
+                <div class="sec-box">
+                  <div class="sec-title">
+                    <span>🌙 Evening Session (30 mins)</span>
+                    <span class="sec-sub">Core, Mobility & Recovery</span>
+                  </div>
+
+                  ${day.evening.core ? `
+                    <div class="task-item ${isDone(day.evening.core.id) ? 'done' : ''}">
+                      <input type="checkbox" class="task-chk" ${isDone(day.evening.core.id) ? 'checked' : ''} onchange="toggleTask('${day.evening.core.id}')" />
+                      <div class="task-info">
+                        <div class="task-name">
+                          <span>🧘 ${day.evening.core.name}</span>
+                          ${day.evening.core.yt ? `<a href="${day.evening.core.yt}" target="_blank" rel="noopener noreferrer" class="yt-btn">▶ Form Video</a>` : ''}
+                        </div>
+                        <div class="task-meta"><span>${day.evening.core.target}</span></div>
+                      </div>
+                    </div>
+                  ` : ''}
+
+                  ${day.evening.mobility ? `
+                    <div class="task-item ${isDone(day.evening.mobility.id) ? 'done' : ''}">
+                      <input type="checkbox" class="task-chk" ${isDone(day.evening.mobility.id) ? 'checked' : ''} onchange="toggleTask('${day.evening.mobility.id}')" />
+                      <div class="task-info">
+                        <div class="task-name">
+                          <span>🦴 ${day.evening.mobility.name}</span>
+                          ${day.evening.mobility.yt ? `<a href="${day.evening.mobility.yt}" target="_blank" rel="noopener noreferrer" class="yt-btn">▶ Form Video</a>` : ''}
+                        </div>
+                        <div class="task-meta"><span>${day.evening.mobility.target}</span></div>
+                      </div>
+                    </div>
+                  ` : ''}
+
+                  ${day.evening.cardio ? `
+                    <div class="task-item ${isDone(day.evening.cardio.id) ? 'done' : ''}">
+                      <input type="checkbox" class="task-chk" ${isDone(day.evening.cardio.id) ? 'checked' : ''} onchange="toggleTask('${day.evening.cardio.id}')" />
+                      <div class="task-info">
+                        <div class="task-name"><span>🚶 ${day.evening.cardio.name}</span></div>
+                        <div class="task-meta"><span>${day.evening.cardio.target}</span></div>
+                      </div>
+                    </div>
+                  ` : ''}
+
+                  <div class="note-box">
+                    <label>📝 Day ${day.day} Notes & Reps</label>
+                    <textarea class="note-input" placeholder="Record weights, reps, or thoughts..." onchange="saveNote(${day.day}, this.value)">${progressState.notes[`note_${day.day}`] || ''}</textarea>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Nutrition -->
+              <div class="diet-box">
+                <div class="diet-header">
+                  <span>🥗 PG Diet · ${day.nutrition.highlight}</span>
+                  <span style="font-family:'JetBrains Mono';font-size:0.75rem;color:#38bdf8;">${day.nutrition.estProtein}</span>
+                </div>
+                <div class="diet-grid">
+                  <div class="diet-card"><b>Breakfast</b><div>${day.nutrition.breakfast}</div></div>
+                  <div class="diet-card"><b>Lunch</b><div>${day.nutrition.lunch}</div></div>
+                  <div class="diet-card"><b>Snack</b><div>${day.nutrition.snack}</div></div>
+                  <div class="diet-card"><b>Dinner</b><div>${day.nutrition.dinner}</div></div>
+                </div>
+
+                <div style="margin-top:10px;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:8px;">
+                  <label class="task-item" style="cursor:pointer;margin:0;">
+                    <input type="checkbox" class="task-chk" ${isDone(`n_${day.day}_prot`) ? 'checked' : ''} onchange="toggleTask('n_${day.day}_prot')" />
+                    <div class="task-info"><div class="task-name">${isSunday ? '🍗 PG Chicken Feast' : '🥚 2 Boiled Eggs'}</div></div>
+                  </label>
+                  <label class="task-item" style="cursor:pointer;margin:0;">
+                    <input type="checkbox" class="task-chk" ${isDone(`n_${day.day}_whey`) ? 'checked' : ''} onchange="toggleTask('n_${day.day}_whey')" />
+                    <div class="task-info"><div class="task-name">🥤 1 Scoop Whey</div></div>
+                  </label>
+                  <label class="task-item" style="cursor:pointer;margin:0;">
+                    <input type="checkbox" class="task-chk" ${isDone(`n_${day.day}_creatine`) ? 'checked' : ''} onchange="toggleTask('n_${day.day}_creatine')" />
+                    <div class="task-info"><div class="task-name">⚡ 3g–5g Creatine</div></div>
+                  </label>
+                  <label class="task-item" style="cursor:pointer;margin:0;">
+                    <input type="checkbox" class="task-chk" ${isDone(`n_${day.day}_snack`) ? 'checked' : ''} onchange="toggleTask('n_${day.day}_snack')" />
+                    <div class="task-info"><div class="task-name">🥜 Protein Snack</div></div>
+                  </label>
+                </div>
+              </div>
+            </div>
+          </div>
+        `;
+      }).join('');
+    }
+
+    function toggleDayCard(dayNum) {
+      const card = document.getElementById(`dayCard_${dayNum}`);
+      if (card) {
+        card.classList.toggle('expanded');
+      }
+    }
+
+    function updateStatsHeader() {
+      const todayNum = getTodayDayNum();
+      const todayObj = WORKOUT_PLAN.find(d => d.day === todayNum) || WORKOUT_PLAN[0];
+
+      document.getElementById('statCurDay').textContent = `Day ${todayObj.day}`;
+      document.getElementById('statCurDate').textContent = `${todayObj.weekday.slice(0,3)}, ${todayObj.date}`;
+
+      let totalTasks = 0;
+      let totalCompleted = 0;
+      let days100 = 0;
+
+      WORKOUT_PLAN.forEach(d => {
+        const s = getDayStats(d);
+        totalTasks += s.total;
+        totalCompleted += s.completed;
+        if (s.isFullyDone) days100++;
+      });
+
+      const overallPct = totalTasks > 0 ? Math.round((totalCompleted / totalTasks) * 100) : 0;
+      document.getElementById('statPct').textContent = `${overallPct}%`;
+      document.getElementById('statTasksCount').textContent = `${totalCompleted} / ${totalTasks} tasks checked`;
+      document.getElementById('statDaysDone').textContent = `${days100} / ${WORKOUT_PLAN.length}`;
+      document.getElementById('mainProgFill').style.width = `${overallPct}%`;
+      document.getElementById('statBarPct').textContent = `${overallPct}% Completed`;
+
+      // Streak calculation
+      let streak = 0;
+      for (let i = 0; i < WORKOUT_PLAN.length; i++) {
+        const s = getDayStats(WORKOUT_PLAN[i]);
+        if (s.completed > 0) {
+          streak++;
+        } else if (WORKOUT_PLAN[i].day >= todayNum) {
+          break;
+        }
+      }
+      document.getElementById('statStreak').textContent = `${streak} 🔥`;
+    }
+
+    function updateAll() {
+      renderTodayFocus();
+      renderDaysGrid();
+      updateStatsHeader();
+    }
+
+    // ════════════════════════════════════════════════════════════════════
+    // FILTER CONTROLLERS
+    // ════════════════════════════════════════════════════════════════════
+    function setPhaseFilter(phase) {
+      activePhaseFilter = phase;
+      document.querySelectorAll('#phaseTabs .tab-btn').forEach((b, idx) => {
+        b.classList.toggle('active', idx === phase);
+      });
+      renderDaysGrid();
+    }
+
+    function setBodyFilter(bodyPart) {
+      activeBodyFilter = bodyPart;
+      document.querySelectorAll('#bodyTabs .tab-btn').forEach(b => {
+        b.classList.toggle('active', b.textContent.toLowerCase().includes(bodyPart.toLowerCase()) || (bodyPart === 'all' && b.textContent.includes('All')));
+      });
+      renderDaysGrid();
+    }
+
+    function setStatusFilter(status) {
+      activeStatusFilter = status;
+      document.querySelectorAll('#statusTabs .tab-btn').forEach(b => {
+        b.classList.toggle('active', b.textContent.toLowerCase() === status.toLowerCase() || (status === 'all' && b.textContent.includes('All')));
+      });
+      renderDaysGrid();
+    }
+
+    function handleSearch(val) {
+      searchQuery = val.trim();
+      renderDaysGrid();
+    }
+
+    function jumpToToday() {
+      const el = document.getElementById('todayCardAnchor');
+      if (el) {
+        el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }
+    }
+
+    // ════════════════════════════════════════════════════════════════════
+    // EXPORT / IMPORT BACKUP
+    // ════════════════════════════════════════════════════════════════════
+    function exportProgress() {
+      const dataStr = 'data:text/json;charset=utf-8,' + encodeURIComponent(JSON.stringify(progressState, null, 2));
+      const a = document.createElement('a');
+      a.setAttribute('href', dataStr);
+      a.setAttribute('download', `workout_progress_${new Date().toISOString().slice(0, 10)}.json`);
+      document.body.appendChild(a);
+      a.click();
+      a.remove();
+      showToast('📥 Backup exported successfully!', 'success');
+    }
+
+    function importProgress(event) {
+      const file = event.target.files[0];
+      if (!file) return;
+      const reader = new FileReader();
+      reader.onload = function(e) {
+        try {
+          const parsed = JSON.parse(e.target.result);
+          if (parsed && typeof parsed === 'object') {
+            progressState = parsed;
+            saveState();
+            updateAll();
+            showToast('📤 Progress imported successfully!', 'success');
+          }
+        } catch (err) {
+          showToast('❌ Invalid JSON backup file', 'error');
+        }
+      };
+      reader.readAsText(file);
+      event.target.value = ''; // Reset input
+    }
+
+    function resetProgress() {
+      if (confirm('Are you sure you want to reset all workout progress? This cannot be undone unless you have an exported backup.')) {
+        progressState = { checks: {}, water: {}, notes: {} };
+        saveState();
+        updateAll();
+        showToast('🔄 Progress reset.', 'success');
+      }
+    }
+
+    // Guide Modal
+    function openGuideModal() {
+      document.getElementById('guideModal').classList.add('open');
+    }
+    function closeGuideModal(e) {
+      if (!e || e.target.id === 'guideModal' || e.target.classList.contains('modal-close')) {
+        document.getElementById('guideModal').classList.remove('open');
+      }
+    }
+
+    // Toast
+    function showToast(msg, type = '') {
+      const t = document.getElementById('toast');
+      t.textContent = msg;
+      t.className = `toast show ${type}`;
+      setTimeout(() => {
+        t.className = 'toast';
+      }, 3000);
+    }
+
+    // ════════════════════════════════════════════════════════════════════
+    // INITIALIZATION
+    // ════════════════════════════════════════════════════════════════════
+    document.addEventListener('DOMContentLoaded', () => {
+      loadState();
+      updateAll();
+    });
+  </script>
+</body>
+</html>
+'''
+
+with open('/home/praveen/personal-projects/workout-tracker/index.html', 'w') as f:
+    f.write(html_content)
+
+print("Generated index.html successfully!")
