@@ -836,10 +836,15 @@ html_content = r'''<!DOCTYPE html>
           <div class="val" id="statPct">0%</div>
           <div class="sub" id="statTasksCount">0 / 0 tasks checked</div>
         </div>
-        <div class="stat-pill">
+        <div class="stat-pill" onclick="setStatusFilter('completed')" style="cursor:pointer" title="Filter completed days">
           <div class="lbl">Workouts Completed</div>
           <div class="val" id="statDaysDone">0 / 68</div>
           <div class="sub">100% finished days</div>
+        </div>
+        <div class="stat-pill" onclick="setStatusFilter('skipped')" style="cursor:pointer" title="Filter days with skipped workouts">
+          <div class="lbl">Workouts Skipped</div>
+          <div class="val" id="statSkipped" style="color: var(--orange);">0</div>
+          <div class="sub" id="statSkippedSub">Unticked in past days</div>
         </div>
         <div class="stat-pill">
           <div class="lbl">Active Streak</div>
@@ -901,6 +906,7 @@ html_content = r'''<!DOCTYPE html>
           <button class="tab-btn active" onclick="setStatusFilter('all')">All Status</button>
           <button class="tab-btn" onclick="setStatusFilter('pending')">Pending</button>
           <button class="tab-btn" onclick="setStatusFilter('completed')">Completed</button>
+          <button class="tab-btn" onclick="setStatusFilter('skipped')">Skipped</button>
         </div>
       </div>
     </div>
@@ -1011,12 +1017,26 @@ html_content = r'''<!DOCTYPE html>
 
     // Detect current day based on local clock
     function getTodayDayNum() {
-      const todayStr = new Date().toISOString().slice(0, 10);
+      const now = new Date();
+      const todayStr = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}`;
       const match = WORKOUT_PLAN.find(d => d.date === todayStr);
       if (match) return match.day;
-      // Default fallback: if before start date, return 1; if after, return 68
+      // Default fallback: if before start date, return 1; if after, return 68 (or length+1)
       if (todayStr < WORKOUT_PLAN[0].date) return 1;
+      if (todayStr > WORKOUT_PLAN[WORKOUT_PLAN.length - 1].date) return WORKOUT_PLAN.length + 1;
       return 1;
+    }
+
+    // Calculate skipped workout exercises for a day
+    function getDaySkippedWorkouts(dayObj) {
+      let skipped = 0;
+      dayObj.morning.forEach(ex => {
+        if (!isDone(ex.id)) skipped++;
+      });
+      if (dayObj.evening.core && !isDone(dayObj.evening.core.id)) skipped++;
+      if (dayObj.evening.mobility && !isDone(dayObj.evening.mobility.id)) skipped++;
+      if (dayObj.evening.cardio && !isDone(dayObj.evening.cardio.id)) skipped++;
+      return skipped;
     }
 
     // Toggle a task checkbox
@@ -1256,6 +1276,10 @@ html_content = r'''<!DOCTYPE html>
         const stats = getDayStats(d);
         if (activeStatusFilter === 'completed' && !stats.isFullyDone) return false;
         if (activeStatusFilter === 'pending' && stats.isFullyDone) return false;
+        if (activeStatusFilter === 'skipped') {
+          if (d.day >= todayNum) return false;
+          if (getDaySkippedWorkouts(d) === 0) return false;
+        }
         // Search Query
         if (searchQuery) {
           const q = searchQuery.toLowerCase();
@@ -1276,6 +1300,8 @@ html_content = r'''<!DOCTYPE html>
       grid.innerHTML = filtered.map(day => {
         const stats = getDayStats(day);
         const isToday = day.day === todayNum;
+        const isPast = day.day < todayNum;
+        const skippedWorkouts = isPast ? getDaySkippedWorkouts(day) : 0;
         const isSunday = day.nutrition.isSunday;
 
         return `
@@ -1288,6 +1314,7 @@ html_content = r'''<!DOCTYPE html>
                   <h3>
                     <span>${day.title}</span>
                     ${isToday ? `<span class="badge badge-today" style="font-size:0.65rem;">TODAY</span>` : ''}
+                    ${skippedWorkouts > 0 ? `<span class="badge" style="font-size:0.65rem;background:rgba(249,115,22,0.15);color:#fb923c;border:1px solid rgba(249,115,22,0.3);">${skippedWorkouts} SKIPPED</span>` : ''}
                     <span class="badge badge-phase" style="font-size:0.65rem;">${day.bodyPart}</span>
                   </h3>
                   <div class="dc-date-str">${day.weekday}, ${day.date} · W${day.week} · ${day.phaseName.split('—')[0].trim()}</div>
@@ -1435,18 +1462,35 @@ html_content = r'''<!DOCTYPE html>
       let totalTasks = 0;
       let totalCompleted = 0;
       let days100 = 0;
+      let totalWorkoutsSkipped = 0;
 
       WORKOUT_PLAN.forEach(d => {
         const s = getDayStats(d);
         totalTasks += s.total;
         totalCompleted += s.completed;
         if (s.isFullyDone) days100++;
+
+        // If day has passed, unticked workout exercises count as skipped
+        if (d.day < todayNum) {
+          totalWorkoutsSkipped += getDaySkippedWorkouts(d);
+        }
       });
 
       const overallPct = totalTasks > 0 ? Math.round((totalCompleted / totalTasks) * 100) : 0;
       document.getElementById('statPct').textContent = `${overallPct}%`;
       document.getElementById('statTasksCount').textContent = `${totalCompleted} / ${totalTasks} tasks checked`;
       document.getElementById('statDaysDone').textContent = `${days100} / ${WORKOUT_PLAN.length}`;
+
+      const statSkippedEl = document.getElementById('statSkipped');
+      const statSkippedSubEl = document.getElementById('statSkippedSub');
+      if (statSkippedEl) statSkippedEl.textContent = `${totalWorkoutsSkipped}`;
+      if (statSkippedSubEl) {
+        const pastDays = Math.max(0, Math.min(todayNum - 1, WORKOUT_PLAN.length));
+        statSkippedSubEl.textContent = totalWorkoutsSkipped === 0
+          ? '0 unticked in past days'
+          : `Unticked in past ${pastDays} day${pastDays === 1 ? '' : 's'}`;
+      }
+
       document.getElementById('mainProgFill').style.width = `${overallPct}%`;
       document.getElementById('statBarPct').textContent = `${overallPct}% Completed`;
 
@@ -1584,7 +1628,15 @@ html_content = r'''<!DOCTYPE html>
 </html>
 '''
 
+import json
+
+with open('/home/praveen/personal-projects/workout-tracker/workout_plan.json') as f_plan:
+    inlined_data = f_plan.read().strip()
+
+inline_block = f"""  <!-- LOAD WORKOUT DATA -->\n  <!-- INLINE 68-DAY WORKOUT DATA (100% Self-Contained for Vercel, Offline & GitHub Pages) -->\n  <script>\n    const WORKOUT_PLAN = {inlined_data};\n    if (typeof window !== 'undefined') window.WORKOUT_PLAN = WORKOUT_PLAN;\n  </script>"""
+final_html = html_content.replace('  <!-- LOAD WORKOUT DATA -->\n  <script src="workout_data.js"></script>', inline_block, 1)
+
 with open('/home/praveen/personal-projects/workout-tracker/index.html', 'w') as f:
-    f.write(html_content)
+    f.write(final_html)
 
 print("Generated index.html successfully!")

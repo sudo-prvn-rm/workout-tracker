@@ -6,48 +6,50 @@ end_date = datetime.date(2026, 12, 31)
 
 # Exercise Library with verified video links
 VIDEOS = {
+    # PUSH
     "standard_pushup": {"name": "Deficit / Standard Push-ups", "yt": "https://www.youtube.com/watch?v=IODxDxX7oi4", "ytLabel": "Calisthenicmovement — Perfect Push-Up Form"},
-    "db_floor_press": {"name": "Dumbbell Floor Press", "yt": "https://www.youtube.com/watch?v=uUGDRwG4Fjs", "ytLabel": "Athlean-X — Dumbbell Floor Press Guide"},
-    "db_hex_press": {"name": "Dumbbell Hex Press (Inner Chest Squeeze)", "yt": "https://www.youtube.com/watch?v=oB9_d9U_Kkg", "ytLabel": "Scott Herman — Hex Press for Chest"},
-    "decline_pushup": {"name": "Feet-Elevated Decline Push-ups", "yt": "https://www.youtube.com/watch?v=SKPab2YC8BE", "ytLabel": "Calisthenicmovement — Decline Push-Ups (Upper Chest)"},
+    "db_floor_press": {"name": "Dumbbell Floor Press", "yt": "https://www.youtube.com/watch?v=uUGDRwge4F8", "ytLabel": "Scott Herman — Dumbbell Floor Press Form"},
+    "db_hex_press": {"name": "Dumbbell Hex Press (Inner Chest Squeeze)", "yt": "https://www.youtube.com/watch?v=G2j_lJf6ljk", "ytLabel": "Kraken Exercise Library — Dumbbell Squeeze Press"},
+    "decline_pushup": {"name": "Feet-Elevated Decline Push-ups", "yt": "https://www.youtube.com/watch?v=SKPab2YC8BE", "ytLabel": "Scott Herman — Decline Push-Up Form"},
     "db_shoulder_press": {"name": "Seated/Standing DB Overhead Press", "yt": "https://www.youtube.com/watch?v=qEwKCR5JCog", "ytLabel": "Scott Herman — DB Shoulder Press Form"},
-    "db_arnold_press": {"name": "Dumbbell Arnold Press", "yt": "https://www.youtube.com/watch?v=6Z15_WdXmVw", "ytLabel": "Scott Herman — Arnold Press Technique"},
-    "db_lateral_raise": {"name": "Strict DB Lateral Raise (Side Delts)", "yt": "https://www.youtube.com/watch?v=3VcKaXpzqRo", "ytLabel": "Jeff Nippard — Science of Lateral Raises"},
-    "pike_pushup": {"name": "Pike Push-ups (Vertical Push)", "yt": "https://www.youtube.com/watch?v=sposDXWEB0A", "ytLabel": "Calisthenicmovement — Pike Push-Ups"},
-    "db_overhead_tricep": {"name": "Overhead DB Tricep Extension", "yt": "https://www.youtube.com/watch?v=_gsUck-7M74", "ytLabel": "Scott Herman — Overhead Tricep Extension"},
-    "chair_dips": {"name": "Chair / Bed Bench Dips", "yt": "https://www.youtube.com/watch?v=0326dy_-CzM", "ytLabel": "Calisthenicmovement — Bench Dips Technique"},
-    "diamond_pushup": {"name": "Diamond Push-ups (Tricep Overload)", "yt": "https://www.youtube.com/watch?v=J0DnG1_S92I", "ytLabel": "Calisthenicmovement — Diamond Push-Ups"},
+    "db_arnold_press": {"name": "Dumbbell Arnold Press", "yt": "https://www.youtube.com/watch?v=6Z15_WdXmVw", "ytLabel": "Buff Dudes — Arnold Press Tutorial"},
+    "db_lateral_raise": {"name": "Strict DB Lateral Raise (Side Delts)", "yt": "https://www.youtube.com/watch?v=3VcKaXpzqRo", "ytLabel": "Scott Herman — DB Side Lateral Raise"},
+    "pike_pushup": {"name": "Pike Push-ups (Vertical Push)", "yt": "https://www.youtube.com/watch?v=18mNeuH4D1k", "ytLabel": "FitnessFAQs — How To Pike Push-Up"},
+    "db_overhead_tricep": {"name": "Overhead DB Tricep Extension", "yt": "https://www.youtube.com/watch?v=_gsUck-7M74", "ytLabel": "Howcast — Dumbbell Tricep Extension"},
+    "chair_dips": {"name": "Chair / Bed Bench Dips", "yt": "https://www.youtube.com/watch?v=0326dy_-CzM", "ytLabel": "LIVESTRONG — Triceps Bench Dips"},
+    "diamond_pushup": {"name": "Diamond Push-ups (Tricep Overload)", "yt": "https://www.youtube.com/watch?v=J0DnG1_S92I", "ytLabel": "Scott Herman — Diamond Push-Up"},
     
     # PULL
-    "single_arm_row": {"name": "Single-Arm Dumbbell Row", "yt": "https://www.youtube.com/watch?v=pYcpY20QaE8", "ytLabel": "Athlean-X — Perfect Single-Arm DB Row"},
-    "two_arm_db_row": {"name": "Bent-Over Two-Arm DB Row", "yt": "https://www.youtube.com/watch?v=6TSP13BISI4", "ytLabel": "Scott Herman — Bent Over DB Row"},
-    "inverted_towel_row": {"name": "Inverted Door/Towel Row", "yt": "https://www.youtube.com/watch?v=rloXYB8M3vU", "ytLabel": "Calisthenicmovement — Door Towel Rows"},
-    "db_rear_delt_fly": {"name": "Bent-Over DB Rear Delt Flyes", "yt": "https://www.youtube.com/watch?v=eaun65zHk2c", "ytLabel": "Athlean-X — Rear Delt Flyes"},
+    "single_arm_row": {"name": "Single-Arm Dumbbell Row", "yt": "https://www.youtube.com/watch?v=pYcpY20QaE8", "ytLabel": "Scott Herman — Single-Arm DB Row Form"},
+    "two_arm_db_row": {"name": "Bent-Over Two-Arm DB Row", "yt": "https://www.youtube.com/watch?v=5PoEksoJNaw", "ytLabel": "Renaissance Periodization — Two Arm Dumbbell Row"},
+    "inverted_towel_row": {"name": "Inverted Door/Towel Row", "yt": "https://www.youtube.com/watch?v=rloXYB8M3vU", "ytLabel": "Antranik — Door Towel Incline Rows"},
+    "db_rear_delt_fly": {"name": "Bent-Over DB Rear Delt Flyes", "yt": "https://www.youtube.com/watch?v=ttvfGg9d76c", "ytLabel": "Scott Herman — DB Bent-Over Rear Delt Raise"},
     "db_shrugs": {"name": "Dumbbell Shrugs (Upper Traps)", "yt": "https://www.youtube.com/watch?v=cJRVVxmytaM", "ytLabel": "Scott Herman — Dumbbell Shrugs"},
-    "db_bicep_curl": {"name": "Strict Supinating DB Bicep Curl", "yt": "https://www.youtube.com/watch?v=in7PaeYlhrM", "ytLabel": "Jeff Nippard — Bicep Hypertrophy Science"},
+    "db_bicep_curl": {"name": "Strict Supinating DB Bicep Curl", "yt": "https://www.youtube.com/watch?v=in7PaeYlhrM", "ytLabel": "Mind Pump TV — Dumbbell Bicep Curls Form"},
     "db_hammer_curl": {"name": "Neutral Grip DB Hammer Curl", "yt": "https://www.youtube.com/watch?v=zC3nLlEvin4", "ytLabel": "Scott Herman — Hammer Curl Form"},
-    "db_concentration_curl": {"name": "Seated Concentration Curl", "yt": "https://www.youtube.com/watch?v=0AUGkch3tzc", "ytLabel": "Scott Herman — Concentration Curl"},
+    "db_concentration_curl": {"name": "Seated Concentration Curl", "yt": "https://www.youtube.com/watch?v=0AUGkch3tzc", "ytLabel": "Howcast — Concentration Curl Form"},
 
     # LEGS
-    "bulgarian_split_squat": {"name": "Bulgarian Split Squat", "yt": "https://www.youtube.com/watch?v=1CVecvh_6W0", "ytLabel": "Squat University — Bulgarian Split Squat"},
-    "db_rdl": {"name": "Dumbbell Romanian Deadlift (RDL)", "yt": "https://www.youtube.com/watch?v=_oyxCn2iSjU", "ytLabel": "Jeremy Ethier — Dumbbell RDL Form"},
-    "db_goblet_squat": {"name": "Dumbbell Goblet Squat", "yt": "https://www.youtube.com/watch?v=MeIiIdhvXT4", "ytLabel": "Athlean-X — Goblet Squat Mastery"},
-    "walking_lunges": {"name": "Dumbbell Walking Lunges", "yt": "https://www.youtube.com/watch?v=L8fvypPrzzs", "ytLabel": "Scott Herman — Walking Lunges"},
-    "single_leg_rdl": {"name": "Single-Leg DB Romanian Deadlift", "yt": "https://www.youtube.com/watch?v=2Tz8lWzL5Kk", "ytLabel": "Squat University — Single Leg RDL"},
-    "single_leg_calf_raise": {"name": "Single-Leg Deficit Calf Raise", "yt": "https://www.youtube.com/watch?v=f2w8v8P7kio", "ytLabel": "Jeff Nippard — Calf Growth Guide"},
-    "glute_bridge": {"name": "Weighted Glute Bridge / Hip Thrust", "yt": "https://www.youtube.com/watch?v=8bbE64NuDTU", "ytLabel": "Jeremy Ethier — Glute Bridge & Hip Thrust"},
-    "db_sumo_squat": {"name": "Dumbbell Sumo Squat (Adductors & Glutes)", "yt": "https://www.youtube.com/watch?v=9ZuD8vf6nSU", "ytLabel": "Scott Herman — Sumo Squat Technique"},
+    "bulgarian_split_squat": {"name": "Bulgarian Split Squat", "yt": "https://www.youtube.com/watch?v=bwhl_9jN_3o", "ytLabel": "Squat University — Bulgarian Split Squat Form"},
+    "db_rdl": {"name": "Dumbbell Romanian Deadlift (RDL)", "yt": "https://www.youtube.com/watch?v=_oyxCn2iSjU", "ytLabel": "Jeff Nippard — Romanian Deadlift (RDL) Guide"},
+    "db_goblet_squat": {"name": "Dumbbell Goblet Squat", "yt": "https://www.youtube.com/watch?v=MeIiIdhvXT4", "ytLabel": "Scott Herman — Goblet Squat Guide"},
+    "walking_lunges": {"name": "Dumbbell Walking Lunges", "yt": "https://www.youtube.com/watch?v=L8fvypPrzzs", "ytLabel": "CrossFit — The Walking Lunge Form"},
+    "single_leg_rdl": {"name": "Single-Leg DB Romanian Deadlift", "yt": "https://www.youtube.com/watch?v=DGavj41F_Cs", "ytLabel": "Scott Herman — DB Single-Leg Stiff Deadlift"},
+    "single_leg_calf_raise": {"name": "Single-Leg Deficit Calf Raise", "yt": "https://www.youtube.com/watch?v=ORT4oJ_R8Qs", "ytLabel": "Scott Herman — Single-Leg Calf Raise Form"},
+    "glute_bridge": {"name": "Weighted Glute Bridge / Hip Thrust", "yt": "https://www.youtube.com/watch?v=8bbE64NuDTU", "ytLabel": "Scott Herman — Glute Bridge Technique"},
+    "db_sumo_squat": {"name": "Dumbbell Sumo Squat (Adductors & Glutes)", "yt": "https://www.youtube.com/watch?v=bRCjBCtBGIo", "ytLabel": "DeltaBolic — Dumbbell Sumo Squat Form"},
 
     # CORE & MOBILITY
-    "stomach_vacuum": {"name": "Transverse Abdominis Stomach Vacuum", "yt": "https://www.youtube.com/watch?v=c3-e2u0l1dM", "ytLabel": "Jeremy Ethier — Stomach Vacuum for Slim Waist"},
-    "hollow_body": {"name": "Hollow Body Hold", "yt": "https://www.youtube.com/watch?v=44ScXWFaVBs", "ytLabel": "Calisthenicmovement — Hollow Body Hold"},
-    "deadbug": {"name": "Deadbug Core Stabilization", "yt": "https://www.youtube.com/watch?v=g_BYB0R-44A", "ytLabel": "Squat University — Deadbug Core Form"},
-    "lying_leg_raise": {"name": "Lying Leg Raises & Reverse Crunches", "yt": "https://www.youtube.com/watch?v=Pr1ieGZ5atk", "ytLabel": "Calisthenicmovement — Leg Raises"},
-    "rkc_plank": {"name": "Hardstyle RKC Plank (Maximum Tension)", "yt": "https://www.youtube.com/watch?v=TvxNkmjdhMM", "ytLabel": "Calisthenicmovement — Proper Plank Form"},
-    "bird_dog": {"name": "Bird-Dog Core & Lower Back Flow", "yt": "https://www.youtube.com/watch?v=wiFNA3sqjCA", "ytLabel": "Squat University — Bird Dog Form"},
-    "couch_stretch": {"name": "Couch Stretch (Hip Flexor & Psoas Opener)", "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o", "ytLabel": "Squat University — Couch Stretch"},
-    "t_spine_opener": {"name": "Thoracic Spine Mobility & Desk Posture", "yt": "https://www.youtube.com/watch?v=0h5c5lQvB1c", "ytLabel": "Squat University — Thoracic Mobility"},
-    "worlds_greatest_stretch": {"name": "World's Greatest Stretch Routine", "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg", "ytLabel": "Squat University — World's Greatest Stretch"}
+    "stomach_vacuum": {"name": "Transverse Abdominis Stomach Vacuum", "yt": "https://www.youtube.com/watch?v=cub3xhJXsAA", "ytLabel": "wikiHow — Stomach Vacuum Exercise Guide"},
+    "hollow_body": {"name": "Hollow Body Hold", "yt": "https://www.youtube.com/watch?v=44ScXWFaVBs", "ytLabel": "Antranik — Hollow Body Hold Guide"},
+    "deadbug": {"name": "Deadbug Core Stabilization", "yt": "https://www.youtube.com/watch?v=0XVbn86Btj0", "ytLabel": "Squat University — Deadbug Core Form"},
+    "lying_leg_raise": {"name": "Lying Leg Raises & Reverse Crunches", "yt": "https://www.youtube.com/watch?v=PkLYH3uRtSs", "ytLabel": "TylerPath — Lying Leg Raises Form"},
+    "rkc_plank": {"name": "Hardstyle RKC Plank (Maximum Tension)", "yt": "https://www.youtube.com/watch?v=TvxNkmjdhMM", "ytLabel": "P4P Workouts — Proper Plank Form"},
+    "bird_dog": {"name": "Bird-Dog Core & Lower Back Flow", "yt": "https://www.youtube.com/watch?v=wiFNA3sqjCA", "ytLabel": "Howcast — Bird Dog Exercise Tutorial"},
+    "couch_stretch": {"name": "Couch Stretch (Hip Flexor & Psoas Opener)", "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw", "ytLabel": "Movementgems — Couch Stretch Guide"},
+    "doorway_stretch": {"name": "Shoulder Doorway Stretch", "yt": "https://www.youtube.com/watch?v=O8rJw_TmC1Y", "ytLabel": "Rehab Hero — Doorway Chest & Shoulder Stretch"},
+    "t_spine_opener": {"name": "Thoracic Spine Mobility & Desk Posture", "yt": "https://www.youtube.com/watch?v=9LJDGUulS_8", "ytLabel": "Squat University — Thoracic Spine Mobility"},
+    "worlds_greatest_stretch": {"name": "World's Greatest Stretch Routine", "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34", "ytLabel": "Squat University — World's Greatest Stretch"}
 }
 
 days_data = []
@@ -261,7 +263,7 @@ while curr <= end_date:
         ]
         evening_routine = {
             "core": {"id": f"e_{day_num}_1", "name": VIDEOS["rkc_plank"]["name"], "target": "3 sets x 30s plank hold", "yt": VIDEOS["rkc_plank"]["yt"], "ytLabel": VIDEOS["rkc_plank"]["ytLabel"]},
-            "mobility": {"id": f"e_{day_num}_2", "name": "Shoulder Doorway Stretch", "target": "2 mins chest & anterior delt opening", "yt": None, "ytLabel": None},
+            "mobility": {"id": f"e_{day_num}_2", "name": VIDEOS["doorway_stretch"]["name"], "target": "2 mins chest & anterior delt opening", "yt": VIDEOS["doorway_stretch"]["yt"], "ytLabel": VIDEOS["doorway_stretch"]["ytLabel"]},
             "cardio": {"id": f"e_{day_num}_3", "name": "Relaxed Evening Walk", "target": "30 mins (3,500 steps) fresh air & recovery", "yt": None, "ytLabel": None}
         }
         nutrition = {

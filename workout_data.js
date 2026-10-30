@@ -30,8 +30,8 @@ const WORKOUT_PLAN = [
         "load": "2x 10kg (or 2x 5kg)",
         "tempo": "3-1-1-0",
         "rest": "75s",
-        "yt": "https://www.youtube.com/watch?v=uUGDRwG4Fjs",
-        "ytLabel": "Athlean-X \u2014 Dumbbell Floor Press Guide"
+        "yt": "https://www.youtube.com/watch?v=uUGDRwge4F8",
+        "ytLabel": "Scott Herman \u2014 Dumbbell Floor Press Form"
       },
       {
         "id": "m_1_3",
@@ -53,7 +53,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Elbows lead)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
-        "ytLabel": "Jeff Nippard \u2014 Science of Lateral Raises"
+        "ytLabel": "Scott Herman \u2014 DB Side Lateral Raise"
       },
       {
         "id": "m_1_5",
@@ -64,7 +64,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=_gsUck-7M74",
-        "ytLabel": "Scott Herman \u2014 Overhead Tricep Extension"
+        "ytLabel": "Howcast \u2014 Dumbbell Tricep Extension"
       }
     ],
     "evening": {
@@ -72,15 +72,15 @@ const WORKOUT_PLAN = [
         "id": "e_1_1",
         "name": "Transverse Abdominis Stomach Vacuum",
         "target": "4 sets x 20\u201325s vacuum hold on empty stomach",
-        "yt": "https://www.youtube.com/watch?v=c3-e2u0l1dM",
-        "ytLabel": "Jeremy Ethier \u2014 Stomach Vacuum for Slim Waist"
+        "yt": "https://www.youtube.com/watch?v=cub3xhJXsAA",
+        "ytLabel": "wikiHow \u2014 Stomach Vacuum Exercise Guide"
       },
       "mobility": {
         "id": "e_1_2",
         "name": "Couch Stretch (Hip Flexor & Psoas Opener)",
         "target": "2 mins each side (opens tight hip flexors)",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       "cardio": {
         "id": "e_1_3",
@@ -121,7 +121,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (1s squeeze at top)",
         "rest": "75s",
         "yt": "https://www.youtube.com/watch?v=pYcpY20QaE8",
-        "ytLabel": "Athlean-X \u2014 Perfect Single-Arm DB Row"
+        "ytLabel": "Scott Herman \u2014 Single-Arm DB Row Form"
       },
       {
         "id": "m_2_2",
@@ -132,7 +132,7 @@ const WORKOUT_PLAN = [
         "tempo": "2-1-1-0",
         "rest": "75s",
         "yt": "https://www.youtube.com/watch?v=rloXYB8M3vU",
-        "ytLabel": "Calisthenicmovement \u2014 Door Towel Rows"
+        "ytLabel": "Antranik \u2014 Door Towel Incline Rows"
       },
       {
         "id": "m_2_3",
@@ -142,8 +142,8 @@ const WORKOUT_PLAN = [
         "load": "2x 4kg or 2x 5kg",
         "tempo": "3-1-1-0",
         "rest": "60s",
-        "yt": "https://www.youtube.com/watch?v=eaun65zHk2c",
-        "ytLabel": "Athlean-X \u2014 Rear Delt Flyes"
+        "yt": "https://www.youtube.com/watch?v=ttvfGg9d76c",
+        "ytLabel": "Scott Herman \u2014 DB Bent-Over Rear Delt Raise"
       },
       {
         "id": "m_2_4",
@@ -154,7 +154,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Supinate wrist)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=in7PaeYlhrM",
-        "ytLabel": "Jeff Nippard \u2014 Bicep Hypertrophy Science"
+        "ytLabel": "Mind Pump TV \u2014 Dumbbell Bicep Curls Form"
       },
       {
         "id": "m_2_5",
@@ -173,15 +173,15 @@ const WORKOUT_PLAN = [
         "id": "e_2_1",
         "name": "Deadbug Core Stabilization",
         "target": "3 sets x 12 reps per side (Anti-extension core)",
-        "yt": "https://www.youtube.com/watch?v=g_BYB0R-44A",
+        "yt": "https://www.youtube.com/watch?v=0XVbn86Btj0",
         "ytLabel": "Squat University \u2014 Deadbug Core Form"
       },
       "mobility": {
         "id": "e_2_2",
         "name": "Thoracic Spine Mobility & Desk Posture",
         "target": "3 mins thoracic spine rotations (fixes desk posture)",
-        "yt": "https://www.youtube.com/watch?v=0h5c5lQvB1c",
-        "ytLabel": "Squat University \u2014 Thoracic Mobility"
+        "yt": "https://www.youtube.com/watch?v=9LJDGUulS_8",
+        "ytLabel": "Squat University \u2014 Thoracic Spine Mobility"
       },
       "cardio": {
         "id": "e_2_3",
@@ -221,8 +221,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg (Goblet) or 2x 5kg",
         "tempo": "3-1-1-0 (Deep hip crease)",
         "rest": "90s",
-        "yt": "https://www.youtube.com/watch?v=1CVecvh_6W0",
-        "ytLabel": "Squat University \u2014 Bulgarian Split Squat"
+        "yt": "https://www.youtube.com/watch?v=bwhl_9jN_3o",
+        "ytLabel": "Squat University \u2014 Bulgarian Split Squat Form"
       },
       {
         "id": "m_3_2",
@@ -233,7 +233,7 @@ const WORKOUT_PLAN = [
         "tempo": "4-1-1-0 (Deep hamstring stretch)",
         "rest": "75s",
         "yt": "https://www.youtube.com/watch?v=_oyxCn2iSjU",
-        "ytLabel": "Jeremy Ethier \u2014 Dumbbell RDL Form"
+        "ytLabel": "Jeff Nippard \u2014 Romanian Deadlift (RDL) Guide"
       },
       {
         "id": "m_3_3",
@@ -244,7 +244,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "75s",
         "yt": "https://www.youtube.com/watch?v=MeIiIdhvXT4",
-        "ytLabel": "Athlean-X \u2014 Goblet Squat Mastery"
+        "ytLabel": "Scott Herman \u2014 Goblet Squat Guide"
       },
       {
         "id": "m_3_4",
@@ -255,7 +255,7 @@ const WORKOUT_PLAN = [
         "tempo": "2-2-1-0 (2s hold at peak)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=8bbE64NuDTU",
-        "ytLabel": "Jeremy Ethier \u2014 Glute Bridge & Hip Thrust"
+        "ytLabel": "Scott Herman \u2014 Glute Bridge Technique"
       },
       {
         "id": "m_3_5",
@@ -265,8 +265,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg in hand (Book/step)",
         "tempo": "3-2-1-0 (2s full stretch at bottom)",
         "rest": "45s",
-        "yt": "https://www.youtube.com/watch?v=f2w8v8P7kio",
-        "ytLabel": "Jeff Nippard \u2014 Calf Growth Guide"
+        "yt": "https://www.youtube.com/watch?v=ORT4oJ_R8Qs",
+        "ytLabel": "Scott Herman \u2014 Single-Leg Calf Raise Form"
       }
     ],
     "evening": {
@@ -274,14 +274,14 @@ const WORKOUT_PLAN = [
         "id": "e_3_1",
         "name": "Lying Leg Raises & Reverse Crunches",
         "target": "3 sets x 15 reps (Lower abs & pelvis tuck)",
-        "yt": "https://www.youtube.com/watch?v=Pr1ieGZ5atk",
-        "ytLabel": "Calisthenicmovement \u2014 Leg Raises"
+        "yt": "https://www.youtube.com/watch?v=PkLYH3uRtSs",
+        "ytLabel": "TylerPath \u2014 Lying Leg Raises Form"
       },
       "mobility": {
         "id": "e_3_2",
         "name": "World's Greatest Stretch Routine",
         "target": "3 mins hip & ankle mobility flow",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       "cardio": {
@@ -322,8 +322,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Deep breathing",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       {
         "id": "m_4_2",
@@ -333,8 +333,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Slow rotation",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=0h5c5lQvB1c",
-        "ytLabel": "Squat University \u2014 Thoracic Mobility"
+        "yt": "https://www.youtube.com/watch?v=9LJDGUulS_8",
+        "ytLabel": "Squat University \u2014 Thoracic Spine Mobility"
       },
       {
         "id": "m_4_3",
@@ -345,7 +345,7 @@ const WORKOUT_PLAN = [
         "tempo": "2s hold at full reach",
         "rest": "45s",
         "yt": "https://www.youtube.com/watch?v=wiFNA3sqjCA",
-        "ytLabel": "Squat University \u2014 Bird Dog Form"
+        "ytLabel": "Howcast \u2014 Bird Dog Exercise Tutorial"
       },
       {
         "id": "m_4_4",
@@ -356,7 +356,7 @@ const WORKOUT_PLAN = [
         "tempo": "Max squeeze glutes & abs",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=TvxNkmjdhMM",
-        "ytLabel": "Calisthenicmovement \u2014 Proper Plank Form"
+        "ytLabel": "P4P Workouts \u2014 Proper Plank Form"
       }
     ],
     "evening": {
@@ -364,14 +364,14 @@ const WORKOUT_PLAN = [
         "id": "e_4_1",
         "name": "Transverse Abdominis Stomach Vacuum",
         "target": "4 sets x 25s vacuum hold (Waist slimming)",
-        "yt": "https://www.youtube.com/watch?v=c3-e2u0l1dM",
-        "ytLabel": "Jeremy Ethier \u2014 Stomach Vacuum for Slim Waist"
+        "yt": "https://www.youtube.com/watch?v=cub3xhJXsAA",
+        "ytLabel": "wikiHow \u2014 Stomach Vacuum Exercise Guide"
       },
       "mobility": {
         "id": "e_4_2",
         "name": "World's Greatest Stretch Routine",
         "target": "3 mins deep whole-body stretch",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       "cardio": {
@@ -413,7 +413,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "75s",
         "yt": "https://www.youtube.com/watch?v=SKPab2YC8BE",
-        "ytLabel": "Calisthenicmovement \u2014 Decline Push-Ups (Upper Chest)"
+        "ytLabel": "Scott Herman \u2014 Decline Push-Up Form"
       },
       {
         "id": "m_5_2",
@@ -424,7 +424,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Full rotation)",
         "rest": "75s",
         "yt": "https://www.youtube.com/watch?v=6Z15_WdXmVw",
-        "ytLabel": "Scott Herman \u2014 Arnold Press Technique"
+        "ytLabel": "Buff Dudes \u2014 Arnold Press Tutorial"
       },
       {
         "id": "m_5_3",
@@ -434,8 +434,8 @@ const WORKOUT_PLAN = [
         "load": "2x 10kg (or 2x 5kg)",
         "tempo": "2-1-1-0",
         "rest": "75s",
-        "yt": "https://www.youtube.com/watch?v=6TSP13BISI4",
-        "ytLabel": "Scott Herman \u2014 Bent Over DB Row"
+        "yt": "https://www.youtube.com/watch?v=5PoEksoJNaw",
+        "ytLabel": "Renaissance Periodization \u2014 Two Arm Dumbbell Row"
       },
       {
         "id": "m_5_4",
@@ -446,7 +446,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Strict side delts)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
-        "ytLabel": "Jeff Nippard \u2014 Science of Lateral Raises"
+        "ytLabel": "Scott Herman \u2014 DB Side Lateral Raise"
       },
       {
         "id": "m_5_5",
@@ -457,7 +457,7 @@ const WORKOUT_PLAN = [
         "tempo": "2-1-1-0",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=J0DnG1_S92I",
-        "ytLabel": "Calisthenicmovement \u2014 Diamond Push-Ups"
+        "ytLabel": "Scott Herman \u2014 Diamond Push-Up"
       },
       {
         "id": "m_5_6",
@@ -468,7 +468,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "45s",
         "yt": "https://www.youtube.com/watch?v=0AUGkch3tzc",
-        "ytLabel": "Scott Herman \u2014 Concentration Curl"
+        "ytLabel": "Howcast \u2014 Concentration Curl Form"
       }
     ],
     "evening": {
@@ -477,14 +477,14 @@ const WORKOUT_PLAN = [
         "name": "Hollow Body Hold",
         "target": "3 sets x 30\u201335s hollow body hold",
         "yt": "https://www.youtube.com/watch?v=44ScXWFaVBs",
-        "ytLabel": "Calisthenicmovement \u2014 Hollow Body Hold"
+        "ytLabel": "Antranik \u2014 Hollow Body Hold Guide"
       },
       "mobility": {
         "id": "e_5_2",
         "name": "Couch Stretch (Hip Flexor & Psoas Opener)",
         "target": "2 mins each side",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       "cardio": {
         "id": "e_5_3",
@@ -525,7 +525,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "75s",
         "yt": "https://www.youtube.com/watch?v=MeIiIdhvXT4",
-        "ytLabel": "Athlean-X \u2014 Goblet Squat Mastery"
+        "ytLabel": "Scott Herman \u2014 Goblet Squat Guide"
       },
       {
         "id": "m_6_2",
@@ -536,7 +536,7 @@ const WORKOUT_PLAN = [
         "tempo": "Controlled 90/90 step",
         "rest": "75s",
         "yt": "https://www.youtube.com/watch?v=L8fvypPrzzs",
-        "ytLabel": "Scott Herman \u2014 Walking Lunges"
+        "ytLabel": "CrossFit \u2014 The Walking Lunge Form"
       },
       {
         "id": "m_6_3",
@@ -546,8 +546,8 @@ const WORKOUT_PLAN = [
         "load": "1x 5kg or 1x 10kg",
         "tempo": "3-1-1-0",
         "rest": "75s",
-        "yt": "https://www.youtube.com/watch?v=2Tz8lWzL5Kk",
-        "ytLabel": "Squat University \u2014 Single Leg RDL"
+        "yt": "https://www.youtube.com/watch?v=DGavj41F_Cs",
+        "ytLabel": "Scott Herman \u2014 DB Single-Leg Stiff Deadlift"
       },
       {
         "id": "m_6_4",
@@ -557,8 +557,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg",
         "tempo": "3-1-1-0",
         "rest": "75s",
-        "yt": "https://www.youtube.com/watch?v=9ZuD8vf6nSU",
-        "ytLabel": "Scott Herman \u2014 Sumo Squat Technique"
+        "yt": "https://www.youtube.com/watch?v=bRCjBCtBGIo",
+        "ytLabel": "DeltaBolic \u2014 Dumbbell Sumo Squat Form"
       },
       {
         "id": "m_6_5",
@@ -568,8 +568,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg in hand",
         "tempo": "3-2-1-0",
         "rest": "45s",
-        "yt": "https://www.youtube.com/watch?v=f2w8v8P7kio",
-        "ytLabel": "Jeff Nippard \u2014 Calf Growth Guide"
+        "yt": "https://www.youtube.com/watch?v=ORT4oJ_R8Qs",
+        "ytLabel": "Scott Herman \u2014 Single-Leg Calf Raise Form"
       }
     ],
     "evening": {
@@ -577,14 +577,14 @@ const WORKOUT_PLAN = [
         "id": "e_6_1",
         "name": "Deadbug Core Stabilization",
         "target": "3 sets x 12 reps / side",
-        "yt": "https://www.youtube.com/watch?v=g_BYB0R-44A",
+        "yt": "https://www.youtube.com/watch?v=0XVbn86Btj0",
         "ytLabel": "Squat University \u2014 Deadbug Core Form"
       },
       "mobility": {
         "id": "e_6_2",
         "name": "World's Greatest Stretch Routine",
         "target": "3 mins deep hips & ankles",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       "cardio": {
@@ -625,7 +625,7 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Deep breath at extension",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       {
@@ -636,8 +636,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Relax into hip",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       {
         "id": "m_7_3",
@@ -647,8 +647,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Slow rotation",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=0h5c5lQvB1c",
-        "ytLabel": "Squat University \u2014 Thoracic Mobility"
+        "yt": "https://www.youtube.com/watch?v=9LJDGUulS_8",
+        "ytLabel": "Squat University \u2014 Thoracic Spine Mobility"
       },
       {
         "id": "m_7_4",
@@ -658,8 +658,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Max exhalation & pull navel in",
         "rest": "45s",
-        "yt": "https://www.youtube.com/watch?v=c3-e2u0l1dM",
-        "ytLabel": "Jeremy Ethier \u2014 Stomach Vacuum for Slim Waist"
+        "yt": "https://www.youtube.com/watch?v=cub3xhJXsAA",
+        "ytLabel": "wikiHow \u2014 Stomach Vacuum Exercise Guide"
       }
     ],
     "evening": {
@@ -668,14 +668,14 @@ const WORKOUT_PLAN = [
         "name": "Hardstyle RKC Plank (Maximum Tension)",
         "target": "3 sets x 30s plank hold",
         "yt": "https://www.youtube.com/watch?v=TvxNkmjdhMM",
-        "ytLabel": "Calisthenicmovement \u2014 Proper Plank Form"
+        "ytLabel": "P4P Workouts \u2014 Proper Plank Form"
       },
       "mobility": {
         "id": "e_7_2",
         "name": "Shoulder Doorway Stretch",
         "target": "2 mins chest & anterior delt opening",
-        "yt": null,
-        "ytLabel": null
+        "yt": "https://www.youtube.com/watch?v=O8rJw_TmC1Y",
+        "ytLabel": "Rehab Hero \u2014 Doorway Chest & Shoulder Stretch"
       },
       "cardio": {
         "id": "e_7_3",
@@ -726,8 +726,8 @@ const WORKOUT_PLAN = [
         "load": "2x 10kg (or 2x 5kg)",
         "tempo": "3-1-1-0",
         "rest": "75s",
-        "yt": "https://www.youtube.com/watch?v=uUGDRwG4Fjs",
-        "ytLabel": "Athlean-X \u2014 Dumbbell Floor Press Guide"
+        "yt": "https://www.youtube.com/watch?v=uUGDRwge4F8",
+        "ytLabel": "Scott Herman \u2014 Dumbbell Floor Press Form"
       },
       {
         "id": "m_8_3",
@@ -749,7 +749,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Elbows lead)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
-        "ytLabel": "Jeff Nippard \u2014 Science of Lateral Raises"
+        "ytLabel": "Scott Herman \u2014 DB Side Lateral Raise"
       },
       {
         "id": "m_8_5",
@@ -760,7 +760,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=_gsUck-7M74",
-        "ytLabel": "Scott Herman \u2014 Overhead Tricep Extension"
+        "ytLabel": "Howcast \u2014 Dumbbell Tricep Extension"
       }
     ],
     "evening": {
@@ -768,15 +768,15 @@ const WORKOUT_PLAN = [
         "id": "e_8_1",
         "name": "Transverse Abdominis Stomach Vacuum",
         "target": "4 sets x 20\u201325s vacuum hold on empty stomach",
-        "yt": "https://www.youtube.com/watch?v=c3-e2u0l1dM",
-        "ytLabel": "Jeremy Ethier \u2014 Stomach Vacuum for Slim Waist"
+        "yt": "https://www.youtube.com/watch?v=cub3xhJXsAA",
+        "ytLabel": "wikiHow \u2014 Stomach Vacuum Exercise Guide"
       },
       "mobility": {
         "id": "e_8_2",
         "name": "Couch Stretch (Hip Flexor & Psoas Opener)",
         "target": "2 mins each side (opens tight hip flexors)",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       "cardio": {
         "id": "e_8_3",
@@ -817,7 +817,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (1s squeeze at top)",
         "rest": "75s",
         "yt": "https://www.youtube.com/watch?v=pYcpY20QaE8",
-        "ytLabel": "Athlean-X \u2014 Perfect Single-Arm DB Row"
+        "ytLabel": "Scott Herman \u2014 Single-Arm DB Row Form"
       },
       {
         "id": "m_9_2",
@@ -828,7 +828,7 @@ const WORKOUT_PLAN = [
         "tempo": "2-1-1-0",
         "rest": "75s",
         "yt": "https://www.youtube.com/watch?v=rloXYB8M3vU",
-        "ytLabel": "Calisthenicmovement \u2014 Door Towel Rows"
+        "ytLabel": "Antranik \u2014 Door Towel Incline Rows"
       },
       {
         "id": "m_9_3",
@@ -838,8 +838,8 @@ const WORKOUT_PLAN = [
         "load": "2x 4kg or 2x 5kg",
         "tempo": "3-1-1-0",
         "rest": "60s",
-        "yt": "https://www.youtube.com/watch?v=eaun65zHk2c",
-        "ytLabel": "Athlean-X \u2014 Rear Delt Flyes"
+        "yt": "https://www.youtube.com/watch?v=ttvfGg9d76c",
+        "ytLabel": "Scott Herman \u2014 DB Bent-Over Rear Delt Raise"
       },
       {
         "id": "m_9_4",
@@ -850,7 +850,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Supinate wrist)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=in7PaeYlhrM",
-        "ytLabel": "Jeff Nippard \u2014 Bicep Hypertrophy Science"
+        "ytLabel": "Mind Pump TV \u2014 Dumbbell Bicep Curls Form"
       },
       {
         "id": "m_9_5",
@@ -869,15 +869,15 @@ const WORKOUT_PLAN = [
         "id": "e_9_1",
         "name": "Deadbug Core Stabilization",
         "target": "3 sets x 12 reps per side (Anti-extension core)",
-        "yt": "https://www.youtube.com/watch?v=g_BYB0R-44A",
+        "yt": "https://www.youtube.com/watch?v=0XVbn86Btj0",
         "ytLabel": "Squat University \u2014 Deadbug Core Form"
       },
       "mobility": {
         "id": "e_9_2",
         "name": "Thoracic Spine Mobility & Desk Posture",
         "target": "3 mins thoracic spine rotations (fixes desk posture)",
-        "yt": "https://www.youtube.com/watch?v=0h5c5lQvB1c",
-        "ytLabel": "Squat University \u2014 Thoracic Mobility"
+        "yt": "https://www.youtube.com/watch?v=9LJDGUulS_8",
+        "ytLabel": "Squat University \u2014 Thoracic Spine Mobility"
       },
       "cardio": {
         "id": "e_9_3",
@@ -917,8 +917,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg (Goblet) or 2x 5kg",
         "tempo": "3-1-1-0 (Deep hip crease)",
         "rest": "90s",
-        "yt": "https://www.youtube.com/watch?v=1CVecvh_6W0",
-        "ytLabel": "Squat University \u2014 Bulgarian Split Squat"
+        "yt": "https://www.youtube.com/watch?v=bwhl_9jN_3o",
+        "ytLabel": "Squat University \u2014 Bulgarian Split Squat Form"
       },
       {
         "id": "m_10_2",
@@ -929,7 +929,7 @@ const WORKOUT_PLAN = [
         "tempo": "4-1-1-0 (Deep hamstring stretch)",
         "rest": "75s",
         "yt": "https://www.youtube.com/watch?v=_oyxCn2iSjU",
-        "ytLabel": "Jeremy Ethier \u2014 Dumbbell RDL Form"
+        "ytLabel": "Jeff Nippard \u2014 Romanian Deadlift (RDL) Guide"
       },
       {
         "id": "m_10_3",
@@ -940,7 +940,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "75s",
         "yt": "https://www.youtube.com/watch?v=MeIiIdhvXT4",
-        "ytLabel": "Athlean-X \u2014 Goblet Squat Mastery"
+        "ytLabel": "Scott Herman \u2014 Goblet Squat Guide"
       },
       {
         "id": "m_10_4",
@@ -951,7 +951,7 @@ const WORKOUT_PLAN = [
         "tempo": "2-2-1-0 (2s hold at peak)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=8bbE64NuDTU",
-        "ytLabel": "Jeremy Ethier \u2014 Glute Bridge & Hip Thrust"
+        "ytLabel": "Scott Herman \u2014 Glute Bridge Technique"
       },
       {
         "id": "m_10_5",
@@ -961,8 +961,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg in hand (Book/step)",
         "tempo": "3-2-1-0 (2s full stretch at bottom)",
         "rest": "45s",
-        "yt": "https://www.youtube.com/watch?v=f2w8v8P7kio",
-        "ytLabel": "Jeff Nippard \u2014 Calf Growth Guide"
+        "yt": "https://www.youtube.com/watch?v=ORT4oJ_R8Qs",
+        "ytLabel": "Scott Herman \u2014 Single-Leg Calf Raise Form"
       }
     ],
     "evening": {
@@ -970,14 +970,14 @@ const WORKOUT_PLAN = [
         "id": "e_10_1",
         "name": "Lying Leg Raises & Reverse Crunches",
         "target": "3 sets x 15 reps (Lower abs & pelvis tuck)",
-        "yt": "https://www.youtube.com/watch?v=Pr1ieGZ5atk",
-        "ytLabel": "Calisthenicmovement \u2014 Leg Raises"
+        "yt": "https://www.youtube.com/watch?v=PkLYH3uRtSs",
+        "ytLabel": "TylerPath \u2014 Lying Leg Raises Form"
       },
       "mobility": {
         "id": "e_10_2",
         "name": "World's Greatest Stretch Routine",
         "target": "3 mins hip & ankle mobility flow",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       "cardio": {
@@ -1018,8 +1018,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Deep breathing",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       {
         "id": "m_11_2",
@@ -1029,8 +1029,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Slow rotation",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=0h5c5lQvB1c",
-        "ytLabel": "Squat University \u2014 Thoracic Mobility"
+        "yt": "https://www.youtube.com/watch?v=9LJDGUulS_8",
+        "ytLabel": "Squat University \u2014 Thoracic Spine Mobility"
       },
       {
         "id": "m_11_3",
@@ -1041,7 +1041,7 @@ const WORKOUT_PLAN = [
         "tempo": "2s hold at full reach",
         "rest": "45s",
         "yt": "https://www.youtube.com/watch?v=wiFNA3sqjCA",
-        "ytLabel": "Squat University \u2014 Bird Dog Form"
+        "ytLabel": "Howcast \u2014 Bird Dog Exercise Tutorial"
       },
       {
         "id": "m_11_4",
@@ -1052,7 +1052,7 @@ const WORKOUT_PLAN = [
         "tempo": "Max squeeze glutes & abs",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=TvxNkmjdhMM",
-        "ytLabel": "Calisthenicmovement \u2014 Proper Plank Form"
+        "ytLabel": "P4P Workouts \u2014 Proper Plank Form"
       }
     ],
     "evening": {
@@ -1060,14 +1060,14 @@ const WORKOUT_PLAN = [
         "id": "e_11_1",
         "name": "Transverse Abdominis Stomach Vacuum",
         "target": "4 sets x 25s vacuum hold (Waist slimming)",
-        "yt": "https://www.youtube.com/watch?v=c3-e2u0l1dM",
-        "ytLabel": "Jeremy Ethier \u2014 Stomach Vacuum for Slim Waist"
+        "yt": "https://www.youtube.com/watch?v=cub3xhJXsAA",
+        "ytLabel": "wikiHow \u2014 Stomach Vacuum Exercise Guide"
       },
       "mobility": {
         "id": "e_11_2",
         "name": "World's Greatest Stretch Routine",
         "target": "3 mins deep whole-body stretch",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       "cardio": {
@@ -1109,7 +1109,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "75s",
         "yt": "https://www.youtube.com/watch?v=SKPab2YC8BE",
-        "ytLabel": "Calisthenicmovement \u2014 Decline Push-Ups (Upper Chest)"
+        "ytLabel": "Scott Herman \u2014 Decline Push-Up Form"
       },
       {
         "id": "m_12_2",
@@ -1120,7 +1120,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Full rotation)",
         "rest": "75s",
         "yt": "https://www.youtube.com/watch?v=6Z15_WdXmVw",
-        "ytLabel": "Scott Herman \u2014 Arnold Press Technique"
+        "ytLabel": "Buff Dudes \u2014 Arnold Press Tutorial"
       },
       {
         "id": "m_12_3",
@@ -1130,8 +1130,8 @@ const WORKOUT_PLAN = [
         "load": "2x 10kg (or 2x 5kg)",
         "tempo": "2-1-1-0",
         "rest": "75s",
-        "yt": "https://www.youtube.com/watch?v=6TSP13BISI4",
-        "ytLabel": "Scott Herman \u2014 Bent Over DB Row"
+        "yt": "https://www.youtube.com/watch?v=5PoEksoJNaw",
+        "ytLabel": "Renaissance Periodization \u2014 Two Arm Dumbbell Row"
       },
       {
         "id": "m_12_4",
@@ -1142,7 +1142,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Strict side delts)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
-        "ytLabel": "Jeff Nippard \u2014 Science of Lateral Raises"
+        "ytLabel": "Scott Herman \u2014 DB Side Lateral Raise"
       },
       {
         "id": "m_12_5",
@@ -1153,7 +1153,7 @@ const WORKOUT_PLAN = [
         "tempo": "2-1-1-0",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=J0DnG1_S92I",
-        "ytLabel": "Calisthenicmovement \u2014 Diamond Push-Ups"
+        "ytLabel": "Scott Herman \u2014 Diamond Push-Up"
       },
       {
         "id": "m_12_6",
@@ -1164,7 +1164,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "45s",
         "yt": "https://www.youtube.com/watch?v=0AUGkch3tzc",
-        "ytLabel": "Scott Herman \u2014 Concentration Curl"
+        "ytLabel": "Howcast \u2014 Concentration Curl Form"
       }
     ],
     "evening": {
@@ -1173,14 +1173,14 @@ const WORKOUT_PLAN = [
         "name": "Hollow Body Hold",
         "target": "3 sets x 30\u201335s hollow body hold",
         "yt": "https://www.youtube.com/watch?v=44ScXWFaVBs",
-        "ytLabel": "Calisthenicmovement \u2014 Hollow Body Hold"
+        "ytLabel": "Antranik \u2014 Hollow Body Hold Guide"
       },
       "mobility": {
         "id": "e_12_2",
         "name": "Couch Stretch (Hip Flexor & Psoas Opener)",
         "target": "2 mins each side",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       "cardio": {
         "id": "e_12_3",
@@ -1221,7 +1221,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "75s",
         "yt": "https://www.youtube.com/watch?v=MeIiIdhvXT4",
-        "ytLabel": "Athlean-X \u2014 Goblet Squat Mastery"
+        "ytLabel": "Scott Herman \u2014 Goblet Squat Guide"
       },
       {
         "id": "m_13_2",
@@ -1232,7 +1232,7 @@ const WORKOUT_PLAN = [
         "tempo": "Controlled 90/90 step",
         "rest": "75s",
         "yt": "https://www.youtube.com/watch?v=L8fvypPrzzs",
-        "ytLabel": "Scott Herman \u2014 Walking Lunges"
+        "ytLabel": "CrossFit \u2014 The Walking Lunge Form"
       },
       {
         "id": "m_13_3",
@@ -1242,8 +1242,8 @@ const WORKOUT_PLAN = [
         "load": "1x 5kg or 1x 10kg",
         "tempo": "3-1-1-0",
         "rest": "75s",
-        "yt": "https://www.youtube.com/watch?v=2Tz8lWzL5Kk",
-        "ytLabel": "Squat University \u2014 Single Leg RDL"
+        "yt": "https://www.youtube.com/watch?v=DGavj41F_Cs",
+        "ytLabel": "Scott Herman \u2014 DB Single-Leg Stiff Deadlift"
       },
       {
         "id": "m_13_4",
@@ -1253,8 +1253,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg",
         "tempo": "3-1-1-0",
         "rest": "75s",
-        "yt": "https://www.youtube.com/watch?v=9ZuD8vf6nSU",
-        "ytLabel": "Scott Herman \u2014 Sumo Squat Technique"
+        "yt": "https://www.youtube.com/watch?v=bRCjBCtBGIo",
+        "ytLabel": "DeltaBolic \u2014 Dumbbell Sumo Squat Form"
       },
       {
         "id": "m_13_5",
@@ -1264,8 +1264,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg in hand",
         "tempo": "3-2-1-0",
         "rest": "45s",
-        "yt": "https://www.youtube.com/watch?v=f2w8v8P7kio",
-        "ytLabel": "Jeff Nippard \u2014 Calf Growth Guide"
+        "yt": "https://www.youtube.com/watch?v=ORT4oJ_R8Qs",
+        "ytLabel": "Scott Herman \u2014 Single-Leg Calf Raise Form"
       }
     ],
     "evening": {
@@ -1273,14 +1273,14 @@ const WORKOUT_PLAN = [
         "id": "e_13_1",
         "name": "Deadbug Core Stabilization",
         "target": "3 sets x 12 reps / side",
-        "yt": "https://www.youtube.com/watch?v=g_BYB0R-44A",
+        "yt": "https://www.youtube.com/watch?v=0XVbn86Btj0",
         "ytLabel": "Squat University \u2014 Deadbug Core Form"
       },
       "mobility": {
         "id": "e_13_2",
         "name": "World's Greatest Stretch Routine",
         "target": "3 mins deep hips & ankles",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       "cardio": {
@@ -1321,7 +1321,7 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Deep breath at extension",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       {
@@ -1332,8 +1332,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Relax into hip",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       {
         "id": "m_14_3",
@@ -1343,8 +1343,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Slow rotation",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=0h5c5lQvB1c",
-        "ytLabel": "Squat University \u2014 Thoracic Mobility"
+        "yt": "https://www.youtube.com/watch?v=9LJDGUulS_8",
+        "ytLabel": "Squat University \u2014 Thoracic Spine Mobility"
       },
       {
         "id": "m_14_4",
@@ -1354,8 +1354,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Max exhalation & pull navel in",
         "rest": "45s",
-        "yt": "https://www.youtube.com/watch?v=c3-e2u0l1dM",
-        "ytLabel": "Jeremy Ethier \u2014 Stomach Vacuum for Slim Waist"
+        "yt": "https://www.youtube.com/watch?v=cub3xhJXsAA",
+        "ytLabel": "wikiHow \u2014 Stomach Vacuum Exercise Guide"
       }
     ],
     "evening": {
@@ -1364,14 +1364,14 @@ const WORKOUT_PLAN = [
         "name": "Hardstyle RKC Plank (Maximum Tension)",
         "target": "3 sets x 30s plank hold",
         "yt": "https://www.youtube.com/watch?v=TvxNkmjdhMM",
-        "ytLabel": "Calisthenicmovement \u2014 Proper Plank Form"
+        "ytLabel": "P4P Workouts \u2014 Proper Plank Form"
       },
       "mobility": {
         "id": "e_14_2",
         "name": "Shoulder Doorway Stretch",
         "target": "2 mins chest & anterior delt opening",
-        "yt": null,
-        "ytLabel": null
+        "yt": "https://www.youtube.com/watch?v=O8rJw_TmC1Y",
+        "ytLabel": "Rehab Hero \u2014 Doorway Chest & Shoulder Stretch"
       },
       "cardio": {
         "id": "e_14_3",
@@ -1422,8 +1422,8 @@ const WORKOUT_PLAN = [
         "load": "2x 10kg (or 2x 5kg)",
         "tempo": "3-1-1-0",
         "rest": "60\u201375s",
-        "yt": "https://www.youtube.com/watch?v=uUGDRwG4Fjs",
-        "ytLabel": "Athlean-X \u2014 Dumbbell Floor Press Guide"
+        "yt": "https://www.youtube.com/watch?v=uUGDRwge4F8",
+        "ytLabel": "Scott Herman \u2014 Dumbbell Floor Press Form"
       },
       {
         "id": "m_15_3",
@@ -1445,7 +1445,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Elbows lead)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
-        "ytLabel": "Jeff Nippard \u2014 Science of Lateral Raises"
+        "ytLabel": "Scott Herman \u2014 DB Side Lateral Raise"
       },
       {
         "id": "m_15_5",
@@ -1456,7 +1456,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=_gsUck-7M74",
-        "ytLabel": "Scott Herman \u2014 Overhead Tricep Extension"
+        "ytLabel": "Howcast \u2014 Dumbbell Tricep Extension"
       }
     ],
     "evening": {
@@ -1464,15 +1464,15 @@ const WORKOUT_PLAN = [
         "id": "e_15_1",
         "name": "Transverse Abdominis Stomach Vacuum",
         "target": "4 sets x 20\u201325s vacuum hold on empty stomach",
-        "yt": "https://www.youtube.com/watch?v=c3-e2u0l1dM",
-        "ytLabel": "Jeremy Ethier \u2014 Stomach Vacuum for Slim Waist"
+        "yt": "https://www.youtube.com/watch?v=cub3xhJXsAA",
+        "ytLabel": "wikiHow \u2014 Stomach Vacuum Exercise Guide"
       },
       "mobility": {
         "id": "e_15_2",
         "name": "Couch Stretch (Hip Flexor & Psoas Opener)",
         "target": "2 mins each side (opens tight hip flexors)",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       "cardio": {
         "id": "e_15_3",
@@ -1513,7 +1513,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (1s squeeze at top)",
         "rest": "60\u201375s",
         "yt": "https://www.youtube.com/watch?v=pYcpY20QaE8",
-        "ytLabel": "Athlean-X \u2014 Perfect Single-Arm DB Row"
+        "ytLabel": "Scott Herman \u2014 Single-Arm DB Row Form"
       },
       {
         "id": "m_16_2",
@@ -1524,7 +1524,7 @@ const WORKOUT_PLAN = [
         "tempo": "2-1-1-0",
         "rest": "60\u201375s",
         "yt": "https://www.youtube.com/watch?v=rloXYB8M3vU",
-        "ytLabel": "Calisthenicmovement \u2014 Door Towel Rows"
+        "ytLabel": "Antranik \u2014 Door Towel Incline Rows"
       },
       {
         "id": "m_16_3",
@@ -1534,8 +1534,8 @@ const WORKOUT_PLAN = [
         "load": "2x 4kg or 2x 5kg",
         "tempo": "3-1-1-0",
         "rest": "60s",
-        "yt": "https://www.youtube.com/watch?v=eaun65zHk2c",
-        "ytLabel": "Athlean-X \u2014 Rear Delt Flyes"
+        "yt": "https://www.youtube.com/watch?v=ttvfGg9d76c",
+        "ytLabel": "Scott Herman \u2014 DB Bent-Over Rear Delt Raise"
       },
       {
         "id": "m_16_4",
@@ -1546,7 +1546,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Supinate wrist)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=in7PaeYlhrM",
-        "ytLabel": "Jeff Nippard \u2014 Bicep Hypertrophy Science"
+        "ytLabel": "Mind Pump TV \u2014 Dumbbell Bicep Curls Form"
       },
       {
         "id": "m_16_5",
@@ -1565,15 +1565,15 @@ const WORKOUT_PLAN = [
         "id": "e_16_1",
         "name": "Deadbug Core Stabilization",
         "target": "3 sets x 12 reps per side (Anti-extension core)",
-        "yt": "https://www.youtube.com/watch?v=g_BYB0R-44A",
+        "yt": "https://www.youtube.com/watch?v=0XVbn86Btj0",
         "ytLabel": "Squat University \u2014 Deadbug Core Form"
       },
       "mobility": {
         "id": "e_16_2",
         "name": "Thoracic Spine Mobility & Desk Posture",
         "target": "3 mins thoracic spine rotations (fixes desk posture)",
-        "yt": "https://www.youtube.com/watch?v=0h5c5lQvB1c",
-        "ytLabel": "Squat University \u2014 Thoracic Mobility"
+        "yt": "https://www.youtube.com/watch?v=9LJDGUulS_8",
+        "ytLabel": "Squat University \u2014 Thoracic Spine Mobility"
       },
       "cardio": {
         "id": "e_16_3",
@@ -1613,8 +1613,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg (Goblet) or 2x 5kg",
         "tempo": "3-1-1-0 (Deep hip crease)",
         "rest": "90s",
-        "yt": "https://www.youtube.com/watch?v=1CVecvh_6W0",
-        "ytLabel": "Squat University \u2014 Bulgarian Split Squat"
+        "yt": "https://www.youtube.com/watch?v=bwhl_9jN_3o",
+        "ytLabel": "Squat University \u2014 Bulgarian Split Squat Form"
       },
       {
         "id": "m_17_2",
@@ -1625,7 +1625,7 @@ const WORKOUT_PLAN = [
         "tempo": "4-1-1-0 (Deep hamstring stretch)",
         "rest": "60\u201375s",
         "yt": "https://www.youtube.com/watch?v=_oyxCn2iSjU",
-        "ytLabel": "Jeremy Ethier \u2014 Dumbbell RDL Form"
+        "ytLabel": "Jeff Nippard \u2014 Romanian Deadlift (RDL) Guide"
       },
       {
         "id": "m_17_3",
@@ -1636,7 +1636,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "60\u201375s",
         "yt": "https://www.youtube.com/watch?v=MeIiIdhvXT4",
-        "ytLabel": "Athlean-X \u2014 Goblet Squat Mastery"
+        "ytLabel": "Scott Herman \u2014 Goblet Squat Guide"
       },
       {
         "id": "m_17_4",
@@ -1647,7 +1647,7 @@ const WORKOUT_PLAN = [
         "tempo": "2-2-1-0 (2s hold at peak)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=8bbE64NuDTU",
-        "ytLabel": "Jeremy Ethier \u2014 Glute Bridge & Hip Thrust"
+        "ytLabel": "Scott Herman \u2014 Glute Bridge Technique"
       },
       {
         "id": "m_17_5",
@@ -1657,8 +1657,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg in hand (Book/step)",
         "tempo": "3-2-1-0 (2s full stretch at bottom)",
         "rest": "45s",
-        "yt": "https://www.youtube.com/watch?v=f2w8v8P7kio",
-        "ytLabel": "Jeff Nippard \u2014 Calf Growth Guide"
+        "yt": "https://www.youtube.com/watch?v=ORT4oJ_R8Qs",
+        "ytLabel": "Scott Herman \u2014 Single-Leg Calf Raise Form"
       }
     ],
     "evening": {
@@ -1666,14 +1666,14 @@ const WORKOUT_PLAN = [
         "id": "e_17_1",
         "name": "Lying Leg Raises & Reverse Crunches",
         "target": "3 sets x 15 reps (Lower abs & pelvis tuck)",
-        "yt": "https://www.youtube.com/watch?v=Pr1ieGZ5atk",
-        "ytLabel": "Calisthenicmovement \u2014 Leg Raises"
+        "yt": "https://www.youtube.com/watch?v=PkLYH3uRtSs",
+        "ytLabel": "TylerPath \u2014 Lying Leg Raises Form"
       },
       "mobility": {
         "id": "e_17_2",
         "name": "World's Greatest Stretch Routine",
         "target": "3 mins hip & ankle mobility flow",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       "cardio": {
@@ -1714,8 +1714,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Deep breathing",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       {
         "id": "m_18_2",
@@ -1725,8 +1725,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Slow rotation",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=0h5c5lQvB1c",
-        "ytLabel": "Squat University \u2014 Thoracic Mobility"
+        "yt": "https://www.youtube.com/watch?v=9LJDGUulS_8",
+        "ytLabel": "Squat University \u2014 Thoracic Spine Mobility"
       },
       {
         "id": "m_18_3",
@@ -1737,7 +1737,7 @@ const WORKOUT_PLAN = [
         "tempo": "2s hold at full reach",
         "rest": "45s",
         "yt": "https://www.youtube.com/watch?v=wiFNA3sqjCA",
-        "ytLabel": "Squat University \u2014 Bird Dog Form"
+        "ytLabel": "Howcast \u2014 Bird Dog Exercise Tutorial"
       },
       {
         "id": "m_18_4",
@@ -1748,7 +1748,7 @@ const WORKOUT_PLAN = [
         "tempo": "Max squeeze glutes & abs",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=TvxNkmjdhMM",
-        "ytLabel": "Calisthenicmovement \u2014 Proper Plank Form"
+        "ytLabel": "P4P Workouts \u2014 Proper Plank Form"
       }
     ],
     "evening": {
@@ -1756,14 +1756,14 @@ const WORKOUT_PLAN = [
         "id": "e_18_1",
         "name": "Transverse Abdominis Stomach Vacuum",
         "target": "4 sets x 25s vacuum hold (Waist slimming)",
-        "yt": "https://www.youtube.com/watch?v=c3-e2u0l1dM",
-        "ytLabel": "Jeremy Ethier \u2014 Stomach Vacuum for Slim Waist"
+        "yt": "https://www.youtube.com/watch?v=cub3xhJXsAA",
+        "ytLabel": "wikiHow \u2014 Stomach Vacuum Exercise Guide"
       },
       "mobility": {
         "id": "e_18_2",
         "name": "World's Greatest Stretch Routine",
         "target": "3 mins deep whole-body stretch",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       "cardio": {
@@ -1805,7 +1805,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "60\u201375s",
         "yt": "https://www.youtube.com/watch?v=SKPab2YC8BE",
-        "ytLabel": "Calisthenicmovement \u2014 Decline Push-Ups (Upper Chest)"
+        "ytLabel": "Scott Herman \u2014 Decline Push-Up Form"
       },
       {
         "id": "m_19_2",
@@ -1816,7 +1816,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Full rotation)",
         "rest": "60\u201375s",
         "yt": "https://www.youtube.com/watch?v=6Z15_WdXmVw",
-        "ytLabel": "Scott Herman \u2014 Arnold Press Technique"
+        "ytLabel": "Buff Dudes \u2014 Arnold Press Tutorial"
       },
       {
         "id": "m_19_3",
@@ -1826,8 +1826,8 @@ const WORKOUT_PLAN = [
         "load": "2x 10kg (or 2x 5kg)",
         "tempo": "2-1-1-0",
         "rest": "60\u201375s",
-        "yt": "https://www.youtube.com/watch?v=6TSP13BISI4",
-        "ytLabel": "Scott Herman \u2014 Bent Over DB Row"
+        "yt": "https://www.youtube.com/watch?v=5PoEksoJNaw",
+        "ytLabel": "Renaissance Periodization \u2014 Two Arm Dumbbell Row"
       },
       {
         "id": "m_19_4",
@@ -1838,7 +1838,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Strict side delts)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
-        "ytLabel": "Jeff Nippard \u2014 Science of Lateral Raises"
+        "ytLabel": "Scott Herman \u2014 DB Side Lateral Raise"
       },
       {
         "id": "m_19_5",
@@ -1849,7 +1849,7 @@ const WORKOUT_PLAN = [
         "tempo": "2-1-1-0",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=J0DnG1_S92I",
-        "ytLabel": "Calisthenicmovement \u2014 Diamond Push-Ups"
+        "ytLabel": "Scott Herman \u2014 Diamond Push-Up"
       },
       {
         "id": "m_19_6",
@@ -1860,7 +1860,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "45s",
         "yt": "https://www.youtube.com/watch?v=0AUGkch3tzc",
-        "ytLabel": "Scott Herman \u2014 Concentration Curl"
+        "ytLabel": "Howcast \u2014 Concentration Curl Form"
       }
     ],
     "evening": {
@@ -1869,14 +1869,14 @@ const WORKOUT_PLAN = [
         "name": "Hollow Body Hold",
         "target": "3 sets x 30\u201335s hollow body hold",
         "yt": "https://www.youtube.com/watch?v=44ScXWFaVBs",
-        "ytLabel": "Calisthenicmovement \u2014 Hollow Body Hold"
+        "ytLabel": "Antranik \u2014 Hollow Body Hold Guide"
       },
       "mobility": {
         "id": "e_19_2",
         "name": "Couch Stretch (Hip Flexor & Psoas Opener)",
         "target": "2 mins each side",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       "cardio": {
         "id": "e_19_3",
@@ -1917,7 +1917,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "60\u201375s",
         "yt": "https://www.youtube.com/watch?v=MeIiIdhvXT4",
-        "ytLabel": "Athlean-X \u2014 Goblet Squat Mastery"
+        "ytLabel": "Scott Herman \u2014 Goblet Squat Guide"
       },
       {
         "id": "m_20_2",
@@ -1928,7 +1928,7 @@ const WORKOUT_PLAN = [
         "tempo": "Controlled 90/90 step",
         "rest": "60\u201375s",
         "yt": "https://www.youtube.com/watch?v=L8fvypPrzzs",
-        "ytLabel": "Scott Herman \u2014 Walking Lunges"
+        "ytLabel": "CrossFit \u2014 The Walking Lunge Form"
       },
       {
         "id": "m_20_3",
@@ -1938,8 +1938,8 @@ const WORKOUT_PLAN = [
         "load": "1x 5kg or 1x 10kg",
         "tempo": "3-1-1-0",
         "rest": "60\u201375s",
-        "yt": "https://www.youtube.com/watch?v=2Tz8lWzL5Kk",
-        "ytLabel": "Squat University \u2014 Single Leg RDL"
+        "yt": "https://www.youtube.com/watch?v=DGavj41F_Cs",
+        "ytLabel": "Scott Herman \u2014 DB Single-Leg Stiff Deadlift"
       },
       {
         "id": "m_20_4",
@@ -1949,8 +1949,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg",
         "tempo": "3-1-1-0",
         "rest": "60\u201375s",
-        "yt": "https://www.youtube.com/watch?v=9ZuD8vf6nSU",
-        "ytLabel": "Scott Herman \u2014 Sumo Squat Technique"
+        "yt": "https://www.youtube.com/watch?v=bRCjBCtBGIo",
+        "ytLabel": "DeltaBolic \u2014 Dumbbell Sumo Squat Form"
       },
       {
         "id": "m_20_5",
@@ -1960,8 +1960,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg in hand",
         "tempo": "3-2-1-0",
         "rest": "45s",
-        "yt": "https://www.youtube.com/watch?v=f2w8v8P7kio",
-        "ytLabel": "Jeff Nippard \u2014 Calf Growth Guide"
+        "yt": "https://www.youtube.com/watch?v=ORT4oJ_R8Qs",
+        "ytLabel": "Scott Herman \u2014 Single-Leg Calf Raise Form"
       }
     ],
     "evening": {
@@ -1969,14 +1969,14 @@ const WORKOUT_PLAN = [
         "id": "e_20_1",
         "name": "Deadbug Core Stabilization",
         "target": "3 sets x 12 reps / side",
-        "yt": "https://www.youtube.com/watch?v=g_BYB0R-44A",
+        "yt": "https://www.youtube.com/watch?v=0XVbn86Btj0",
         "ytLabel": "Squat University \u2014 Deadbug Core Form"
       },
       "mobility": {
         "id": "e_20_2",
         "name": "World's Greatest Stretch Routine",
         "target": "3 mins deep hips & ankles",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       "cardio": {
@@ -2017,7 +2017,7 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Deep breath at extension",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       {
@@ -2028,8 +2028,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Relax into hip",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       {
         "id": "m_21_3",
@@ -2039,8 +2039,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Slow rotation",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=0h5c5lQvB1c",
-        "ytLabel": "Squat University \u2014 Thoracic Mobility"
+        "yt": "https://www.youtube.com/watch?v=9LJDGUulS_8",
+        "ytLabel": "Squat University \u2014 Thoracic Spine Mobility"
       },
       {
         "id": "m_21_4",
@@ -2050,8 +2050,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Max exhalation & pull navel in",
         "rest": "45s",
-        "yt": "https://www.youtube.com/watch?v=c3-e2u0l1dM",
-        "ytLabel": "Jeremy Ethier \u2014 Stomach Vacuum for Slim Waist"
+        "yt": "https://www.youtube.com/watch?v=cub3xhJXsAA",
+        "ytLabel": "wikiHow \u2014 Stomach Vacuum Exercise Guide"
       }
     ],
     "evening": {
@@ -2060,14 +2060,14 @@ const WORKOUT_PLAN = [
         "name": "Hardstyle RKC Plank (Maximum Tension)",
         "target": "3 sets x 30s plank hold",
         "yt": "https://www.youtube.com/watch?v=TvxNkmjdhMM",
-        "ytLabel": "Calisthenicmovement \u2014 Proper Plank Form"
+        "ytLabel": "P4P Workouts \u2014 Proper Plank Form"
       },
       "mobility": {
         "id": "e_21_2",
         "name": "Shoulder Doorway Stretch",
         "target": "2 mins chest & anterior delt opening",
-        "yt": null,
-        "ytLabel": null
+        "yt": "https://www.youtube.com/watch?v=O8rJw_TmC1Y",
+        "ytLabel": "Rehab Hero \u2014 Doorway Chest & Shoulder Stretch"
       },
       "cardio": {
         "id": "e_21_3",
@@ -2118,8 +2118,8 @@ const WORKOUT_PLAN = [
         "load": "2x 10kg (or 2x 5kg)",
         "tempo": "3-1-1-0",
         "rest": "60\u201375s",
-        "yt": "https://www.youtube.com/watch?v=uUGDRwG4Fjs",
-        "ytLabel": "Athlean-X \u2014 Dumbbell Floor Press Guide"
+        "yt": "https://www.youtube.com/watch?v=uUGDRwge4F8",
+        "ytLabel": "Scott Herman \u2014 Dumbbell Floor Press Form"
       },
       {
         "id": "m_22_3",
@@ -2141,7 +2141,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Elbows lead)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
-        "ytLabel": "Jeff Nippard \u2014 Science of Lateral Raises"
+        "ytLabel": "Scott Herman \u2014 DB Side Lateral Raise"
       },
       {
         "id": "m_22_5",
@@ -2152,7 +2152,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=_gsUck-7M74",
-        "ytLabel": "Scott Herman \u2014 Overhead Tricep Extension"
+        "ytLabel": "Howcast \u2014 Dumbbell Tricep Extension"
       }
     ],
     "evening": {
@@ -2160,15 +2160,15 @@ const WORKOUT_PLAN = [
         "id": "e_22_1",
         "name": "Transverse Abdominis Stomach Vacuum",
         "target": "4 sets x 20\u201325s vacuum hold on empty stomach",
-        "yt": "https://www.youtube.com/watch?v=c3-e2u0l1dM",
-        "ytLabel": "Jeremy Ethier \u2014 Stomach Vacuum for Slim Waist"
+        "yt": "https://www.youtube.com/watch?v=cub3xhJXsAA",
+        "ytLabel": "wikiHow \u2014 Stomach Vacuum Exercise Guide"
       },
       "mobility": {
         "id": "e_22_2",
         "name": "Couch Stretch (Hip Flexor & Psoas Opener)",
         "target": "2 mins each side (opens tight hip flexors)",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       "cardio": {
         "id": "e_22_3",
@@ -2209,7 +2209,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (1s squeeze at top)",
         "rest": "60\u201375s",
         "yt": "https://www.youtube.com/watch?v=pYcpY20QaE8",
-        "ytLabel": "Athlean-X \u2014 Perfect Single-Arm DB Row"
+        "ytLabel": "Scott Herman \u2014 Single-Arm DB Row Form"
       },
       {
         "id": "m_23_2",
@@ -2220,7 +2220,7 @@ const WORKOUT_PLAN = [
         "tempo": "2-1-1-0",
         "rest": "60\u201375s",
         "yt": "https://www.youtube.com/watch?v=rloXYB8M3vU",
-        "ytLabel": "Calisthenicmovement \u2014 Door Towel Rows"
+        "ytLabel": "Antranik \u2014 Door Towel Incline Rows"
       },
       {
         "id": "m_23_3",
@@ -2230,8 +2230,8 @@ const WORKOUT_PLAN = [
         "load": "2x 4kg or 2x 5kg",
         "tempo": "3-1-1-0",
         "rest": "60s",
-        "yt": "https://www.youtube.com/watch?v=eaun65zHk2c",
-        "ytLabel": "Athlean-X \u2014 Rear Delt Flyes"
+        "yt": "https://www.youtube.com/watch?v=ttvfGg9d76c",
+        "ytLabel": "Scott Herman \u2014 DB Bent-Over Rear Delt Raise"
       },
       {
         "id": "m_23_4",
@@ -2242,7 +2242,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Supinate wrist)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=in7PaeYlhrM",
-        "ytLabel": "Jeff Nippard \u2014 Bicep Hypertrophy Science"
+        "ytLabel": "Mind Pump TV \u2014 Dumbbell Bicep Curls Form"
       },
       {
         "id": "m_23_5",
@@ -2261,15 +2261,15 @@ const WORKOUT_PLAN = [
         "id": "e_23_1",
         "name": "Deadbug Core Stabilization",
         "target": "3 sets x 12 reps per side (Anti-extension core)",
-        "yt": "https://www.youtube.com/watch?v=g_BYB0R-44A",
+        "yt": "https://www.youtube.com/watch?v=0XVbn86Btj0",
         "ytLabel": "Squat University \u2014 Deadbug Core Form"
       },
       "mobility": {
         "id": "e_23_2",
         "name": "Thoracic Spine Mobility & Desk Posture",
         "target": "3 mins thoracic spine rotations (fixes desk posture)",
-        "yt": "https://www.youtube.com/watch?v=0h5c5lQvB1c",
-        "ytLabel": "Squat University \u2014 Thoracic Mobility"
+        "yt": "https://www.youtube.com/watch?v=9LJDGUulS_8",
+        "ytLabel": "Squat University \u2014 Thoracic Spine Mobility"
       },
       "cardio": {
         "id": "e_23_3",
@@ -2309,8 +2309,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg (Goblet) or 2x 5kg",
         "tempo": "3-1-1-0 (Deep hip crease)",
         "rest": "90s",
-        "yt": "https://www.youtube.com/watch?v=1CVecvh_6W0",
-        "ytLabel": "Squat University \u2014 Bulgarian Split Squat"
+        "yt": "https://www.youtube.com/watch?v=bwhl_9jN_3o",
+        "ytLabel": "Squat University \u2014 Bulgarian Split Squat Form"
       },
       {
         "id": "m_24_2",
@@ -2321,7 +2321,7 @@ const WORKOUT_PLAN = [
         "tempo": "4-1-1-0 (Deep hamstring stretch)",
         "rest": "60\u201375s",
         "yt": "https://www.youtube.com/watch?v=_oyxCn2iSjU",
-        "ytLabel": "Jeremy Ethier \u2014 Dumbbell RDL Form"
+        "ytLabel": "Jeff Nippard \u2014 Romanian Deadlift (RDL) Guide"
       },
       {
         "id": "m_24_3",
@@ -2332,7 +2332,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "60\u201375s",
         "yt": "https://www.youtube.com/watch?v=MeIiIdhvXT4",
-        "ytLabel": "Athlean-X \u2014 Goblet Squat Mastery"
+        "ytLabel": "Scott Herman \u2014 Goblet Squat Guide"
       },
       {
         "id": "m_24_4",
@@ -2343,7 +2343,7 @@ const WORKOUT_PLAN = [
         "tempo": "2-2-1-0 (2s hold at peak)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=8bbE64NuDTU",
-        "ytLabel": "Jeremy Ethier \u2014 Glute Bridge & Hip Thrust"
+        "ytLabel": "Scott Herman \u2014 Glute Bridge Technique"
       },
       {
         "id": "m_24_5",
@@ -2353,8 +2353,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg in hand (Book/step)",
         "tempo": "3-2-1-0 (2s full stretch at bottom)",
         "rest": "45s",
-        "yt": "https://www.youtube.com/watch?v=f2w8v8P7kio",
-        "ytLabel": "Jeff Nippard \u2014 Calf Growth Guide"
+        "yt": "https://www.youtube.com/watch?v=ORT4oJ_R8Qs",
+        "ytLabel": "Scott Herman \u2014 Single-Leg Calf Raise Form"
       }
     ],
     "evening": {
@@ -2362,14 +2362,14 @@ const WORKOUT_PLAN = [
         "id": "e_24_1",
         "name": "Lying Leg Raises & Reverse Crunches",
         "target": "3 sets x 15 reps (Lower abs & pelvis tuck)",
-        "yt": "https://www.youtube.com/watch?v=Pr1ieGZ5atk",
-        "ytLabel": "Calisthenicmovement \u2014 Leg Raises"
+        "yt": "https://www.youtube.com/watch?v=PkLYH3uRtSs",
+        "ytLabel": "TylerPath \u2014 Lying Leg Raises Form"
       },
       "mobility": {
         "id": "e_24_2",
         "name": "World's Greatest Stretch Routine",
         "target": "3 mins hip & ankle mobility flow",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       "cardio": {
@@ -2410,8 +2410,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Deep breathing",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       {
         "id": "m_25_2",
@@ -2421,8 +2421,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Slow rotation",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=0h5c5lQvB1c",
-        "ytLabel": "Squat University \u2014 Thoracic Mobility"
+        "yt": "https://www.youtube.com/watch?v=9LJDGUulS_8",
+        "ytLabel": "Squat University \u2014 Thoracic Spine Mobility"
       },
       {
         "id": "m_25_3",
@@ -2433,7 +2433,7 @@ const WORKOUT_PLAN = [
         "tempo": "2s hold at full reach",
         "rest": "45s",
         "yt": "https://www.youtube.com/watch?v=wiFNA3sqjCA",
-        "ytLabel": "Squat University \u2014 Bird Dog Form"
+        "ytLabel": "Howcast \u2014 Bird Dog Exercise Tutorial"
       },
       {
         "id": "m_25_4",
@@ -2444,7 +2444,7 @@ const WORKOUT_PLAN = [
         "tempo": "Max squeeze glutes & abs",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=TvxNkmjdhMM",
-        "ytLabel": "Calisthenicmovement \u2014 Proper Plank Form"
+        "ytLabel": "P4P Workouts \u2014 Proper Plank Form"
       }
     ],
     "evening": {
@@ -2452,14 +2452,14 @@ const WORKOUT_PLAN = [
         "id": "e_25_1",
         "name": "Transverse Abdominis Stomach Vacuum",
         "target": "4 sets x 25s vacuum hold (Waist slimming)",
-        "yt": "https://www.youtube.com/watch?v=c3-e2u0l1dM",
-        "ytLabel": "Jeremy Ethier \u2014 Stomach Vacuum for Slim Waist"
+        "yt": "https://www.youtube.com/watch?v=cub3xhJXsAA",
+        "ytLabel": "wikiHow \u2014 Stomach Vacuum Exercise Guide"
       },
       "mobility": {
         "id": "e_25_2",
         "name": "World's Greatest Stretch Routine",
         "target": "3 mins deep whole-body stretch",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       "cardio": {
@@ -2501,7 +2501,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "60\u201375s",
         "yt": "https://www.youtube.com/watch?v=SKPab2YC8BE",
-        "ytLabel": "Calisthenicmovement \u2014 Decline Push-Ups (Upper Chest)"
+        "ytLabel": "Scott Herman \u2014 Decline Push-Up Form"
       },
       {
         "id": "m_26_2",
@@ -2512,7 +2512,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Full rotation)",
         "rest": "60\u201375s",
         "yt": "https://www.youtube.com/watch?v=6Z15_WdXmVw",
-        "ytLabel": "Scott Herman \u2014 Arnold Press Technique"
+        "ytLabel": "Buff Dudes \u2014 Arnold Press Tutorial"
       },
       {
         "id": "m_26_3",
@@ -2522,8 +2522,8 @@ const WORKOUT_PLAN = [
         "load": "2x 10kg (or 2x 5kg)",
         "tempo": "2-1-1-0",
         "rest": "60\u201375s",
-        "yt": "https://www.youtube.com/watch?v=6TSP13BISI4",
-        "ytLabel": "Scott Herman \u2014 Bent Over DB Row"
+        "yt": "https://www.youtube.com/watch?v=5PoEksoJNaw",
+        "ytLabel": "Renaissance Periodization \u2014 Two Arm Dumbbell Row"
       },
       {
         "id": "m_26_4",
@@ -2534,7 +2534,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Strict side delts)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
-        "ytLabel": "Jeff Nippard \u2014 Science of Lateral Raises"
+        "ytLabel": "Scott Herman \u2014 DB Side Lateral Raise"
       },
       {
         "id": "m_26_5",
@@ -2545,7 +2545,7 @@ const WORKOUT_PLAN = [
         "tempo": "2-1-1-0",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=J0DnG1_S92I",
-        "ytLabel": "Calisthenicmovement \u2014 Diamond Push-Ups"
+        "ytLabel": "Scott Herman \u2014 Diamond Push-Up"
       },
       {
         "id": "m_26_6",
@@ -2556,7 +2556,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "45s",
         "yt": "https://www.youtube.com/watch?v=0AUGkch3tzc",
-        "ytLabel": "Scott Herman \u2014 Concentration Curl"
+        "ytLabel": "Howcast \u2014 Concentration Curl Form"
       }
     ],
     "evening": {
@@ -2565,14 +2565,14 @@ const WORKOUT_PLAN = [
         "name": "Hollow Body Hold",
         "target": "3 sets x 30\u201335s hollow body hold",
         "yt": "https://www.youtube.com/watch?v=44ScXWFaVBs",
-        "ytLabel": "Calisthenicmovement \u2014 Hollow Body Hold"
+        "ytLabel": "Antranik \u2014 Hollow Body Hold Guide"
       },
       "mobility": {
         "id": "e_26_2",
         "name": "Couch Stretch (Hip Flexor & Psoas Opener)",
         "target": "2 mins each side",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       "cardio": {
         "id": "e_26_3",
@@ -2613,7 +2613,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "60\u201375s",
         "yt": "https://www.youtube.com/watch?v=MeIiIdhvXT4",
-        "ytLabel": "Athlean-X \u2014 Goblet Squat Mastery"
+        "ytLabel": "Scott Herman \u2014 Goblet Squat Guide"
       },
       {
         "id": "m_27_2",
@@ -2624,7 +2624,7 @@ const WORKOUT_PLAN = [
         "tempo": "Controlled 90/90 step",
         "rest": "60\u201375s",
         "yt": "https://www.youtube.com/watch?v=L8fvypPrzzs",
-        "ytLabel": "Scott Herman \u2014 Walking Lunges"
+        "ytLabel": "CrossFit \u2014 The Walking Lunge Form"
       },
       {
         "id": "m_27_3",
@@ -2634,8 +2634,8 @@ const WORKOUT_PLAN = [
         "load": "1x 5kg or 1x 10kg",
         "tempo": "3-1-1-0",
         "rest": "60\u201375s",
-        "yt": "https://www.youtube.com/watch?v=2Tz8lWzL5Kk",
-        "ytLabel": "Squat University \u2014 Single Leg RDL"
+        "yt": "https://www.youtube.com/watch?v=DGavj41F_Cs",
+        "ytLabel": "Scott Herman \u2014 DB Single-Leg Stiff Deadlift"
       },
       {
         "id": "m_27_4",
@@ -2645,8 +2645,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg",
         "tempo": "3-1-1-0",
         "rest": "60\u201375s",
-        "yt": "https://www.youtube.com/watch?v=9ZuD8vf6nSU",
-        "ytLabel": "Scott Herman \u2014 Sumo Squat Technique"
+        "yt": "https://www.youtube.com/watch?v=bRCjBCtBGIo",
+        "ytLabel": "DeltaBolic \u2014 Dumbbell Sumo Squat Form"
       },
       {
         "id": "m_27_5",
@@ -2656,8 +2656,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg in hand",
         "tempo": "3-2-1-0",
         "rest": "45s",
-        "yt": "https://www.youtube.com/watch?v=f2w8v8P7kio",
-        "ytLabel": "Jeff Nippard \u2014 Calf Growth Guide"
+        "yt": "https://www.youtube.com/watch?v=ORT4oJ_R8Qs",
+        "ytLabel": "Scott Herman \u2014 Single-Leg Calf Raise Form"
       }
     ],
     "evening": {
@@ -2665,14 +2665,14 @@ const WORKOUT_PLAN = [
         "id": "e_27_1",
         "name": "Deadbug Core Stabilization",
         "target": "3 sets x 12 reps / side",
-        "yt": "https://www.youtube.com/watch?v=g_BYB0R-44A",
+        "yt": "https://www.youtube.com/watch?v=0XVbn86Btj0",
         "ytLabel": "Squat University \u2014 Deadbug Core Form"
       },
       "mobility": {
         "id": "e_27_2",
         "name": "World's Greatest Stretch Routine",
         "target": "3 mins deep hips & ankles",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       "cardio": {
@@ -2713,7 +2713,7 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Deep breath at extension",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       {
@@ -2724,8 +2724,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Relax into hip",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       {
         "id": "m_28_3",
@@ -2735,8 +2735,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Slow rotation",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=0h5c5lQvB1c",
-        "ytLabel": "Squat University \u2014 Thoracic Mobility"
+        "yt": "https://www.youtube.com/watch?v=9LJDGUulS_8",
+        "ytLabel": "Squat University \u2014 Thoracic Spine Mobility"
       },
       {
         "id": "m_28_4",
@@ -2746,8 +2746,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Max exhalation & pull navel in",
         "rest": "45s",
-        "yt": "https://www.youtube.com/watch?v=c3-e2u0l1dM",
-        "ytLabel": "Jeremy Ethier \u2014 Stomach Vacuum for Slim Waist"
+        "yt": "https://www.youtube.com/watch?v=cub3xhJXsAA",
+        "ytLabel": "wikiHow \u2014 Stomach Vacuum Exercise Guide"
       }
     ],
     "evening": {
@@ -2756,14 +2756,14 @@ const WORKOUT_PLAN = [
         "name": "Hardstyle RKC Plank (Maximum Tension)",
         "target": "3 sets x 30s plank hold",
         "yt": "https://www.youtube.com/watch?v=TvxNkmjdhMM",
-        "ytLabel": "Calisthenicmovement \u2014 Proper Plank Form"
+        "ytLabel": "P4P Workouts \u2014 Proper Plank Form"
       },
       "mobility": {
         "id": "e_28_2",
         "name": "Shoulder Doorway Stretch",
         "target": "2 mins chest & anterior delt opening",
-        "yt": null,
-        "ytLabel": null
+        "yt": "https://www.youtube.com/watch?v=O8rJw_TmC1Y",
+        "ytLabel": "Rehab Hero \u2014 Doorway Chest & Shoulder Stretch"
       },
       "cardio": {
         "id": "e_28_3",
@@ -2814,8 +2814,8 @@ const WORKOUT_PLAN = [
         "load": "2x 10kg (or 2x 5kg)",
         "tempo": "3-1-1-0",
         "rest": "60\u201375s",
-        "yt": "https://www.youtube.com/watch?v=uUGDRwG4Fjs",
-        "ytLabel": "Athlean-X \u2014 Dumbbell Floor Press Guide"
+        "yt": "https://www.youtube.com/watch?v=uUGDRwge4F8",
+        "ytLabel": "Scott Herman \u2014 Dumbbell Floor Press Form"
       },
       {
         "id": "m_29_3",
@@ -2837,7 +2837,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Elbows lead)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
-        "ytLabel": "Jeff Nippard \u2014 Science of Lateral Raises"
+        "ytLabel": "Scott Herman \u2014 DB Side Lateral Raise"
       },
       {
         "id": "m_29_5",
@@ -2848,7 +2848,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=_gsUck-7M74",
-        "ytLabel": "Scott Herman \u2014 Overhead Tricep Extension"
+        "ytLabel": "Howcast \u2014 Dumbbell Tricep Extension"
       }
     ],
     "evening": {
@@ -2856,15 +2856,15 @@ const WORKOUT_PLAN = [
         "id": "e_29_1",
         "name": "Transverse Abdominis Stomach Vacuum",
         "target": "4 sets x 20\u201325s vacuum hold on empty stomach",
-        "yt": "https://www.youtube.com/watch?v=c3-e2u0l1dM",
-        "ytLabel": "Jeremy Ethier \u2014 Stomach Vacuum for Slim Waist"
+        "yt": "https://www.youtube.com/watch?v=cub3xhJXsAA",
+        "ytLabel": "wikiHow \u2014 Stomach Vacuum Exercise Guide"
       },
       "mobility": {
         "id": "e_29_2",
         "name": "Couch Stretch (Hip Flexor & Psoas Opener)",
         "target": "2 mins each side (opens tight hip flexors)",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       "cardio": {
         "id": "e_29_3",
@@ -2905,7 +2905,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (1s squeeze at top)",
         "rest": "60\u201375s",
         "yt": "https://www.youtube.com/watch?v=pYcpY20QaE8",
-        "ytLabel": "Athlean-X \u2014 Perfect Single-Arm DB Row"
+        "ytLabel": "Scott Herman \u2014 Single-Arm DB Row Form"
       },
       {
         "id": "m_30_2",
@@ -2916,7 +2916,7 @@ const WORKOUT_PLAN = [
         "tempo": "2-1-1-0",
         "rest": "60\u201375s",
         "yt": "https://www.youtube.com/watch?v=rloXYB8M3vU",
-        "ytLabel": "Calisthenicmovement \u2014 Door Towel Rows"
+        "ytLabel": "Antranik \u2014 Door Towel Incline Rows"
       },
       {
         "id": "m_30_3",
@@ -2926,8 +2926,8 @@ const WORKOUT_PLAN = [
         "load": "2x 4kg or 2x 5kg",
         "tempo": "3-1-1-0",
         "rest": "60s",
-        "yt": "https://www.youtube.com/watch?v=eaun65zHk2c",
-        "ytLabel": "Athlean-X \u2014 Rear Delt Flyes"
+        "yt": "https://www.youtube.com/watch?v=ttvfGg9d76c",
+        "ytLabel": "Scott Herman \u2014 DB Bent-Over Rear Delt Raise"
       },
       {
         "id": "m_30_4",
@@ -2938,7 +2938,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Supinate wrist)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=in7PaeYlhrM",
-        "ytLabel": "Jeff Nippard \u2014 Bicep Hypertrophy Science"
+        "ytLabel": "Mind Pump TV \u2014 Dumbbell Bicep Curls Form"
       },
       {
         "id": "m_30_5",
@@ -2957,15 +2957,15 @@ const WORKOUT_PLAN = [
         "id": "e_30_1",
         "name": "Deadbug Core Stabilization",
         "target": "3 sets x 12 reps per side (Anti-extension core)",
-        "yt": "https://www.youtube.com/watch?v=g_BYB0R-44A",
+        "yt": "https://www.youtube.com/watch?v=0XVbn86Btj0",
         "ytLabel": "Squat University \u2014 Deadbug Core Form"
       },
       "mobility": {
         "id": "e_30_2",
         "name": "Thoracic Spine Mobility & Desk Posture",
         "target": "3 mins thoracic spine rotations (fixes desk posture)",
-        "yt": "https://www.youtube.com/watch?v=0h5c5lQvB1c",
-        "ytLabel": "Squat University \u2014 Thoracic Mobility"
+        "yt": "https://www.youtube.com/watch?v=9LJDGUulS_8",
+        "ytLabel": "Squat University \u2014 Thoracic Spine Mobility"
       },
       "cardio": {
         "id": "e_30_3",
@@ -3005,8 +3005,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg (Goblet) or 2x 5kg",
         "tempo": "3-1-1-0 (Deep hip crease)",
         "rest": "90s",
-        "yt": "https://www.youtube.com/watch?v=1CVecvh_6W0",
-        "ytLabel": "Squat University \u2014 Bulgarian Split Squat"
+        "yt": "https://www.youtube.com/watch?v=bwhl_9jN_3o",
+        "ytLabel": "Squat University \u2014 Bulgarian Split Squat Form"
       },
       {
         "id": "m_31_2",
@@ -3017,7 +3017,7 @@ const WORKOUT_PLAN = [
         "tempo": "4-1-1-0 (Deep hamstring stretch)",
         "rest": "60\u201375s",
         "yt": "https://www.youtube.com/watch?v=_oyxCn2iSjU",
-        "ytLabel": "Jeremy Ethier \u2014 Dumbbell RDL Form"
+        "ytLabel": "Jeff Nippard \u2014 Romanian Deadlift (RDL) Guide"
       },
       {
         "id": "m_31_3",
@@ -3028,7 +3028,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "60\u201375s",
         "yt": "https://www.youtube.com/watch?v=MeIiIdhvXT4",
-        "ytLabel": "Athlean-X \u2014 Goblet Squat Mastery"
+        "ytLabel": "Scott Herman \u2014 Goblet Squat Guide"
       },
       {
         "id": "m_31_4",
@@ -3039,7 +3039,7 @@ const WORKOUT_PLAN = [
         "tempo": "2-2-1-0 (2s hold at peak)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=8bbE64NuDTU",
-        "ytLabel": "Jeremy Ethier \u2014 Glute Bridge & Hip Thrust"
+        "ytLabel": "Scott Herman \u2014 Glute Bridge Technique"
       },
       {
         "id": "m_31_5",
@@ -3049,8 +3049,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg in hand (Book/step)",
         "tempo": "3-2-1-0 (2s full stretch at bottom)",
         "rest": "45s",
-        "yt": "https://www.youtube.com/watch?v=f2w8v8P7kio",
-        "ytLabel": "Jeff Nippard \u2014 Calf Growth Guide"
+        "yt": "https://www.youtube.com/watch?v=ORT4oJ_R8Qs",
+        "ytLabel": "Scott Herman \u2014 Single-Leg Calf Raise Form"
       }
     ],
     "evening": {
@@ -3058,14 +3058,14 @@ const WORKOUT_PLAN = [
         "id": "e_31_1",
         "name": "Lying Leg Raises & Reverse Crunches",
         "target": "3 sets x 15 reps (Lower abs & pelvis tuck)",
-        "yt": "https://www.youtube.com/watch?v=Pr1ieGZ5atk",
-        "ytLabel": "Calisthenicmovement \u2014 Leg Raises"
+        "yt": "https://www.youtube.com/watch?v=PkLYH3uRtSs",
+        "ytLabel": "TylerPath \u2014 Lying Leg Raises Form"
       },
       "mobility": {
         "id": "e_31_2",
         "name": "World's Greatest Stretch Routine",
         "target": "3 mins hip & ankle mobility flow",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       "cardio": {
@@ -3106,8 +3106,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Deep breathing",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       {
         "id": "m_32_2",
@@ -3117,8 +3117,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Slow rotation",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=0h5c5lQvB1c",
-        "ytLabel": "Squat University \u2014 Thoracic Mobility"
+        "yt": "https://www.youtube.com/watch?v=9LJDGUulS_8",
+        "ytLabel": "Squat University \u2014 Thoracic Spine Mobility"
       },
       {
         "id": "m_32_3",
@@ -3129,7 +3129,7 @@ const WORKOUT_PLAN = [
         "tempo": "2s hold at full reach",
         "rest": "45s",
         "yt": "https://www.youtube.com/watch?v=wiFNA3sqjCA",
-        "ytLabel": "Squat University \u2014 Bird Dog Form"
+        "ytLabel": "Howcast \u2014 Bird Dog Exercise Tutorial"
       },
       {
         "id": "m_32_4",
@@ -3140,7 +3140,7 @@ const WORKOUT_PLAN = [
         "tempo": "Max squeeze glutes & abs",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=TvxNkmjdhMM",
-        "ytLabel": "Calisthenicmovement \u2014 Proper Plank Form"
+        "ytLabel": "P4P Workouts \u2014 Proper Plank Form"
       }
     ],
     "evening": {
@@ -3148,14 +3148,14 @@ const WORKOUT_PLAN = [
         "id": "e_32_1",
         "name": "Transverse Abdominis Stomach Vacuum",
         "target": "4 sets x 25s vacuum hold (Waist slimming)",
-        "yt": "https://www.youtube.com/watch?v=c3-e2u0l1dM",
-        "ytLabel": "Jeremy Ethier \u2014 Stomach Vacuum for Slim Waist"
+        "yt": "https://www.youtube.com/watch?v=cub3xhJXsAA",
+        "ytLabel": "wikiHow \u2014 Stomach Vacuum Exercise Guide"
       },
       "mobility": {
         "id": "e_32_2",
         "name": "World's Greatest Stretch Routine",
         "target": "3 mins deep whole-body stretch",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       "cardio": {
@@ -3197,7 +3197,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "60\u201375s",
         "yt": "https://www.youtube.com/watch?v=SKPab2YC8BE",
-        "ytLabel": "Calisthenicmovement \u2014 Decline Push-Ups (Upper Chest)"
+        "ytLabel": "Scott Herman \u2014 Decline Push-Up Form"
       },
       {
         "id": "m_33_2",
@@ -3208,7 +3208,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Full rotation)",
         "rest": "60\u201375s",
         "yt": "https://www.youtube.com/watch?v=6Z15_WdXmVw",
-        "ytLabel": "Scott Herman \u2014 Arnold Press Technique"
+        "ytLabel": "Buff Dudes \u2014 Arnold Press Tutorial"
       },
       {
         "id": "m_33_3",
@@ -3218,8 +3218,8 @@ const WORKOUT_PLAN = [
         "load": "2x 10kg (or 2x 5kg)",
         "tempo": "2-1-1-0",
         "rest": "60\u201375s",
-        "yt": "https://www.youtube.com/watch?v=6TSP13BISI4",
-        "ytLabel": "Scott Herman \u2014 Bent Over DB Row"
+        "yt": "https://www.youtube.com/watch?v=5PoEksoJNaw",
+        "ytLabel": "Renaissance Periodization \u2014 Two Arm Dumbbell Row"
       },
       {
         "id": "m_33_4",
@@ -3230,7 +3230,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Strict side delts)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
-        "ytLabel": "Jeff Nippard \u2014 Science of Lateral Raises"
+        "ytLabel": "Scott Herman \u2014 DB Side Lateral Raise"
       },
       {
         "id": "m_33_5",
@@ -3241,7 +3241,7 @@ const WORKOUT_PLAN = [
         "tempo": "2-1-1-0",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=J0DnG1_S92I",
-        "ytLabel": "Calisthenicmovement \u2014 Diamond Push-Ups"
+        "ytLabel": "Scott Herman \u2014 Diamond Push-Up"
       },
       {
         "id": "m_33_6",
@@ -3252,7 +3252,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "45s",
         "yt": "https://www.youtube.com/watch?v=0AUGkch3tzc",
-        "ytLabel": "Scott Herman \u2014 Concentration Curl"
+        "ytLabel": "Howcast \u2014 Concentration Curl Form"
       }
     ],
     "evening": {
@@ -3261,14 +3261,14 @@ const WORKOUT_PLAN = [
         "name": "Hollow Body Hold",
         "target": "3 sets x 30\u201335s hollow body hold",
         "yt": "https://www.youtube.com/watch?v=44ScXWFaVBs",
-        "ytLabel": "Calisthenicmovement \u2014 Hollow Body Hold"
+        "ytLabel": "Antranik \u2014 Hollow Body Hold Guide"
       },
       "mobility": {
         "id": "e_33_2",
         "name": "Couch Stretch (Hip Flexor & Psoas Opener)",
         "target": "2 mins each side",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       "cardio": {
         "id": "e_33_3",
@@ -3309,7 +3309,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "60\u201375s",
         "yt": "https://www.youtube.com/watch?v=MeIiIdhvXT4",
-        "ytLabel": "Athlean-X \u2014 Goblet Squat Mastery"
+        "ytLabel": "Scott Herman \u2014 Goblet Squat Guide"
       },
       {
         "id": "m_34_2",
@@ -3320,7 +3320,7 @@ const WORKOUT_PLAN = [
         "tempo": "Controlled 90/90 step",
         "rest": "60\u201375s",
         "yt": "https://www.youtube.com/watch?v=L8fvypPrzzs",
-        "ytLabel": "Scott Herman \u2014 Walking Lunges"
+        "ytLabel": "CrossFit \u2014 The Walking Lunge Form"
       },
       {
         "id": "m_34_3",
@@ -3330,8 +3330,8 @@ const WORKOUT_PLAN = [
         "load": "1x 5kg or 1x 10kg",
         "tempo": "3-1-1-0",
         "rest": "60\u201375s",
-        "yt": "https://www.youtube.com/watch?v=2Tz8lWzL5Kk",
-        "ytLabel": "Squat University \u2014 Single Leg RDL"
+        "yt": "https://www.youtube.com/watch?v=DGavj41F_Cs",
+        "ytLabel": "Scott Herman \u2014 DB Single-Leg Stiff Deadlift"
       },
       {
         "id": "m_34_4",
@@ -3341,8 +3341,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg",
         "tempo": "3-1-1-0",
         "rest": "60\u201375s",
-        "yt": "https://www.youtube.com/watch?v=9ZuD8vf6nSU",
-        "ytLabel": "Scott Herman \u2014 Sumo Squat Technique"
+        "yt": "https://www.youtube.com/watch?v=bRCjBCtBGIo",
+        "ytLabel": "DeltaBolic \u2014 Dumbbell Sumo Squat Form"
       },
       {
         "id": "m_34_5",
@@ -3352,8 +3352,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg in hand",
         "tempo": "3-2-1-0",
         "rest": "45s",
-        "yt": "https://www.youtube.com/watch?v=f2w8v8P7kio",
-        "ytLabel": "Jeff Nippard \u2014 Calf Growth Guide"
+        "yt": "https://www.youtube.com/watch?v=ORT4oJ_R8Qs",
+        "ytLabel": "Scott Herman \u2014 Single-Leg Calf Raise Form"
       }
     ],
     "evening": {
@@ -3361,14 +3361,14 @@ const WORKOUT_PLAN = [
         "id": "e_34_1",
         "name": "Deadbug Core Stabilization",
         "target": "3 sets x 12 reps / side",
-        "yt": "https://www.youtube.com/watch?v=g_BYB0R-44A",
+        "yt": "https://www.youtube.com/watch?v=0XVbn86Btj0",
         "ytLabel": "Squat University \u2014 Deadbug Core Form"
       },
       "mobility": {
         "id": "e_34_2",
         "name": "World's Greatest Stretch Routine",
         "target": "3 mins deep hips & ankles",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       "cardio": {
@@ -3409,7 +3409,7 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Deep breath at extension",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       {
@@ -3420,8 +3420,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Relax into hip",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       {
         "id": "m_35_3",
@@ -3431,8 +3431,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Slow rotation",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=0h5c5lQvB1c",
-        "ytLabel": "Squat University \u2014 Thoracic Mobility"
+        "yt": "https://www.youtube.com/watch?v=9LJDGUulS_8",
+        "ytLabel": "Squat University \u2014 Thoracic Spine Mobility"
       },
       {
         "id": "m_35_4",
@@ -3442,8 +3442,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Max exhalation & pull navel in",
         "rest": "45s",
-        "yt": "https://www.youtube.com/watch?v=c3-e2u0l1dM",
-        "ytLabel": "Jeremy Ethier \u2014 Stomach Vacuum for Slim Waist"
+        "yt": "https://www.youtube.com/watch?v=cub3xhJXsAA",
+        "ytLabel": "wikiHow \u2014 Stomach Vacuum Exercise Guide"
       }
     ],
     "evening": {
@@ -3452,14 +3452,14 @@ const WORKOUT_PLAN = [
         "name": "Hardstyle RKC Plank (Maximum Tension)",
         "target": "3 sets x 30s plank hold",
         "yt": "https://www.youtube.com/watch?v=TvxNkmjdhMM",
-        "ytLabel": "Calisthenicmovement \u2014 Proper Plank Form"
+        "ytLabel": "P4P Workouts \u2014 Proper Plank Form"
       },
       "mobility": {
         "id": "e_35_2",
         "name": "Shoulder Doorway Stretch",
         "target": "2 mins chest & anterior delt opening",
-        "yt": null,
-        "ytLabel": null
+        "yt": "https://www.youtube.com/watch?v=O8rJw_TmC1Y",
+        "ytLabel": "Rehab Hero \u2014 Doorway Chest & Shoulder Stretch"
       },
       "cardio": {
         "id": "e_35_3",
@@ -3510,8 +3510,8 @@ const WORKOUT_PLAN = [
         "load": "2x 10kg (or 2x 5kg)",
         "tempo": "3-1-1-0",
         "rest": "60s",
-        "yt": "https://www.youtube.com/watch?v=uUGDRwG4Fjs",
-        "ytLabel": "Athlean-X \u2014 Dumbbell Floor Press Guide"
+        "yt": "https://www.youtube.com/watch?v=uUGDRwge4F8",
+        "ytLabel": "Scott Herman \u2014 Dumbbell Floor Press Form"
       },
       {
         "id": "m_36_3",
@@ -3533,7 +3533,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Elbows lead)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
-        "ytLabel": "Jeff Nippard \u2014 Science of Lateral Raises"
+        "ytLabel": "Scott Herman \u2014 DB Side Lateral Raise"
       },
       {
         "id": "m_36_5",
@@ -3544,7 +3544,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=_gsUck-7M74",
-        "ytLabel": "Scott Herman \u2014 Overhead Tricep Extension"
+        "ytLabel": "Howcast \u2014 Dumbbell Tricep Extension"
       }
     ],
     "evening": {
@@ -3552,15 +3552,15 @@ const WORKOUT_PLAN = [
         "id": "e_36_1",
         "name": "Transverse Abdominis Stomach Vacuum",
         "target": "4 sets x 20\u201325s vacuum hold on empty stomach",
-        "yt": "https://www.youtube.com/watch?v=c3-e2u0l1dM",
-        "ytLabel": "Jeremy Ethier \u2014 Stomach Vacuum for Slim Waist"
+        "yt": "https://www.youtube.com/watch?v=cub3xhJXsAA",
+        "ytLabel": "wikiHow \u2014 Stomach Vacuum Exercise Guide"
       },
       "mobility": {
         "id": "e_36_2",
         "name": "Couch Stretch (Hip Flexor & Psoas Opener)",
         "target": "2 mins each side (opens tight hip flexors)",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       "cardio": {
         "id": "e_36_3",
@@ -3601,7 +3601,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (1s squeeze at top)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=pYcpY20QaE8",
-        "ytLabel": "Athlean-X \u2014 Perfect Single-Arm DB Row"
+        "ytLabel": "Scott Herman \u2014 Single-Arm DB Row Form"
       },
       {
         "id": "m_37_2",
@@ -3612,7 +3612,7 @@ const WORKOUT_PLAN = [
         "tempo": "2-1-1-0",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=rloXYB8M3vU",
-        "ytLabel": "Calisthenicmovement \u2014 Door Towel Rows"
+        "ytLabel": "Antranik \u2014 Door Towel Incline Rows"
       },
       {
         "id": "m_37_3",
@@ -3622,8 +3622,8 @@ const WORKOUT_PLAN = [
         "load": "2x 4kg or 2x 5kg",
         "tempo": "3-1-1-0",
         "rest": "60s",
-        "yt": "https://www.youtube.com/watch?v=eaun65zHk2c",
-        "ytLabel": "Athlean-X \u2014 Rear Delt Flyes"
+        "yt": "https://www.youtube.com/watch?v=ttvfGg9d76c",
+        "ytLabel": "Scott Herman \u2014 DB Bent-Over Rear Delt Raise"
       },
       {
         "id": "m_37_4",
@@ -3634,7 +3634,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Supinate wrist)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=in7PaeYlhrM",
-        "ytLabel": "Jeff Nippard \u2014 Bicep Hypertrophy Science"
+        "ytLabel": "Mind Pump TV \u2014 Dumbbell Bicep Curls Form"
       },
       {
         "id": "m_37_5",
@@ -3653,15 +3653,15 @@ const WORKOUT_PLAN = [
         "id": "e_37_1",
         "name": "Deadbug Core Stabilization",
         "target": "3 sets x 12 reps per side (Anti-extension core)",
-        "yt": "https://www.youtube.com/watch?v=g_BYB0R-44A",
+        "yt": "https://www.youtube.com/watch?v=0XVbn86Btj0",
         "ytLabel": "Squat University \u2014 Deadbug Core Form"
       },
       "mobility": {
         "id": "e_37_2",
         "name": "Thoracic Spine Mobility & Desk Posture",
         "target": "3 mins thoracic spine rotations (fixes desk posture)",
-        "yt": "https://www.youtube.com/watch?v=0h5c5lQvB1c",
-        "ytLabel": "Squat University \u2014 Thoracic Mobility"
+        "yt": "https://www.youtube.com/watch?v=9LJDGUulS_8",
+        "ytLabel": "Squat University \u2014 Thoracic Spine Mobility"
       },
       "cardio": {
         "id": "e_37_3",
@@ -3701,8 +3701,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg (Goblet) or 2x 5kg",
         "tempo": "3-1-1-0 (Deep hip crease)",
         "rest": "90s",
-        "yt": "https://www.youtube.com/watch?v=1CVecvh_6W0",
-        "ytLabel": "Squat University \u2014 Bulgarian Split Squat"
+        "yt": "https://www.youtube.com/watch?v=bwhl_9jN_3o",
+        "ytLabel": "Squat University \u2014 Bulgarian Split Squat Form"
       },
       {
         "id": "m_38_2",
@@ -3713,7 +3713,7 @@ const WORKOUT_PLAN = [
         "tempo": "4-1-1-0 (Deep hamstring stretch)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=_oyxCn2iSjU",
-        "ytLabel": "Jeremy Ethier \u2014 Dumbbell RDL Form"
+        "ytLabel": "Jeff Nippard \u2014 Romanian Deadlift (RDL) Guide"
       },
       {
         "id": "m_38_3",
@@ -3724,7 +3724,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=MeIiIdhvXT4",
-        "ytLabel": "Athlean-X \u2014 Goblet Squat Mastery"
+        "ytLabel": "Scott Herman \u2014 Goblet Squat Guide"
       },
       {
         "id": "m_38_4",
@@ -3735,7 +3735,7 @@ const WORKOUT_PLAN = [
         "tempo": "2-2-1-0 (2s hold at peak)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=8bbE64NuDTU",
-        "ytLabel": "Jeremy Ethier \u2014 Glute Bridge & Hip Thrust"
+        "ytLabel": "Scott Herman \u2014 Glute Bridge Technique"
       },
       {
         "id": "m_38_5",
@@ -3745,8 +3745,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg in hand (Book/step)",
         "tempo": "3-2-1-0 (2s full stretch at bottom)",
         "rest": "45s",
-        "yt": "https://www.youtube.com/watch?v=f2w8v8P7kio",
-        "ytLabel": "Jeff Nippard \u2014 Calf Growth Guide"
+        "yt": "https://www.youtube.com/watch?v=ORT4oJ_R8Qs",
+        "ytLabel": "Scott Herman \u2014 Single-Leg Calf Raise Form"
       }
     ],
     "evening": {
@@ -3754,14 +3754,14 @@ const WORKOUT_PLAN = [
         "id": "e_38_1",
         "name": "Lying Leg Raises & Reverse Crunches",
         "target": "3 sets x 15 reps (Lower abs & pelvis tuck)",
-        "yt": "https://www.youtube.com/watch?v=Pr1ieGZ5atk",
-        "ytLabel": "Calisthenicmovement \u2014 Leg Raises"
+        "yt": "https://www.youtube.com/watch?v=PkLYH3uRtSs",
+        "ytLabel": "TylerPath \u2014 Lying Leg Raises Form"
       },
       "mobility": {
         "id": "e_38_2",
         "name": "World's Greatest Stretch Routine",
         "target": "3 mins hip & ankle mobility flow",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       "cardio": {
@@ -3802,8 +3802,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Deep breathing",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       {
         "id": "m_39_2",
@@ -3813,8 +3813,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Slow rotation",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=0h5c5lQvB1c",
-        "ytLabel": "Squat University \u2014 Thoracic Mobility"
+        "yt": "https://www.youtube.com/watch?v=9LJDGUulS_8",
+        "ytLabel": "Squat University \u2014 Thoracic Spine Mobility"
       },
       {
         "id": "m_39_3",
@@ -3825,7 +3825,7 @@ const WORKOUT_PLAN = [
         "tempo": "2s hold at full reach",
         "rest": "45s",
         "yt": "https://www.youtube.com/watch?v=wiFNA3sqjCA",
-        "ytLabel": "Squat University \u2014 Bird Dog Form"
+        "ytLabel": "Howcast \u2014 Bird Dog Exercise Tutorial"
       },
       {
         "id": "m_39_4",
@@ -3836,7 +3836,7 @@ const WORKOUT_PLAN = [
         "tempo": "Max squeeze glutes & abs",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=TvxNkmjdhMM",
-        "ytLabel": "Calisthenicmovement \u2014 Proper Plank Form"
+        "ytLabel": "P4P Workouts \u2014 Proper Plank Form"
       }
     ],
     "evening": {
@@ -3844,14 +3844,14 @@ const WORKOUT_PLAN = [
         "id": "e_39_1",
         "name": "Transverse Abdominis Stomach Vacuum",
         "target": "4 sets x 25s vacuum hold (Waist slimming)",
-        "yt": "https://www.youtube.com/watch?v=c3-e2u0l1dM",
-        "ytLabel": "Jeremy Ethier \u2014 Stomach Vacuum for Slim Waist"
+        "yt": "https://www.youtube.com/watch?v=cub3xhJXsAA",
+        "ytLabel": "wikiHow \u2014 Stomach Vacuum Exercise Guide"
       },
       "mobility": {
         "id": "e_39_2",
         "name": "World's Greatest Stretch Routine",
         "target": "3 mins deep whole-body stretch",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       "cardio": {
@@ -3893,7 +3893,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=SKPab2YC8BE",
-        "ytLabel": "Calisthenicmovement \u2014 Decline Push-Ups (Upper Chest)"
+        "ytLabel": "Scott Herman \u2014 Decline Push-Up Form"
       },
       {
         "id": "m_40_2",
@@ -3904,7 +3904,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Full rotation)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=6Z15_WdXmVw",
-        "ytLabel": "Scott Herman \u2014 Arnold Press Technique"
+        "ytLabel": "Buff Dudes \u2014 Arnold Press Tutorial"
       },
       {
         "id": "m_40_3",
@@ -3914,8 +3914,8 @@ const WORKOUT_PLAN = [
         "load": "2x 10kg (or 2x 5kg)",
         "tempo": "2-1-1-0",
         "rest": "60s",
-        "yt": "https://www.youtube.com/watch?v=6TSP13BISI4",
-        "ytLabel": "Scott Herman \u2014 Bent Over DB Row"
+        "yt": "https://www.youtube.com/watch?v=5PoEksoJNaw",
+        "ytLabel": "Renaissance Periodization \u2014 Two Arm Dumbbell Row"
       },
       {
         "id": "m_40_4",
@@ -3926,7 +3926,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Strict side delts)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
-        "ytLabel": "Jeff Nippard \u2014 Science of Lateral Raises"
+        "ytLabel": "Scott Herman \u2014 DB Side Lateral Raise"
       },
       {
         "id": "m_40_5",
@@ -3937,7 +3937,7 @@ const WORKOUT_PLAN = [
         "tempo": "2-1-1-0",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=J0DnG1_S92I",
-        "ytLabel": "Calisthenicmovement \u2014 Diamond Push-Ups"
+        "ytLabel": "Scott Herman \u2014 Diamond Push-Up"
       },
       {
         "id": "m_40_6",
@@ -3948,7 +3948,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "45s",
         "yt": "https://www.youtube.com/watch?v=0AUGkch3tzc",
-        "ytLabel": "Scott Herman \u2014 Concentration Curl"
+        "ytLabel": "Howcast \u2014 Concentration Curl Form"
       }
     ],
     "evening": {
@@ -3957,14 +3957,14 @@ const WORKOUT_PLAN = [
         "name": "Hollow Body Hold",
         "target": "3 sets x 30\u201335s hollow body hold",
         "yt": "https://www.youtube.com/watch?v=44ScXWFaVBs",
-        "ytLabel": "Calisthenicmovement \u2014 Hollow Body Hold"
+        "ytLabel": "Antranik \u2014 Hollow Body Hold Guide"
       },
       "mobility": {
         "id": "e_40_2",
         "name": "Couch Stretch (Hip Flexor & Psoas Opener)",
         "target": "2 mins each side",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       "cardio": {
         "id": "e_40_3",
@@ -4005,7 +4005,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=MeIiIdhvXT4",
-        "ytLabel": "Athlean-X \u2014 Goblet Squat Mastery"
+        "ytLabel": "Scott Herman \u2014 Goblet Squat Guide"
       },
       {
         "id": "m_41_2",
@@ -4016,7 +4016,7 @@ const WORKOUT_PLAN = [
         "tempo": "Controlled 90/90 step",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=L8fvypPrzzs",
-        "ytLabel": "Scott Herman \u2014 Walking Lunges"
+        "ytLabel": "CrossFit \u2014 The Walking Lunge Form"
       },
       {
         "id": "m_41_3",
@@ -4026,8 +4026,8 @@ const WORKOUT_PLAN = [
         "load": "1x 5kg or 1x 10kg",
         "tempo": "3-1-1-0",
         "rest": "60s",
-        "yt": "https://www.youtube.com/watch?v=2Tz8lWzL5Kk",
-        "ytLabel": "Squat University \u2014 Single Leg RDL"
+        "yt": "https://www.youtube.com/watch?v=DGavj41F_Cs",
+        "ytLabel": "Scott Herman \u2014 DB Single-Leg Stiff Deadlift"
       },
       {
         "id": "m_41_4",
@@ -4037,8 +4037,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg",
         "tempo": "3-1-1-0",
         "rest": "60s",
-        "yt": "https://www.youtube.com/watch?v=9ZuD8vf6nSU",
-        "ytLabel": "Scott Herman \u2014 Sumo Squat Technique"
+        "yt": "https://www.youtube.com/watch?v=bRCjBCtBGIo",
+        "ytLabel": "DeltaBolic \u2014 Dumbbell Sumo Squat Form"
       },
       {
         "id": "m_41_5",
@@ -4048,8 +4048,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg in hand",
         "tempo": "3-2-1-0",
         "rest": "45s",
-        "yt": "https://www.youtube.com/watch?v=f2w8v8P7kio",
-        "ytLabel": "Jeff Nippard \u2014 Calf Growth Guide"
+        "yt": "https://www.youtube.com/watch?v=ORT4oJ_R8Qs",
+        "ytLabel": "Scott Herman \u2014 Single-Leg Calf Raise Form"
       }
     ],
     "evening": {
@@ -4057,14 +4057,14 @@ const WORKOUT_PLAN = [
         "id": "e_41_1",
         "name": "Deadbug Core Stabilization",
         "target": "3 sets x 12 reps / side",
-        "yt": "https://www.youtube.com/watch?v=g_BYB0R-44A",
+        "yt": "https://www.youtube.com/watch?v=0XVbn86Btj0",
         "ytLabel": "Squat University \u2014 Deadbug Core Form"
       },
       "mobility": {
         "id": "e_41_2",
         "name": "World's Greatest Stretch Routine",
         "target": "3 mins deep hips & ankles",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       "cardio": {
@@ -4105,7 +4105,7 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Deep breath at extension",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       {
@@ -4116,8 +4116,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Relax into hip",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       {
         "id": "m_42_3",
@@ -4127,8 +4127,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Slow rotation",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=0h5c5lQvB1c",
-        "ytLabel": "Squat University \u2014 Thoracic Mobility"
+        "yt": "https://www.youtube.com/watch?v=9LJDGUulS_8",
+        "ytLabel": "Squat University \u2014 Thoracic Spine Mobility"
       },
       {
         "id": "m_42_4",
@@ -4138,8 +4138,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Max exhalation & pull navel in",
         "rest": "45s",
-        "yt": "https://www.youtube.com/watch?v=c3-e2u0l1dM",
-        "ytLabel": "Jeremy Ethier \u2014 Stomach Vacuum for Slim Waist"
+        "yt": "https://www.youtube.com/watch?v=cub3xhJXsAA",
+        "ytLabel": "wikiHow \u2014 Stomach Vacuum Exercise Guide"
       }
     ],
     "evening": {
@@ -4148,14 +4148,14 @@ const WORKOUT_PLAN = [
         "name": "Hardstyle RKC Plank (Maximum Tension)",
         "target": "3 sets x 30s plank hold",
         "yt": "https://www.youtube.com/watch?v=TvxNkmjdhMM",
-        "ytLabel": "Calisthenicmovement \u2014 Proper Plank Form"
+        "ytLabel": "P4P Workouts \u2014 Proper Plank Form"
       },
       "mobility": {
         "id": "e_42_2",
         "name": "Shoulder Doorway Stretch",
         "target": "2 mins chest & anterior delt opening",
-        "yt": null,
-        "ytLabel": null
+        "yt": "https://www.youtube.com/watch?v=O8rJw_TmC1Y",
+        "ytLabel": "Rehab Hero \u2014 Doorway Chest & Shoulder Stretch"
       },
       "cardio": {
         "id": "e_42_3",
@@ -4206,8 +4206,8 @@ const WORKOUT_PLAN = [
         "load": "2x 10kg (or 2x 5kg)",
         "tempo": "3-1-1-0",
         "rest": "60s",
-        "yt": "https://www.youtube.com/watch?v=uUGDRwG4Fjs",
-        "ytLabel": "Athlean-X \u2014 Dumbbell Floor Press Guide"
+        "yt": "https://www.youtube.com/watch?v=uUGDRwge4F8",
+        "ytLabel": "Scott Herman \u2014 Dumbbell Floor Press Form"
       },
       {
         "id": "m_43_3",
@@ -4229,7 +4229,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Elbows lead)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
-        "ytLabel": "Jeff Nippard \u2014 Science of Lateral Raises"
+        "ytLabel": "Scott Herman \u2014 DB Side Lateral Raise"
       },
       {
         "id": "m_43_5",
@@ -4240,7 +4240,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=_gsUck-7M74",
-        "ytLabel": "Scott Herman \u2014 Overhead Tricep Extension"
+        "ytLabel": "Howcast \u2014 Dumbbell Tricep Extension"
       }
     ],
     "evening": {
@@ -4248,15 +4248,15 @@ const WORKOUT_PLAN = [
         "id": "e_43_1",
         "name": "Transverse Abdominis Stomach Vacuum",
         "target": "4 sets x 20\u201325s vacuum hold on empty stomach",
-        "yt": "https://www.youtube.com/watch?v=c3-e2u0l1dM",
-        "ytLabel": "Jeremy Ethier \u2014 Stomach Vacuum for Slim Waist"
+        "yt": "https://www.youtube.com/watch?v=cub3xhJXsAA",
+        "ytLabel": "wikiHow \u2014 Stomach Vacuum Exercise Guide"
       },
       "mobility": {
         "id": "e_43_2",
         "name": "Couch Stretch (Hip Flexor & Psoas Opener)",
         "target": "2 mins each side (opens tight hip flexors)",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       "cardio": {
         "id": "e_43_3",
@@ -4297,7 +4297,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (1s squeeze at top)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=pYcpY20QaE8",
-        "ytLabel": "Athlean-X \u2014 Perfect Single-Arm DB Row"
+        "ytLabel": "Scott Herman \u2014 Single-Arm DB Row Form"
       },
       {
         "id": "m_44_2",
@@ -4308,7 +4308,7 @@ const WORKOUT_PLAN = [
         "tempo": "2-1-1-0",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=rloXYB8M3vU",
-        "ytLabel": "Calisthenicmovement \u2014 Door Towel Rows"
+        "ytLabel": "Antranik \u2014 Door Towel Incline Rows"
       },
       {
         "id": "m_44_3",
@@ -4318,8 +4318,8 @@ const WORKOUT_PLAN = [
         "load": "2x 4kg or 2x 5kg",
         "tempo": "3-1-1-0",
         "rest": "60s",
-        "yt": "https://www.youtube.com/watch?v=eaun65zHk2c",
-        "ytLabel": "Athlean-X \u2014 Rear Delt Flyes"
+        "yt": "https://www.youtube.com/watch?v=ttvfGg9d76c",
+        "ytLabel": "Scott Herman \u2014 DB Bent-Over Rear Delt Raise"
       },
       {
         "id": "m_44_4",
@@ -4330,7 +4330,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Supinate wrist)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=in7PaeYlhrM",
-        "ytLabel": "Jeff Nippard \u2014 Bicep Hypertrophy Science"
+        "ytLabel": "Mind Pump TV \u2014 Dumbbell Bicep Curls Form"
       },
       {
         "id": "m_44_5",
@@ -4349,15 +4349,15 @@ const WORKOUT_PLAN = [
         "id": "e_44_1",
         "name": "Deadbug Core Stabilization",
         "target": "3 sets x 12 reps per side (Anti-extension core)",
-        "yt": "https://www.youtube.com/watch?v=g_BYB0R-44A",
+        "yt": "https://www.youtube.com/watch?v=0XVbn86Btj0",
         "ytLabel": "Squat University \u2014 Deadbug Core Form"
       },
       "mobility": {
         "id": "e_44_2",
         "name": "Thoracic Spine Mobility & Desk Posture",
         "target": "3 mins thoracic spine rotations (fixes desk posture)",
-        "yt": "https://www.youtube.com/watch?v=0h5c5lQvB1c",
-        "ytLabel": "Squat University \u2014 Thoracic Mobility"
+        "yt": "https://www.youtube.com/watch?v=9LJDGUulS_8",
+        "ytLabel": "Squat University \u2014 Thoracic Spine Mobility"
       },
       "cardio": {
         "id": "e_44_3",
@@ -4397,8 +4397,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg (Goblet) or 2x 5kg",
         "tempo": "3-1-1-0 (Deep hip crease)",
         "rest": "90s",
-        "yt": "https://www.youtube.com/watch?v=1CVecvh_6W0",
-        "ytLabel": "Squat University \u2014 Bulgarian Split Squat"
+        "yt": "https://www.youtube.com/watch?v=bwhl_9jN_3o",
+        "ytLabel": "Squat University \u2014 Bulgarian Split Squat Form"
       },
       {
         "id": "m_45_2",
@@ -4409,7 +4409,7 @@ const WORKOUT_PLAN = [
         "tempo": "4-1-1-0 (Deep hamstring stretch)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=_oyxCn2iSjU",
-        "ytLabel": "Jeremy Ethier \u2014 Dumbbell RDL Form"
+        "ytLabel": "Jeff Nippard \u2014 Romanian Deadlift (RDL) Guide"
       },
       {
         "id": "m_45_3",
@@ -4420,7 +4420,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=MeIiIdhvXT4",
-        "ytLabel": "Athlean-X \u2014 Goblet Squat Mastery"
+        "ytLabel": "Scott Herman \u2014 Goblet Squat Guide"
       },
       {
         "id": "m_45_4",
@@ -4431,7 +4431,7 @@ const WORKOUT_PLAN = [
         "tempo": "2-2-1-0 (2s hold at peak)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=8bbE64NuDTU",
-        "ytLabel": "Jeremy Ethier \u2014 Glute Bridge & Hip Thrust"
+        "ytLabel": "Scott Herman \u2014 Glute Bridge Technique"
       },
       {
         "id": "m_45_5",
@@ -4441,8 +4441,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg in hand (Book/step)",
         "tempo": "3-2-1-0 (2s full stretch at bottom)",
         "rest": "45s",
-        "yt": "https://www.youtube.com/watch?v=f2w8v8P7kio",
-        "ytLabel": "Jeff Nippard \u2014 Calf Growth Guide"
+        "yt": "https://www.youtube.com/watch?v=ORT4oJ_R8Qs",
+        "ytLabel": "Scott Herman \u2014 Single-Leg Calf Raise Form"
       }
     ],
     "evening": {
@@ -4450,14 +4450,14 @@ const WORKOUT_PLAN = [
         "id": "e_45_1",
         "name": "Lying Leg Raises & Reverse Crunches",
         "target": "3 sets x 15 reps (Lower abs & pelvis tuck)",
-        "yt": "https://www.youtube.com/watch?v=Pr1ieGZ5atk",
-        "ytLabel": "Calisthenicmovement \u2014 Leg Raises"
+        "yt": "https://www.youtube.com/watch?v=PkLYH3uRtSs",
+        "ytLabel": "TylerPath \u2014 Lying Leg Raises Form"
       },
       "mobility": {
         "id": "e_45_2",
         "name": "World's Greatest Stretch Routine",
         "target": "3 mins hip & ankle mobility flow",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       "cardio": {
@@ -4498,8 +4498,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Deep breathing",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       {
         "id": "m_46_2",
@@ -4509,8 +4509,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Slow rotation",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=0h5c5lQvB1c",
-        "ytLabel": "Squat University \u2014 Thoracic Mobility"
+        "yt": "https://www.youtube.com/watch?v=9LJDGUulS_8",
+        "ytLabel": "Squat University \u2014 Thoracic Spine Mobility"
       },
       {
         "id": "m_46_3",
@@ -4521,7 +4521,7 @@ const WORKOUT_PLAN = [
         "tempo": "2s hold at full reach",
         "rest": "45s",
         "yt": "https://www.youtube.com/watch?v=wiFNA3sqjCA",
-        "ytLabel": "Squat University \u2014 Bird Dog Form"
+        "ytLabel": "Howcast \u2014 Bird Dog Exercise Tutorial"
       },
       {
         "id": "m_46_4",
@@ -4532,7 +4532,7 @@ const WORKOUT_PLAN = [
         "tempo": "Max squeeze glutes & abs",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=TvxNkmjdhMM",
-        "ytLabel": "Calisthenicmovement \u2014 Proper Plank Form"
+        "ytLabel": "P4P Workouts \u2014 Proper Plank Form"
       }
     ],
     "evening": {
@@ -4540,14 +4540,14 @@ const WORKOUT_PLAN = [
         "id": "e_46_1",
         "name": "Transverse Abdominis Stomach Vacuum",
         "target": "4 sets x 25s vacuum hold (Waist slimming)",
-        "yt": "https://www.youtube.com/watch?v=c3-e2u0l1dM",
-        "ytLabel": "Jeremy Ethier \u2014 Stomach Vacuum for Slim Waist"
+        "yt": "https://www.youtube.com/watch?v=cub3xhJXsAA",
+        "ytLabel": "wikiHow \u2014 Stomach Vacuum Exercise Guide"
       },
       "mobility": {
         "id": "e_46_2",
         "name": "World's Greatest Stretch Routine",
         "target": "3 mins deep whole-body stretch",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       "cardio": {
@@ -4589,7 +4589,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=SKPab2YC8BE",
-        "ytLabel": "Calisthenicmovement \u2014 Decline Push-Ups (Upper Chest)"
+        "ytLabel": "Scott Herman \u2014 Decline Push-Up Form"
       },
       {
         "id": "m_47_2",
@@ -4600,7 +4600,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Full rotation)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=6Z15_WdXmVw",
-        "ytLabel": "Scott Herman \u2014 Arnold Press Technique"
+        "ytLabel": "Buff Dudes \u2014 Arnold Press Tutorial"
       },
       {
         "id": "m_47_3",
@@ -4610,8 +4610,8 @@ const WORKOUT_PLAN = [
         "load": "2x 10kg (or 2x 5kg)",
         "tempo": "2-1-1-0",
         "rest": "60s",
-        "yt": "https://www.youtube.com/watch?v=6TSP13BISI4",
-        "ytLabel": "Scott Herman \u2014 Bent Over DB Row"
+        "yt": "https://www.youtube.com/watch?v=5PoEksoJNaw",
+        "ytLabel": "Renaissance Periodization \u2014 Two Arm Dumbbell Row"
       },
       {
         "id": "m_47_4",
@@ -4622,7 +4622,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Strict side delts)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
-        "ytLabel": "Jeff Nippard \u2014 Science of Lateral Raises"
+        "ytLabel": "Scott Herman \u2014 DB Side Lateral Raise"
       },
       {
         "id": "m_47_5",
@@ -4633,7 +4633,7 @@ const WORKOUT_PLAN = [
         "tempo": "2-1-1-0",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=J0DnG1_S92I",
-        "ytLabel": "Calisthenicmovement \u2014 Diamond Push-Ups"
+        "ytLabel": "Scott Herman \u2014 Diamond Push-Up"
       },
       {
         "id": "m_47_6",
@@ -4644,7 +4644,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "45s",
         "yt": "https://www.youtube.com/watch?v=0AUGkch3tzc",
-        "ytLabel": "Scott Herman \u2014 Concentration Curl"
+        "ytLabel": "Howcast \u2014 Concentration Curl Form"
       }
     ],
     "evening": {
@@ -4653,14 +4653,14 @@ const WORKOUT_PLAN = [
         "name": "Hollow Body Hold",
         "target": "3 sets x 30\u201335s hollow body hold",
         "yt": "https://www.youtube.com/watch?v=44ScXWFaVBs",
-        "ytLabel": "Calisthenicmovement \u2014 Hollow Body Hold"
+        "ytLabel": "Antranik \u2014 Hollow Body Hold Guide"
       },
       "mobility": {
         "id": "e_47_2",
         "name": "Couch Stretch (Hip Flexor & Psoas Opener)",
         "target": "2 mins each side",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       "cardio": {
         "id": "e_47_3",
@@ -4701,7 +4701,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=MeIiIdhvXT4",
-        "ytLabel": "Athlean-X \u2014 Goblet Squat Mastery"
+        "ytLabel": "Scott Herman \u2014 Goblet Squat Guide"
       },
       {
         "id": "m_48_2",
@@ -4712,7 +4712,7 @@ const WORKOUT_PLAN = [
         "tempo": "Controlled 90/90 step",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=L8fvypPrzzs",
-        "ytLabel": "Scott Herman \u2014 Walking Lunges"
+        "ytLabel": "CrossFit \u2014 The Walking Lunge Form"
       },
       {
         "id": "m_48_3",
@@ -4722,8 +4722,8 @@ const WORKOUT_PLAN = [
         "load": "1x 5kg or 1x 10kg",
         "tempo": "3-1-1-0",
         "rest": "60s",
-        "yt": "https://www.youtube.com/watch?v=2Tz8lWzL5Kk",
-        "ytLabel": "Squat University \u2014 Single Leg RDL"
+        "yt": "https://www.youtube.com/watch?v=DGavj41F_Cs",
+        "ytLabel": "Scott Herman \u2014 DB Single-Leg Stiff Deadlift"
       },
       {
         "id": "m_48_4",
@@ -4733,8 +4733,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg",
         "tempo": "3-1-1-0",
         "rest": "60s",
-        "yt": "https://www.youtube.com/watch?v=9ZuD8vf6nSU",
-        "ytLabel": "Scott Herman \u2014 Sumo Squat Technique"
+        "yt": "https://www.youtube.com/watch?v=bRCjBCtBGIo",
+        "ytLabel": "DeltaBolic \u2014 Dumbbell Sumo Squat Form"
       },
       {
         "id": "m_48_5",
@@ -4744,8 +4744,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg in hand",
         "tempo": "3-2-1-0",
         "rest": "45s",
-        "yt": "https://www.youtube.com/watch?v=f2w8v8P7kio",
-        "ytLabel": "Jeff Nippard \u2014 Calf Growth Guide"
+        "yt": "https://www.youtube.com/watch?v=ORT4oJ_R8Qs",
+        "ytLabel": "Scott Herman \u2014 Single-Leg Calf Raise Form"
       }
     ],
     "evening": {
@@ -4753,14 +4753,14 @@ const WORKOUT_PLAN = [
         "id": "e_48_1",
         "name": "Deadbug Core Stabilization",
         "target": "3 sets x 12 reps / side",
-        "yt": "https://www.youtube.com/watch?v=g_BYB0R-44A",
+        "yt": "https://www.youtube.com/watch?v=0XVbn86Btj0",
         "ytLabel": "Squat University \u2014 Deadbug Core Form"
       },
       "mobility": {
         "id": "e_48_2",
         "name": "World's Greatest Stretch Routine",
         "target": "3 mins deep hips & ankles",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       "cardio": {
@@ -4801,7 +4801,7 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Deep breath at extension",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       {
@@ -4812,8 +4812,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Relax into hip",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       {
         "id": "m_49_3",
@@ -4823,8 +4823,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Slow rotation",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=0h5c5lQvB1c",
-        "ytLabel": "Squat University \u2014 Thoracic Mobility"
+        "yt": "https://www.youtube.com/watch?v=9LJDGUulS_8",
+        "ytLabel": "Squat University \u2014 Thoracic Spine Mobility"
       },
       {
         "id": "m_49_4",
@@ -4834,8 +4834,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Max exhalation & pull navel in",
         "rest": "45s",
-        "yt": "https://www.youtube.com/watch?v=c3-e2u0l1dM",
-        "ytLabel": "Jeremy Ethier \u2014 Stomach Vacuum for Slim Waist"
+        "yt": "https://www.youtube.com/watch?v=cub3xhJXsAA",
+        "ytLabel": "wikiHow \u2014 Stomach Vacuum Exercise Guide"
       }
     ],
     "evening": {
@@ -4844,14 +4844,14 @@ const WORKOUT_PLAN = [
         "name": "Hardstyle RKC Plank (Maximum Tension)",
         "target": "3 sets x 30s plank hold",
         "yt": "https://www.youtube.com/watch?v=TvxNkmjdhMM",
-        "ytLabel": "Calisthenicmovement \u2014 Proper Plank Form"
+        "ytLabel": "P4P Workouts \u2014 Proper Plank Form"
       },
       "mobility": {
         "id": "e_49_2",
         "name": "Shoulder Doorway Stretch",
         "target": "2 mins chest & anterior delt opening",
-        "yt": null,
-        "ytLabel": null
+        "yt": "https://www.youtube.com/watch?v=O8rJw_TmC1Y",
+        "ytLabel": "Rehab Hero \u2014 Doorway Chest & Shoulder Stretch"
       },
       "cardio": {
         "id": "e_49_3",
@@ -4902,8 +4902,8 @@ const WORKOUT_PLAN = [
         "load": "2x 10kg (or 2x 5kg)",
         "tempo": "3-1-1-0",
         "rest": "60s",
-        "yt": "https://www.youtube.com/watch?v=uUGDRwG4Fjs",
-        "ytLabel": "Athlean-X \u2014 Dumbbell Floor Press Guide"
+        "yt": "https://www.youtube.com/watch?v=uUGDRwge4F8",
+        "ytLabel": "Scott Herman \u2014 Dumbbell Floor Press Form"
       },
       {
         "id": "m_50_3",
@@ -4925,7 +4925,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Elbows lead)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
-        "ytLabel": "Jeff Nippard \u2014 Science of Lateral Raises"
+        "ytLabel": "Scott Herman \u2014 DB Side Lateral Raise"
       },
       {
         "id": "m_50_5",
@@ -4936,7 +4936,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=_gsUck-7M74",
-        "ytLabel": "Scott Herman \u2014 Overhead Tricep Extension"
+        "ytLabel": "Howcast \u2014 Dumbbell Tricep Extension"
       }
     ],
     "evening": {
@@ -4944,15 +4944,15 @@ const WORKOUT_PLAN = [
         "id": "e_50_1",
         "name": "Transverse Abdominis Stomach Vacuum",
         "target": "4 sets x 20\u201325s vacuum hold on empty stomach",
-        "yt": "https://www.youtube.com/watch?v=c3-e2u0l1dM",
-        "ytLabel": "Jeremy Ethier \u2014 Stomach Vacuum for Slim Waist"
+        "yt": "https://www.youtube.com/watch?v=cub3xhJXsAA",
+        "ytLabel": "wikiHow \u2014 Stomach Vacuum Exercise Guide"
       },
       "mobility": {
         "id": "e_50_2",
         "name": "Couch Stretch (Hip Flexor & Psoas Opener)",
         "target": "2 mins each side (opens tight hip flexors)",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       "cardio": {
         "id": "e_50_3",
@@ -4993,7 +4993,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (1s squeeze at top)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=pYcpY20QaE8",
-        "ytLabel": "Athlean-X \u2014 Perfect Single-Arm DB Row"
+        "ytLabel": "Scott Herman \u2014 Single-Arm DB Row Form"
       },
       {
         "id": "m_51_2",
@@ -5004,7 +5004,7 @@ const WORKOUT_PLAN = [
         "tempo": "2-1-1-0",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=rloXYB8M3vU",
-        "ytLabel": "Calisthenicmovement \u2014 Door Towel Rows"
+        "ytLabel": "Antranik \u2014 Door Towel Incline Rows"
       },
       {
         "id": "m_51_3",
@@ -5014,8 +5014,8 @@ const WORKOUT_PLAN = [
         "load": "2x 4kg or 2x 5kg",
         "tempo": "3-1-1-0",
         "rest": "60s",
-        "yt": "https://www.youtube.com/watch?v=eaun65zHk2c",
-        "ytLabel": "Athlean-X \u2014 Rear Delt Flyes"
+        "yt": "https://www.youtube.com/watch?v=ttvfGg9d76c",
+        "ytLabel": "Scott Herman \u2014 DB Bent-Over Rear Delt Raise"
       },
       {
         "id": "m_51_4",
@@ -5026,7 +5026,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Supinate wrist)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=in7PaeYlhrM",
-        "ytLabel": "Jeff Nippard \u2014 Bicep Hypertrophy Science"
+        "ytLabel": "Mind Pump TV \u2014 Dumbbell Bicep Curls Form"
       },
       {
         "id": "m_51_5",
@@ -5045,15 +5045,15 @@ const WORKOUT_PLAN = [
         "id": "e_51_1",
         "name": "Deadbug Core Stabilization",
         "target": "3 sets x 12 reps per side (Anti-extension core)",
-        "yt": "https://www.youtube.com/watch?v=g_BYB0R-44A",
+        "yt": "https://www.youtube.com/watch?v=0XVbn86Btj0",
         "ytLabel": "Squat University \u2014 Deadbug Core Form"
       },
       "mobility": {
         "id": "e_51_2",
         "name": "Thoracic Spine Mobility & Desk Posture",
         "target": "3 mins thoracic spine rotations (fixes desk posture)",
-        "yt": "https://www.youtube.com/watch?v=0h5c5lQvB1c",
-        "ytLabel": "Squat University \u2014 Thoracic Mobility"
+        "yt": "https://www.youtube.com/watch?v=9LJDGUulS_8",
+        "ytLabel": "Squat University \u2014 Thoracic Spine Mobility"
       },
       "cardio": {
         "id": "e_51_3",
@@ -5093,8 +5093,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg (Goblet) or 2x 5kg",
         "tempo": "3-1-1-0 (Deep hip crease)",
         "rest": "90s",
-        "yt": "https://www.youtube.com/watch?v=1CVecvh_6W0",
-        "ytLabel": "Squat University \u2014 Bulgarian Split Squat"
+        "yt": "https://www.youtube.com/watch?v=bwhl_9jN_3o",
+        "ytLabel": "Squat University \u2014 Bulgarian Split Squat Form"
       },
       {
         "id": "m_52_2",
@@ -5105,7 +5105,7 @@ const WORKOUT_PLAN = [
         "tempo": "4-1-1-0 (Deep hamstring stretch)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=_oyxCn2iSjU",
-        "ytLabel": "Jeremy Ethier \u2014 Dumbbell RDL Form"
+        "ytLabel": "Jeff Nippard \u2014 Romanian Deadlift (RDL) Guide"
       },
       {
         "id": "m_52_3",
@@ -5116,7 +5116,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=MeIiIdhvXT4",
-        "ytLabel": "Athlean-X \u2014 Goblet Squat Mastery"
+        "ytLabel": "Scott Herman \u2014 Goblet Squat Guide"
       },
       {
         "id": "m_52_4",
@@ -5127,7 +5127,7 @@ const WORKOUT_PLAN = [
         "tempo": "2-2-1-0 (2s hold at peak)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=8bbE64NuDTU",
-        "ytLabel": "Jeremy Ethier \u2014 Glute Bridge & Hip Thrust"
+        "ytLabel": "Scott Herman \u2014 Glute Bridge Technique"
       },
       {
         "id": "m_52_5",
@@ -5137,8 +5137,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg in hand (Book/step)",
         "tempo": "3-2-1-0 (2s full stretch at bottom)",
         "rest": "45s",
-        "yt": "https://www.youtube.com/watch?v=f2w8v8P7kio",
-        "ytLabel": "Jeff Nippard \u2014 Calf Growth Guide"
+        "yt": "https://www.youtube.com/watch?v=ORT4oJ_R8Qs",
+        "ytLabel": "Scott Herman \u2014 Single-Leg Calf Raise Form"
       }
     ],
     "evening": {
@@ -5146,14 +5146,14 @@ const WORKOUT_PLAN = [
         "id": "e_52_1",
         "name": "Lying Leg Raises & Reverse Crunches",
         "target": "3 sets x 15 reps (Lower abs & pelvis tuck)",
-        "yt": "https://www.youtube.com/watch?v=Pr1ieGZ5atk",
-        "ytLabel": "Calisthenicmovement \u2014 Leg Raises"
+        "yt": "https://www.youtube.com/watch?v=PkLYH3uRtSs",
+        "ytLabel": "TylerPath \u2014 Lying Leg Raises Form"
       },
       "mobility": {
         "id": "e_52_2",
         "name": "World's Greatest Stretch Routine",
         "target": "3 mins hip & ankle mobility flow",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       "cardio": {
@@ -5194,8 +5194,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Deep breathing",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       {
         "id": "m_53_2",
@@ -5205,8 +5205,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Slow rotation",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=0h5c5lQvB1c",
-        "ytLabel": "Squat University \u2014 Thoracic Mobility"
+        "yt": "https://www.youtube.com/watch?v=9LJDGUulS_8",
+        "ytLabel": "Squat University \u2014 Thoracic Spine Mobility"
       },
       {
         "id": "m_53_3",
@@ -5217,7 +5217,7 @@ const WORKOUT_PLAN = [
         "tempo": "2s hold at full reach",
         "rest": "45s",
         "yt": "https://www.youtube.com/watch?v=wiFNA3sqjCA",
-        "ytLabel": "Squat University \u2014 Bird Dog Form"
+        "ytLabel": "Howcast \u2014 Bird Dog Exercise Tutorial"
       },
       {
         "id": "m_53_4",
@@ -5228,7 +5228,7 @@ const WORKOUT_PLAN = [
         "tempo": "Max squeeze glutes & abs",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=TvxNkmjdhMM",
-        "ytLabel": "Calisthenicmovement \u2014 Proper Plank Form"
+        "ytLabel": "P4P Workouts \u2014 Proper Plank Form"
       }
     ],
     "evening": {
@@ -5236,14 +5236,14 @@ const WORKOUT_PLAN = [
         "id": "e_53_1",
         "name": "Transverse Abdominis Stomach Vacuum",
         "target": "4 sets x 25s vacuum hold (Waist slimming)",
-        "yt": "https://www.youtube.com/watch?v=c3-e2u0l1dM",
-        "ytLabel": "Jeremy Ethier \u2014 Stomach Vacuum for Slim Waist"
+        "yt": "https://www.youtube.com/watch?v=cub3xhJXsAA",
+        "ytLabel": "wikiHow \u2014 Stomach Vacuum Exercise Guide"
       },
       "mobility": {
         "id": "e_53_2",
         "name": "World's Greatest Stretch Routine",
         "target": "3 mins deep whole-body stretch",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       "cardio": {
@@ -5285,7 +5285,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=SKPab2YC8BE",
-        "ytLabel": "Calisthenicmovement \u2014 Decline Push-Ups (Upper Chest)"
+        "ytLabel": "Scott Herman \u2014 Decline Push-Up Form"
       },
       {
         "id": "m_54_2",
@@ -5296,7 +5296,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Full rotation)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=6Z15_WdXmVw",
-        "ytLabel": "Scott Herman \u2014 Arnold Press Technique"
+        "ytLabel": "Buff Dudes \u2014 Arnold Press Tutorial"
       },
       {
         "id": "m_54_3",
@@ -5306,8 +5306,8 @@ const WORKOUT_PLAN = [
         "load": "2x 10kg (or 2x 5kg)",
         "tempo": "2-1-1-0",
         "rest": "60s",
-        "yt": "https://www.youtube.com/watch?v=6TSP13BISI4",
-        "ytLabel": "Scott Herman \u2014 Bent Over DB Row"
+        "yt": "https://www.youtube.com/watch?v=5PoEksoJNaw",
+        "ytLabel": "Renaissance Periodization \u2014 Two Arm Dumbbell Row"
       },
       {
         "id": "m_54_4",
@@ -5318,7 +5318,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Strict side delts)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
-        "ytLabel": "Jeff Nippard \u2014 Science of Lateral Raises"
+        "ytLabel": "Scott Herman \u2014 DB Side Lateral Raise"
       },
       {
         "id": "m_54_5",
@@ -5329,7 +5329,7 @@ const WORKOUT_PLAN = [
         "tempo": "2-1-1-0",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=J0DnG1_S92I",
-        "ytLabel": "Calisthenicmovement \u2014 Diamond Push-Ups"
+        "ytLabel": "Scott Herman \u2014 Diamond Push-Up"
       },
       {
         "id": "m_54_6",
@@ -5340,7 +5340,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "45s",
         "yt": "https://www.youtube.com/watch?v=0AUGkch3tzc",
-        "ytLabel": "Scott Herman \u2014 Concentration Curl"
+        "ytLabel": "Howcast \u2014 Concentration Curl Form"
       }
     ],
     "evening": {
@@ -5349,14 +5349,14 @@ const WORKOUT_PLAN = [
         "name": "Hollow Body Hold",
         "target": "3 sets x 30\u201335s hollow body hold",
         "yt": "https://www.youtube.com/watch?v=44ScXWFaVBs",
-        "ytLabel": "Calisthenicmovement \u2014 Hollow Body Hold"
+        "ytLabel": "Antranik \u2014 Hollow Body Hold Guide"
       },
       "mobility": {
         "id": "e_54_2",
         "name": "Couch Stretch (Hip Flexor & Psoas Opener)",
         "target": "2 mins each side",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       "cardio": {
         "id": "e_54_3",
@@ -5397,7 +5397,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=MeIiIdhvXT4",
-        "ytLabel": "Athlean-X \u2014 Goblet Squat Mastery"
+        "ytLabel": "Scott Herman \u2014 Goblet Squat Guide"
       },
       {
         "id": "m_55_2",
@@ -5408,7 +5408,7 @@ const WORKOUT_PLAN = [
         "tempo": "Controlled 90/90 step",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=L8fvypPrzzs",
-        "ytLabel": "Scott Herman \u2014 Walking Lunges"
+        "ytLabel": "CrossFit \u2014 The Walking Lunge Form"
       },
       {
         "id": "m_55_3",
@@ -5418,8 +5418,8 @@ const WORKOUT_PLAN = [
         "load": "1x 5kg or 1x 10kg",
         "tempo": "3-1-1-0",
         "rest": "60s",
-        "yt": "https://www.youtube.com/watch?v=2Tz8lWzL5Kk",
-        "ytLabel": "Squat University \u2014 Single Leg RDL"
+        "yt": "https://www.youtube.com/watch?v=DGavj41F_Cs",
+        "ytLabel": "Scott Herman \u2014 DB Single-Leg Stiff Deadlift"
       },
       {
         "id": "m_55_4",
@@ -5429,8 +5429,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg",
         "tempo": "3-1-1-0",
         "rest": "60s",
-        "yt": "https://www.youtube.com/watch?v=9ZuD8vf6nSU",
-        "ytLabel": "Scott Herman \u2014 Sumo Squat Technique"
+        "yt": "https://www.youtube.com/watch?v=bRCjBCtBGIo",
+        "ytLabel": "DeltaBolic \u2014 Dumbbell Sumo Squat Form"
       },
       {
         "id": "m_55_5",
@@ -5440,8 +5440,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg in hand",
         "tempo": "3-2-1-0",
         "rest": "45s",
-        "yt": "https://www.youtube.com/watch?v=f2w8v8P7kio",
-        "ytLabel": "Jeff Nippard \u2014 Calf Growth Guide"
+        "yt": "https://www.youtube.com/watch?v=ORT4oJ_R8Qs",
+        "ytLabel": "Scott Herman \u2014 Single-Leg Calf Raise Form"
       }
     ],
     "evening": {
@@ -5449,14 +5449,14 @@ const WORKOUT_PLAN = [
         "id": "e_55_1",
         "name": "Deadbug Core Stabilization",
         "target": "3 sets x 12 reps / side",
-        "yt": "https://www.youtube.com/watch?v=g_BYB0R-44A",
+        "yt": "https://www.youtube.com/watch?v=0XVbn86Btj0",
         "ytLabel": "Squat University \u2014 Deadbug Core Form"
       },
       "mobility": {
         "id": "e_55_2",
         "name": "World's Greatest Stretch Routine",
         "target": "3 mins deep hips & ankles",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       "cardio": {
@@ -5497,7 +5497,7 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Deep breath at extension",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       {
@@ -5508,8 +5508,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Relax into hip",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       {
         "id": "m_56_3",
@@ -5519,8 +5519,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Slow rotation",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=0h5c5lQvB1c",
-        "ytLabel": "Squat University \u2014 Thoracic Mobility"
+        "yt": "https://www.youtube.com/watch?v=9LJDGUulS_8",
+        "ytLabel": "Squat University \u2014 Thoracic Spine Mobility"
       },
       {
         "id": "m_56_4",
@@ -5530,8 +5530,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Max exhalation & pull navel in",
         "rest": "45s",
-        "yt": "https://www.youtube.com/watch?v=c3-e2u0l1dM",
-        "ytLabel": "Jeremy Ethier \u2014 Stomach Vacuum for Slim Waist"
+        "yt": "https://www.youtube.com/watch?v=cub3xhJXsAA",
+        "ytLabel": "wikiHow \u2014 Stomach Vacuum Exercise Guide"
       }
     ],
     "evening": {
@@ -5540,14 +5540,14 @@ const WORKOUT_PLAN = [
         "name": "Hardstyle RKC Plank (Maximum Tension)",
         "target": "3 sets x 30s plank hold",
         "yt": "https://www.youtube.com/watch?v=TvxNkmjdhMM",
-        "ytLabel": "Calisthenicmovement \u2014 Proper Plank Form"
+        "ytLabel": "P4P Workouts \u2014 Proper Plank Form"
       },
       "mobility": {
         "id": "e_56_2",
         "name": "Shoulder Doorway Stretch",
         "target": "2 mins chest & anterior delt opening",
-        "yt": null,
-        "ytLabel": null
+        "yt": "https://www.youtube.com/watch?v=O8rJw_TmC1Y",
+        "ytLabel": "Rehab Hero \u2014 Doorway Chest & Shoulder Stretch"
       },
       "cardio": {
         "id": "e_56_3",
@@ -5598,8 +5598,8 @@ const WORKOUT_PLAN = [
         "load": "2x 10kg (or 2x 5kg)",
         "tempo": "3-1-1-0",
         "rest": "45\u201360s",
-        "yt": "https://www.youtube.com/watch?v=uUGDRwG4Fjs",
-        "ytLabel": "Athlean-X \u2014 Dumbbell Floor Press Guide"
+        "yt": "https://www.youtube.com/watch?v=uUGDRwge4F8",
+        "ytLabel": "Scott Herman \u2014 Dumbbell Floor Press Form"
       },
       {
         "id": "m_57_3",
@@ -5621,7 +5621,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Elbows lead)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
-        "ytLabel": "Jeff Nippard \u2014 Science of Lateral Raises"
+        "ytLabel": "Scott Herman \u2014 DB Side Lateral Raise"
       },
       {
         "id": "m_57_5",
@@ -5632,7 +5632,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=_gsUck-7M74",
-        "ytLabel": "Scott Herman \u2014 Overhead Tricep Extension"
+        "ytLabel": "Howcast \u2014 Dumbbell Tricep Extension"
       }
     ],
     "evening": {
@@ -5640,15 +5640,15 @@ const WORKOUT_PLAN = [
         "id": "e_57_1",
         "name": "Transverse Abdominis Stomach Vacuum",
         "target": "4 sets x 20\u201325s vacuum hold on empty stomach",
-        "yt": "https://www.youtube.com/watch?v=c3-e2u0l1dM",
-        "ytLabel": "Jeremy Ethier \u2014 Stomach Vacuum for Slim Waist"
+        "yt": "https://www.youtube.com/watch?v=cub3xhJXsAA",
+        "ytLabel": "wikiHow \u2014 Stomach Vacuum Exercise Guide"
       },
       "mobility": {
         "id": "e_57_2",
         "name": "Couch Stretch (Hip Flexor & Psoas Opener)",
         "target": "2 mins each side (opens tight hip flexors)",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       "cardio": {
         "id": "e_57_3",
@@ -5689,7 +5689,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (1s squeeze at top)",
         "rest": "45\u201360s",
         "yt": "https://www.youtube.com/watch?v=pYcpY20QaE8",
-        "ytLabel": "Athlean-X \u2014 Perfect Single-Arm DB Row"
+        "ytLabel": "Scott Herman \u2014 Single-Arm DB Row Form"
       },
       {
         "id": "m_58_2",
@@ -5700,7 +5700,7 @@ const WORKOUT_PLAN = [
         "tempo": "2-1-1-0",
         "rest": "45\u201360s",
         "yt": "https://www.youtube.com/watch?v=rloXYB8M3vU",
-        "ytLabel": "Calisthenicmovement \u2014 Door Towel Rows"
+        "ytLabel": "Antranik \u2014 Door Towel Incline Rows"
       },
       {
         "id": "m_58_3",
@@ -5710,8 +5710,8 @@ const WORKOUT_PLAN = [
         "load": "2x 4kg or 2x 5kg",
         "tempo": "3-1-1-0",
         "rest": "60s",
-        "yt": "https://www.youtube.com/watch?v=eaun65zHk2c",
-        "ytLabel": "Athlean-X \u2014 Rear Delt Flyes"
+        "yt": "https://www.youtube.com/watch?v=ttvfGg9d76c",
+        "ytLabel": "Scott Herman \u2014 DB Bent-Over Rear Delt Raise"
       },
       {
         "id": "m_58_4",
@@ -5722,7 +5722,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Supinate wrist)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=in7PaeYlhrM",
-        "ytLabel": "Jeff Nippard \u2014 Bicep Hypertrophy Science"
+        "ytLabel": "Mind Pump TV \u2014 Dumbbell Bicep Curls Form"
       },
       {
         "id": "m_58_5",
@@ -5741,15 +5741,15 @@ const WORKOUT_PLAN = [
         "id": "e_58_1",
         "name": "Deadbug Core Stabilization",
         "target": "3 sets x 12 reps per side (Anti-extension core)",
-        "yt": "https://www.youtube.com/watch?v=g_BYB0R-44A",
+        "yt": "https://www.youtube.com/watch?v=0XVbn86Btj0",
         "ytLabel": "Squat University \u2014 Deadbug Core Form"
       },
       "mobility": {
         "id": "e_58_2",
         "name": "Thoracic Spine Mobility & Desk Posture",
         "target": "3 mins thoracic spine rotations (fixes desk posture)",
-        "yt": "https://www.youtube.com/watch?v=0h5c5lQvB1c",
-        "ytLabel": "Squat University \u2014 Thoracic Mobility"
+        "yt": "https://www.youtube.com/watch?v=9LJDGUulS_8",
+        "ytLabel": "Squat University \u2014 Thoracic Spine Mobility"
       },
       "cardio": {
         "id": "e_58_3",
@@ -5789,8 +5789,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg (Goblet) or 2x 5kg",
         "tempo": "3-1-1-0 (Deep hip crease)",
         "rest": "90s",
-        "yt": "https://www.youtube.com/watch?v=1CVecvh_6W0",
-        "ytLabel": "Squat University \u2014 Bulgarian Split Squat"
+        "yt": "https://www.youtube.com/watch?v=bwhl_9jN_3o",
+        "ytLabel": "Squat University \u2014 Bulgarian Split Squat Form"
       },
       {
         "id": "m_59_2",
@@ -5801,7 +5801,7 @@ const WORKOUT_PLAN = [
         "tempo": "4-1-1-0 (Deep hamstring stretch)",
         "rest": "45\u201360s",
         "yt": "https://www.youtube.com/watch?v=_oyxCn2iSjU",
-        "ytLabel": "Jeremy Ethier \u2014 Dumbbell RDL Form"
+        "ytLabel": "Jeff Nippard \u2014 Romanian Deadlift (RDL) Guide"
       },
       {
         "id": "m_59_3",
@@ -5812,7 +5812,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "45\u201360s",
         "yt": "https://www.youtube.com/watch?v=MeIiIdhvXT4",
-        "ytLabel": "Athlean-X \u2014 Goblet Squat Mastery"
+        "ytLabel": "Scott Herman \u2014 Goblet Squat Guide"
       },
       {
         "id": "m_59_4",
@@ -5823,7 +5823,7 @@ const WORKOUT_PLAN = [
         "tempo": "2-2-1-0 (2s hold at peak)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=8bbE64NuDTU",
-        "ytLabel": "Jeremy Ethier \u2014 Glute Bridge & Hip Thrust"
+        "ytLabel": "Scott Herman \u2014 Glute Bridge Technique"
       },
       {
         "id": "m_59_5",
@@ -5833,8 +5833,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg in hand (Book/step)",
         "tempo": "3-2-1-0 (2s full stretch at bottom)",
         "rest": "45s",
-        "yt": "https://www.youtube.com/watch?v=f2w8v8P7kio",
-        "ytLabel": "Jeff Nippard \u2014 Calf Growth Guide"
+        "yt": "https://www.youtube.com/watch?v=ORT4oJ_R8Qs",
+        "ytLabel": "Scott Herman \u2014 Single-Leg Calf Raise Form"
       }
     ],
     "evening": {
@@ -5842,14 +5842,14 @@ const WORKOUT_PLAN = [
         "id": "e_59_1",
         "name": "Lying Leg Raises & Reverse Crunches",
         "target": "3 sets x 15 reps (Lower abs & pelvis tuck)",
-        "yt": "https://www.youtube.com/watch?v=Pr1ieGZ5atk",
-        "ytLabel": "Calisthenicmovement \u2014 Leg Raises"
+        "yt": "https://www.youtube.com/watch?v=PkLYH3uRtSs",
+        "ytLabel": "TylerPath \u2014 Lying Leg Raises Form"
       },
       "mobility": {
         "id": "e_59_2",
         "name": "World's Greatest Stretch Routine",
         "target": "3 mins hip & ankle mobility flow",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       "cardio": {
@@ -5890,8 +5890,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Deep breathing",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       {
         "id": "m_60_2",
@@ -5901,8 +5901,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Slow rotation",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=0h5c5lQvB1c",
-        "ytLabel": "Squat University \u2014 Thoracic Mobility"
+        "yt": "https://www.youtube.com/watch?v=9LJDGUulS_8",
+        "ytLabel": "Squat University \u2014 Thoracic Spine Mobility"
       },
       {
         "id": "m_60_3",
@@ -5913,7 +5913,7 @@ const WORKOUT_PLAN = [
         "tempo": "2s hold at full reach",
         "rest": "45s",
         "yt": "https://www.youtube.com/watch?v=wiFNA3sqjCA",
-        "ytLabel": "Squat University \u2014 Bird Dog Form"
+        "ytLabel": "Howcast \u2014 Bird Dog Exercise Tutorial"
       },
       {
         "id": "m_60_4",
@@ -5924,7 +5924,7 @@ const WORKOUT_PLAN = [
         "tempo": "Max squeeze glutes & abs",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=TvxNkmjdhMM",
-        "ytLabel": "Calisthenicmovement \u2014 Proper Plank Form"
+        "ytLabel": "P4P Workouts \u2014 Proper Plank Form"
       }
     ],
     "evening": {
@@ -5932,14 +5932,14 @@ const WORKOUT_PLAN = [
         "id": "e_60_1",
         "name": "Transverse Abdominis Stomach Vacuum",
         "target": "4 sets x 25s vacuum hold (Waist slimming)",
-        "yt": "https://www.youtube.com/watch?v=c3-e2u0l1dM",
-        "ytLabel": "Jeremy Ethier \u2014 Stomach Vacuum for Slim Waist"
+        "yt": "https://www.youtube.com/watch?v=cub3xhJXsAA",
+        "ytLabel": "wikiHow \u2014 Stomach Vacuum Exercise Guide"
       },
       "mobility": {
         "id": "e_60_2",
         "name": "World's Greatest Stretch Routine",
         "target": "3 mins deep whole-body stretch",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       "cardio": {
@@ -5981,7 +5981,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "45\u201360s",
         "yt": "https://www.youtube.com/watch?v=SKPab2YC8BE",
-        "ytLabel": "Calisthenicmovement \u2014 Decline Push-Ups (Upper Chest)"
+        "ytLabel": "Scott Herman \u2014 Decline Push-Up Form"
       },
       {
         "id": "m_61_2",
@@ -5992,7 +5992,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Full rotation)",
         "rest": "45\u201360s",
         "yt": "https://www.youtube.com/watch?v=6Z15_WdXmVw",
-        "ytLabel": "Scott Herman \u2014 Arnold Press Technique"
+        "ytLabel": "Buff Dudes \u2014 Arnold Press Tutorial"
       },
       {
         "id": "m_61_3",
@@ -6002,8 +6002,8 @@ const WORKOUT_PLAN = [
         "load": "2x 10kg (or 2x 5kg)",
         "tempo": "2-1-1-0",
         "rest": "45\u201360s",
-        "yt": "https://www.youtube.com/watch?v=6TSP13BISI4",
-        "ytLabel": "Scott Herman \u2014 Bent Over DB Row"
+        "yt": "https://www.youtube.com/watch?v=5PoEksoJNaw",
+        "ytLabel": "Renaissance Periodization \u2014 Two Arm Dumbbell Row"
       },
       {
         "id": "m_61_4",
@@ -6014,7 +6014,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Strict side delts)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
-        "ytLabel": "Jeff Nippard \u2014 Science of Lateral Raises"
+        "ytLabel": "Scott Herman \u2014 DB Side Lateral Raise"
       },
       {
         "id": "m_61_5",
@@ -6025,7 +6025,7 @@ const WORKOUT_PLAN = [
         "tempo": "2-1-1-0",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=J0DnG1_S92I",
-        "ytLabel": "Calisthenicmovement \u2014 Diamond Push-Ups"
+        "ytLabel": "Scott Herman \u2014 Diamond Push-Up"
       },
       {
         "id": "m_61_6",
@@ -6036,7 +6036,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "45s",
         "yt": "https://www.youtube.com/watch?v=0AUGkch3tzc",
-        "ytLabel": "Scott Herman \u2014 Concentration Curl"
+        "ytLabel": "Howcast \u2014 Concentration Curl Form"
       }
     ],
     "evening": {
@@ -6045,14 +6045,14 @@ const WORKOUT_PLAN = [
         "name": "Hollow Body Hold",
         "target": "3 sets x 30\u201335s hollow body hold",
         "yt": "https://www.youtube.com/watch?v=44ScXWFaVBs",
-        "ytLabel": "Calisthenicmovement \u2014 Hollow Body Hold"
+        "ytLabel": "Antranik \u2014 Hollow Body Hold Guide"
       },
       "mobility": {
         "id": "e_61_2",
         "name": "Couch Stretch (Hip Flexor & Psoas Opener)",
         "target": "2 mins each side",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       "cardio": {
         "id": "e_61_3",
@@ -6093,7 +6093,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "45\u201360s",
         "yt": "https://www.youtube.com/watch?v=MeIiIdhvXT4",
-        "ytLabel": "Athlean-X \u2014 Goblet Squat Mastery"
+        "ytLabel": "Scott Herman \u2014 Goblet Squat Guide"
       },
       {
         "id": "m_62_2",
@@ -6104,7 +6104,7 @@ const WORKOUT_PLAN = [
         "tempo": "Controlled 90/90 step",
         "rest": "45\u201360s",
         "yt": "https://www.youtube.com/watch?v=L8fvypPrzzs",
-        "ytLabel": "Scott Herman \u2014 Walking Lunges"
+        "ytLabel": "CrossFit \u2014 The Walking Lunge Form"
       },
       {
         "id": "m_62_3",
@@ -6114,8 +6114,8 @@ const WORKOUT_PLAN = [
         "load": "1x 5kg or 1x 10kg",
         "tempo": "3-1-1-0",
         "rest": "45\u201360s",
-        "yt": "https://www.youtube.com/watch?v=2Tz8lWzL5Kk",
-        "ytLabel": "Squat University \u2014 Single Leg RDL"
+        "yt": "https://www.youtube.com/watch?v=DGavj41F_Cs",
+        "ytLabel": "Scott Herman \u2014 DB Single-Leg Stiff Deadlift"
       },
       {
         "id": "m_62_4",
@@ -6125,8 +6125,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg",
         "tempo": "3-1-1-0",
         "rest": "45\u201360s",
-        "yt": "https://www.youtube.com/watch?v=9ZuD8vf6nSU",
-        "ytLabel": "Scott Herman \u2014 Sumo Squat Technique"
+        "yt": "https://www.youtube.com/watch?v=bRCjBCtBGIo",
+        "ytLabel": "DeltaBolic \u2014 Dumbbell Sumo Squat Form"
       },
       {
         "id": "m_62_5",
@@ -6136,8 +6136,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg in hand",
         "tempo": "3-2-1-0",
         "rest": "45s",
-        "yt": "https://www.youtube.com/watch?v=f2w8v8P7kio",
-        "ytLabel": "Jeff Nippard \u2014 Calf Growth Guide"
+        "yt": "https://www.youtube.com/watch?v=ORT4oJ_R8Qs",
+        "ytLabel": "Scott Herman \u2014 Single-Leg Calf Raise Form"
       }
     ],
     "evening": {
@@ -6145,14 +6145,14 @@ const WORKOUT_PLAN = [
         "id": "e_62_1",
         "name": "Deadbug Core Stabilization",
         "target": "3 sets x 12 reps / side",
-        "yt": "https://www.youtube.com/watch?v=g_BYB0R-44A",
+        "yt": "https://www.youtube.com/watch?v=0XVbn86Btj0",
         "ytLabel": "Squat University \u2014 Deadbug Core Form"
       },
       "mobility": {
         "id": "e_62_2",
         "name": "World's Greatest Stretch Routine",
         "target": "3 mins deep hips & ankles",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       "cardio": {
@@ -6193,7 +6193,7 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Deep breath at extension",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       {
@@ -6204,8 +6204,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Relax into hip",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       {
         "id": "m_63_3",
@@ -6215,8 +6215,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Slow rotation",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=0h5c5lQvB1c",
-        "ytLabel": "Squat University \u2014 Thoracic Mobility"
+        "yt": "https://www.youtube.com/watch?v=9LJDGUulS_8",
+        "ytLabel": "Squat University \u2014 Thoracic Spine Mobility"
       },
       {
         "id": "m_63_4",
@@ -6226,8 +6226,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Max exhalation & pull navel in",
         "rest": "45s",
-        "yt": "https://www.youtube.com/watch?v=c3-e2u0l1dM",
-        "ytLabel": "Jeremy Ethier \u2014 Stomach Vacuum for Slim Waist"
+        "yt": "https://www.youtube.com/watch?v=cub3xhJXsAA",
+        "ytLabel": "wikiHow \u2014 Stomach Vacuum Exercise Guide"
       }
     ],
     "evening": {
@@ -6236,14 +6236,14 @@ const WORKOUT_PLAN = [
         "name": "Hardstyle RKC Plank (Maximum Tension)",
         "target": "3 sets x 30s plank hold",
         "yt": "https://www.youtube.com/watch?v=TvxNkmjdhMM",
-        "ytLabel": "Calisthenicmovement \u2014 Proper Plank Form"
+        "ytLabel": "P4P Workouts \u2014 Proper Plank Form"
       },
       "mobility": {
         "id": "e_63_2",
         "name": "Shoulder Doorway Stretch",
         "target": "2 mins chest & anterior delt opening",
-        "yt": null,
-        "ytLabel": null
+        "yt": "https://www.youtube.com/watch?v=O8rJw_TmC1Y",
+        "ytLabel": "Rehab Hero \u2014 Doorway Chest & Shoulder Stretch"
       },
       "cardio": {
         "id": "e_63_3",
@@ -6294,8 +6294,8 @@ const WORKOUT_PLAN = [
         "load": "2x 10kg (or 2x 5kg)",
         "tempo": "3-1-1-0",
         "rest": "45\u201360s",
-        "yt": "https://www.youtube.com/watch?v=uUGDRwG4Fjs",
-        "ytLabel": "Athlean-X \u2014 Dumbbell Floor Press Guide"
+        "yt": "https://www.youtube.com/watch?v=uUGDRwge4F8",
+        "ytLabel": "Scott Herman \u2014 Dumbbell Floor Press Form"
       },
       {
         "id": "m_64_3",
@@ -6317,7 +6317,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Elbows lead)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
-        "ytLabel": "Jeff Nippard \u2014 Science of Lateral Raises"
+        "ytLabel": "Scott Herman \u2014 DB Side Lateral Raise"
       },
       {
         "id": "m_64_5",
@@ -6328,7 +6328,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=_gsUck-7M74",
-        "ytLabel": "Scott Herman \u2014 Overhead Tricep Extension"
+        "ytLabel": "Howcast \u2014 Dumbbell Tricep Extension"
       }
     ],
     "evening": {
@@ -6336,15 +6336,15 @@ const WORKOUT_PLAN = [
         "id": "e_64_1",
         "name": "Transverse Abdominis Stomach Vacuum",
         "target": "4 sets x 20\u201325s vacuum hold on empty stomach",
-        "yt": "https://www.youtube.com/watch?v=c3-e2u0l1dM",
-        "ytLabel": "Jeremy Ethier \u2014 Stomach Vacuum for Slim Waist"
+        "yt": "https://www.youtube.com/watch?v=cub3xhJXsAA",
+        "ytLabel": "wikiHow \u2014 Stomach Vacuum Exercise Guide"
       },
       "mobility": {
         "id": "e_64_2",
         "name": "Couch Stretch (Hip Flexor & Psoas Opener)",
         "target": "2 mins each side (opens tight hip flexors)",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       "cardio": {
         "id": "e_64_3",
@@ -6385,7 +6385,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (1s squeeze at top)",
         "rest": "45\u201360s",
         "yt": "https://www.youtube.com/watch?v=pYcpY20QaE8",
-        "ytLabel": "Athlean-X \u2014 Perfect Single-Arm DB Row"
+        "ytLabel": "Scott Herman \u2014 Single-Arm DB Row Form"
       },
       {
         "id": "m_65_2",
@@ -6396,7 +6396,7 @@ const WORKOUT_PLAN = [
         "tempo": "2-1-1-0",
         "rest": "45\u201360s",
         "yt": "https://www.youtube.com/watch?v=rloXYB8M3vU",
-        "ytLabel": "Calisthenicmovement \u2014 Door Towel Rows"
+        "ytLabel": "Antranik \u2014 Door Towel Incline Rows"
       },
       {
         "id": "m_65_3",
@@ -6406,8 +6406,8 @@ const WORKOUT_PLAN = [
         "load": "2x 4kg or 2x 5kg",
         "tempo": "3-1-1-0",
         "rest": "60s",
-        "yt": "https://www.youtube.com/watch?v=eaun65zHk2c",
-        "ytLabel": "Athlean-X \u2014 Rear Delt Flyes"
+        "yt": "https://www.youtube.com/watch?v=ttvfGg9d76c",
+        "ytLabel": "Scott Herman \u2014 DB Bent-Over Rear Delt Raise"
       },
       {
         "id": "m_65_4",
@@ -6418,7 +6418,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Supinate wrist)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=in7PaeYlhrM",
-        "ytLabel": "Jeff Nippard \u2014 Bicep Hypertrophy Science"
+        "ytLabel": "Mind Pump TV \u2014 Dumbbell Bicep Curls Form"
       },
       {
         "id": "m_65_5",
@@ -6437,15 +6437,15 @@ const WORKOUT_PLAN = [
         "id": "e_65_1",
         "name": "Deadbug Core Stabilization",
         "target": "3 sets x 12 reps per side (Anti-extension core)",
-        "yt": "https://www.youtube.com/watch?v=g_BYB0R-44A",
+        "yt": "https://www.youtube.com/watch?v=0XVbn86Btj0",
         "ytLabel": "Squat University \u2014 Deadbug Core Form"
       },
       "mobility": {
         "id": "e_65_2",
         "name": "Thoracic Spine Mobility & Desk Posture",
         "target": "3 mins thoracic spine rotations (fixes desk posture)",
-        "yt": "https://www.youtube.com/watch?v=0h5c5lQvB1c",
-        "ytLabel": "Squat University \u2014 Thoracic Mobility"
+        "yt": "https://www.youtube.com/watch?v=9LJDGUulS_8",
+        "ytLabel": "Squat University \u2014 Thoracic Spine Mobility"
       },
       "cardio": {
         "id": "e_65_3",
@@ -6485,8 +6485,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg (Goblet) or 2x 5kg",
         "tempo": "3-1-1-0 (Deep hip crease)",
         "rest": "90s",
-        "yt": "https://www.youtube.com/watch?v=1CVecvh_6W0",
-        "ytLabel": "Squat University \u2014 Bulgarian Split Squat"
+        "yt": "https://www.youtube.com/watch?v=bwhl_9jN_3o",
+        "ytLabel": "Squat University \u2014 Bulgarian Split Squat Form"
       },
       {
         "id": "m_66_2",
@@ -6497,7 +6497,7 @@ const WORKOUT_PLAN = [
         "tempo": "4-1-1-0 (Deep hamstring stretch)",
         "rest": "45\u201360s",
         "yt": "https://www.youtube.com/watch?v=_oyxCn2iSjU",
-        "ytLabel": "Jeremy Ethier \u2014 Dumbbell RDL Form"
+        "ytLabel": "Jeff Nippard \u2014 Romanian Deadlift (RDL) Guide"
       },
       {
         "id": "m_66_3",
@@ -6508,7 +6508,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "45\u201360s",
         "yt": "https://www.youtube.com/watch?v=MeIiIdhvXT4",
-        "ytLabel": "Athlean-X \u2014 Goblet Squat Mastery"
+        "ytLabel": "Scott Herman \u2014 Goblet Squat Guide"
       },
       {
         "id": "m_66_4",
@@ -6519,7 +6519,7 @@ const WORKOUT_PLAN = [
         "tempo": "2-2-1-0 (2s hold at peak)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=8bbE64NuDTU",
-        "ytLabel": "Jeremy Ethier \u2014 Glute Bridge & Hip Thrust"
+        "ytLabel": "Scott Herman \u2014 Glute Bridge Technique"
       },
       {
         "id": "m_66_5",
@@ -6529,8 +6529,8 @@ const WORKOUT_PLAN = [
         "load": "1x 10kg in hand (Book/step)",
         "tempo": "3-2-1-0 (2s full stretch at bottom)",
         "rest": "45s",
-        "yt": "https://www.youtube.com/watch?v=f2w8v8P7kio",
-        "ytLabel": "Jeff Nippard \u2014 Calf Growth Guide"
+        "yt": "https://www.youtube.com/watch?v=ORT4oJ_R8Qs",
+        "ytLabel": "Scott Herman \u2014 Single-Leg Calf Raise Form"
       }
     ],
     "evening": {
@@ -6538,14 +6538,14 @@ const WORKOUT_PLAN = [
         "id": "e_66_1",
         "name": "Lying Leg Raises & Reverse Crunches",
         "target": "3 sets x 15 reps (Lower abs & pelvis tuck)",
-        "yt": "https://www.youtube.com/watch?v=Pr1ieGZ5atk",
-        "ytLabel": "Calisthenicmovement \u2014 Leg Raises"
+        "yt": "https://www.youtube.com/watch?v=PkLYH3uRtSs",
+        "ytLabel": "TylerPath \u2014 Lying Leg Raises Form"
       },
       "mobility": {
         "id": "e_66_2",
         "name": "World's Greatest Stretch Routine",
         "target": "3 mins hip & ankle mobility flow",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       "cardio": {
@@ -6586,8 +6586,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Deep breathing",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       {
         "id": "m_67_2",
@@ -6597,8 +6597,8 @@ const WORKOUT_PLAN = [
         "load": "Bodyweight",
         "tempo": "Slow rotation",
         "rest": "30s",
-        "yt": "https://www.youtube.com/watch?v=0h5c5lQvB1c",
-        "ytLabel": "Squat University \u2014 Thoracic Mobility"
+        "yt": "https://www.youtube.com/watch?v=9LJDGUulS_8",
+        "ytLabel": "Squat University \u2014 Thoracic Spine Mobility"
       },
       {
         "id": "m_67_3",
@@ -6609,7 +6609,7 @@ const WORKOUT_PLAN = [
         "tempo": "2s hold at full reach",
         "rest": "45s",
         "yt": "https://www.youtube.com/watch?v=wiFNA3sqjCA",
-        "ytLabel": "Squat University \u2014 Bird Dog Form"
+        "ytLabel": "Howcast \u2014 Bird Dog Exercise Tutorial"
       },
       {
         "id": "m_67_4",
@@ -6620,7 +6620,7 @@ const WORKOUT_PLAN = [
         "tempo": "Max squeeze glutes & abs",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=TvxNkmjdhMM",
-        "ytLabel": "Calisthenicmovement \u2014 Proper Plank Form"
+        "ytLabel": "P4P Workouts \u2014 Proper Plank Form"
       }
     ],
     "evening": {
@@ -6628,14 +6628,14 @@ const WORKOUT_PLAN = [
         "id": "e_67_1",
         "name": "Transverse Abdominis Stomach Vacuum",
         "target": "4 sets x 25s vacuum hold (Waist slimming)",
-        "yt": "https://www.youtube.com/watch?v=c3-e2u0l1dM",
-        "ytLabel": "Jeremy Ethier \u2014 Stomach Vacuum for Slim Waist"
+        "yt": "https://www.youtube.com/watch?v=cub3xhJXsAA",
+        "ytLabel": "wikiHow \u2014 Stomach Vacuum Exercise Guide"
       },
       "mobility": {
         "id": "e_67_2",
         "name": "World's Greatest Stretch Routine",
         "target": "3 mins deep whole-body stretch",
-        "yt": "https://www.youtube.com/watch?v=4sQ9vQf0sXg",
+        "yt": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
         "ytLabel": "Squat University \u2014 World's Greatest Stretch"
       },
       "cardio": {
@@ -6677,7 +6677,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "45\u201360s",
         "yt": "https://www.youtube.com/watch?v=SKPab2YC8BE",
-        "ytLabel": "Calisthenicmovement \u2014 Decline Push-Ups (Upper Chest)"
+        "ytLabel": "Scott Herman \u2014 Decline Push-Up Form"
       },
       {
         "id": "m_68_2",
@@ -6688,7 +6688,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Full rotation)",
         "rest": "45\u201360s",
         "yt": "https://www.youtube.com/watch?v=6Z15_WdXmVw",
-        "ytLabel": "Scott Herman \u2014 Arnold Press Technique"
+        "ytLabel": "Buff Dudes \u2014 Arnold Press Tutorial"
       },
       {
         "id": "m_68_3",
@@ -6698,8 +6698,8 @@ const WORKOUT_PLAN = [
         "load": "2x 10kg (or 2x 5kg)",
         "tempo": "2-1-1-0",
         "rest": "45\u201360s",
-        "yt": "https://www.youtube.com/watch?v=6TSP13BISI4",
-        "ytLabel": "Scott Herman \u2014 Bent Over DB Row"
+        "yt": "https://www.youtube.com/watch?v=5PoEksoJNaw",
+        "ytLabel": "Renaissance Periodization \u2014 Two Arm Dumbbell Row"
       },
       {
         "id": "m_68_4",
@@ -6710,7 +6710,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0 (Strict side delts)",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
-        "ytLabel": "Jeff Nippard \u2014 Science of Lateral Raises"
+        "ytLabel": "Scott Herman \u2014 DB Side Lateral Raise"
       },
       {
         "id": "m_68_5",
@@ -6721,7 +6721,7 @@ const WORKOUT_PLAN = [
         "tempo": "2-1-1-0",
         "rest": "60s",
         "yt": "https://www.youtube.com/watch?v=J0DnG1_S92I",
-        "ytLabel": "Calisthenicmovement \u2014 Diamond Push-Ups"
+        "ytLabel": "Scott Herman \u2014 Diamond Push-Up"
       },
       {
         "id": "m_68_6",
@@ -6732,7 +6732,7 @@ const WORKOUT_PLAN = [
         "tempo": "3-1-1-0",
         "rest": "45s",
         "yt": "https://www.youtube.com/watch?v=0AUGkch3tzc",
-        "ytLabel": "Scott Herman \u2014 Concentration Curl"
+        "ytLabel": "Howcast \u2014 Concentration Curl Form"
       }
     ],
     "evening": {
@@ -6741,14 +6741,14 @@ const WORKOUT_PLAN = [
         "name": "Hollow Body Hold",
         "target": "3 sets x 30\u201335s hollow body hold",
         "yt": "https://www.youtube.com/watch?v=44ScXWFaVBs",
-        "ytLabel": "Calisthenicmovement \u2014 Hollow Body Hold"
+        "ytLabel": "Antranik \u2014 Hollow Body Hold Guide"
       },
       "mobility": {
         "id": "e_68_2",
         "name": "Couch Stretch (Hip Flexor & Psoas Opener)",
         "target": "2 mins each side",
-        "yt": "https://www.youtube.com/watch?v=Kz60qV1gU2o",
-        "ytLabel": "Squat University \u2014 Couch Stretch"
+        "yt": "https://www.youtube.com/watch?v=SLxuJg_zKzw",
+        "ytLabel": "Movementgems \u2014 Couch Stretch Guide"
       },
       "cardio": {
         "id": "e_68_3",
@@ -6770,6 +6770,3 @@ const WORKOUT_PLAN = [
     }
   }
 ];
-
-if (typeof window !== 'undefined') { window.WORKOUT_PLAN = WORKOUT_PLAN; }
-if (typeof module !== 'undefined') { module.exports = WORKOUT_PLAN; }

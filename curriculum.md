@@ -15,14 +15,14 @@ _Focus: 3s eccentric descent, strict form, 2 RIR._
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
 - [ ] **Deficit / Standard Push-ups**: 3 sets × 12–15 reps | **Load**: Bodyweight | **Tempo**: 3-1-1-0 | **Rest**: 75s [Calisthenicmovement — Perfect Push-Up Form](https://www.youtube.com/watch?v=IODxDxX7oi4)
-- [ ] **Dumbbell Floor Press**: 3 sets × 10–12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 3-1-1-0 | **Rest**: 75s [Athlean-X — Dumbbell Floor Press Guide](https://www.youtube.com/watch?v=uUGDRwG4Fjs)
+- [ ] **Dumbbell Floor Press**: 3 sets × 10–12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 3-1-1-0 | **Rest**: 75s [Scott Herman — Dumbbell Floor Press Form](https://www.youtube.com/watch?v=uUGDRwge4F8)
 - [ ] **Seated/Standing DB Overhead Press**: 3 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-0-1-0 | **Rest**: 75s [Scott Herman — DB Shoulder Press Form](https://www.youtube.com/watch?v=qEwKCR5JCog)
-- [ ] **Strict DB Lateral Raise (Side Delts)**: 4 sets × 12–15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Elbows lead) | **Rest**: 60s [Jeff Nippard — Science of Lateral Raises](https://www.youtube.com/watch?v=3VcKaXpzqRo)
-- [ ] **Overhead DB Tricep Extension**: 3 sets × 12 reps | **Load**: 1x 10kg (both hands) | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — Overhead Tricep Extension](https://www.youtube.com/watch?v=_gsUck-7M74)
+- [ ] **Strict DB Lateral Raise (Side Delts)**: 4 sets × 12–15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Elbows lead) | **Rest**: 60s [Scott Herman — DB Side Lateral Raise](https://www.youtube.com/watch?v=3VcKaXpzqRo)
+- [ ] **Overhead DB Tricep Extension**: 3 sets × 12 reps | **Load**: 1x 10kg (both hands) | **Tempo**: 3-1-1-0 | **Rest**: 60s [Howcast — Dumbbell Tricep Extension](https://www.youtube.com/watch?v=_gsUck-7M74)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 20–25s vacuum hold on empty stomach [Jeremy Ethier — Stomach Vacuum for Slim Waist](https://www.youtube.com/watch?v=c3-e2u0l1dM)
-- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side (opens tight hip flexors) [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
+- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 20–25s vacuum hold on empty stomach [wikiHow — Stomach Vacuum Exercise Guide](https://www.youtube.com/watch?v=cub3xhJXsAA)
+- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side (opens tight hip flexors) [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
 - [ ] **Cardio/Steps**: Brisk Evening Walk — 25 mins (approx 3,000 steps) for recovery & digestion
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -40,15 +40,15 @@ _Focus: 3s eccentric descent, strict form, 2 RIR._
 - **Focus**: Pull · **Week**: 1
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Single-Arm Dumbbell Row**: 3 sets × 12–15 reps / side | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 (1s squeeze at top) | **Rest**: 75s [Athlean-X — Perfect Single-Arm DB Row](https://www.youtube.com/watch?v=pYcpY20QaE8)
-- [ ] **Inverted Door/Towel Row**: 3 sets × 10–12 reps | **Load**: Bodyweight (Door/Towel) | **Tempo**: 2-1-1-0 | **Rest**: 75s [Calisthenicmovement — Door Towel Rows](https://www.youtube.com/watch?v=rloXYB8M3vU)
-- [ ] **Bent-Over DB Rear Delt Flyes**: 4 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Athlean-X — Rear Delt Flyes](https://www.youtube.com/watch?v=eaun65zHk2c)
-- [ ] **Strict Supinating DB Bicep Curl**: 3 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-1-1-0 (Supinate wrist) | **Rest**: 60s [Jeff Nippard — Bicep Hypertrophy Science](https://www.youtube.com/watch?v=in7PaeYlhrM)
+- [ ] **Single-Arm Dumbbell Row**: 3 sets × 12–15 reps / side | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 (1s squeeze at top) | **Rest**: 75s [Scott Herman — Single-Arm DB Row Form](https://www.youtube.com/watch?v=pYcpY20QaE8)
+- [ ] **Inverted Door/Towel Row**: 3 sets × 10–12 reps | **Load**: Bodyweight (Door/Towel) | **Tempo**: 2-1-1-0 | **Rest**: 75s [Antranik — Door Towel Incline Rows](https://www.youtube.com/watch?v=rloXYB8M3vU)
+- [ ] **Bent-Over DB Rear Delt Flyes**: 4 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — DB Bent-Over Rear Delt Raise](https://www.youtube.com/watch?v=ttvfGg9d76c)
+- [ ] **Strict Supinating DB Bicep Curl**: 3 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-1-1-0 (Supinate wrist) | **Rest**: 60s [Mind Pump TV — Dumbbell Bicep Curls Form](https://www.youtube.com/watch?v=in7PaeYlhrM)
 - [ ] **Neutral Grip DB Hammer Curl**: 3 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-0-1-0 | **Rest**: 60s [Scott Herman — Hammer Curl Form](https://www.youtube.com/watch?v=zC3nLlEvin4)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps per side (Anti-extension core) [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=g_BYB0R-44A)
-- [ ] **Mobility**: Thoracic Spine Mobility & Desk Posture — 3 mins thoracic spine rotations (fixes desk posture) [Squat University — Thoracic Mobility](https://www.youtube.com/watch?v=0h5c5lQvB1c)
+- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps per side (Anti-extension core) [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=0XVbn86Btj0)
+- [ ] **Mobility**: Thoracic Spine Mobility & Desk Posture — 3 mins thoracic spine rotations (fixes desk posture) [Squat University — Thoracic Spine Mobility](https://www.youtube.com/watch?v=9LJDGUulS_8)
 - [ ] **Cardio/Steps**: Brisk Evening Walk — 25 mins (approx 3,000 steps)
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -66,15 +66,15 @@ _Focus: 3s eccentric descent, strict form, 2 RIR._
 - **Focus**: Legs · **Week**: 1
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Bulgarian Split Squat**: 3 sets × 10–12 reps / leg | **Load**: 1x 10kg (Goblet) or 2x 5kg | **Tempo**: 3-1-1-0 (Deep hip crease) | **Rest**: 90s [Squat University — Bulgarian Split Squat](https://www.youtube.com/watch?v=1CVecvh_6W0)
-- [ ] **Dumbbell Romanian Deadlift (RDL)**: 3 sets × 10–12 reps | **Load**: 2x 10kg | **Tempo**: 4-1-1-0 (Deep hamstring stretch) | **Rest**: 75s [Jeremy Ethier — Dumbbell RDL Form](https://www.youtube.com/watch?v=_oyxCn2iSjU)
-- [ ] **Dumbbell Goblet Squat**: 3 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 75s [Athlean-X — Goblet Squat Mastery](https://www.youtube.com/watch?v=MeIiIdhvXT4)
-- [ ] **Weighted Glute Bridge / Hip Thrust**: 3 sets × 15 reps | **Load**: 1x 10kg on hips | **Tempo**: 2-2-1-0 (2s hold at peak) | **Rest**: 60s [Jeremy Ethier — Glute Bridge & Hip Thrust](https://www.youtube.com/watch?v=8bbE64NuDTU)
-- [ ] **Single-Leg Deficit Calf Raise**: 4 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand (Book/step) | **Tempo**: 3-2-1-0 (2s full stretch at bottom) | **Rest**: 45s [Jeff Nippard — Calf Growth Guide](https://www.youtube.com/watch?v=f2w8v8P7kio)
+- [ ] **Bulgarian Split Squat**: 3 sets × 10–12 reps / leg | **Load**: 1x 10kg (Goblet) or 2x 5kg | **Tempo**: 3-1-1-0 (Deep hip crease) | **Rest**: 90s [Squat University — Bulgarian Split Squat Form](https://www.youtube.com/watch?v=bwhl_9jN_3o)
+- [ ] **Dumbbell Romanian Deadlift (RDL)**: 3 sets × 10–12 reps | **Load**: 2x 10kg | **Tempo**: 4-1-1-0 (Deep hamstring stretch) | **Rest**: 75s [Jeff Nippard — Romanian Deadlift (RDL) Guide](https://www.youtube.com/watch?v=_oyxCn2iSjU)
+- [ ] **Dumbbell Goblet Squat**: 3 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 75s [Scott Herman — Goblet Squat Guide](https://www.youtube.com/watch?v=MeIiIdhvXT4)
+- [ ] **Weighted Glute Bridge / Hip Thrust**: 3 sets × 15 reps | **Load**: 1x 10kg on hips | **Tempo**: 2-2-1-0 (2s hold at peak) | **Rest**: 60s [Scott Herman — Glute Bridge Technique](https://www.youtube.com/watch?v=8bbE64NuDTU)
+- [ ] **Single-Leg Deficit Calf Raise**: 4 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand (Book/step) | **Tempo**: 3-2-1-0 (2s full stretch at bottom) | **Rest**: 45s [Scott Herman — Single-Leg Calf Raise Form](https://www.youtube.com/watch?v=ORT4oJ_R8Qs)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Lying Leg Raises & Reverse Crunches — 3 sets x 15 reps (Lower abs & pelvis tuck) [Calisthenicmovement — Leg Raises](https://www.youtube.com/watch?v=Pr1ieGZ5atk)
-- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins hip & ankle mobility flow [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
+- [ ] **Core**: Lying Leg Raises & Reverse Crunches — 3 sets x 15 reps (Lower abs & pelvis tuck) [TylerPath — Lying Leg Raises Form](https://www.youtube.com/watch?v=PkLYH3uRtSs)
+- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins hip & ankle mobility flow [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
 - [ ] **Cardio/Steps**: Brisk Leg Flush Walk — 20 mins steady walking to clear leg fatigue
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -92,14 +92,14 @@ _Focus: 3s eccentric descent, strict form, 2 RIR._
 - **Focus**: Recovery · **Week**: 1
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Deep breathing | **Rest**: 30s [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
-- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Mobility](https://www.youtube.com/watch?v=0h5c5lQvB1c)
-- [ ] **Bird-Dog Core & Lower Back Flow**: 3 sets × 12 reps / side | **Load**: Bodyweight | **Tempo**: 2s hold at full reach | **Rest**: 45s [Squat University — Bird Dog Form](https://www.youtube.com/watch?v=wiFNA3sqjCA)
-- [ ] **Hardstyle RKC Plank (Maximum Tension)**: 3 sets × 30–45s max tension | **Load**: Bodyweight | **Tempo**: Max squeeze glutes & abs | **Rest**: 60s [Calisthenicmovement — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
+- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Deep breathing | **Rest**: 30s [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
+- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Spine Mobility](https://www.youtube.com/watch?v=9LJDGUulS_8)
+- [ ] **Bird-Dog Core & Lower Back Flow**: 3 sets × 12 reps / side | **Load**: Bodyweight | **Tempo**: 2s hold at full reach | **Rest**: 45s [Howcast — Bird Dog Exercise Tutorial](https://www.youtube.com/watch?v=wiFNA3sqjCA)
+- [ ] **Hardstyle RKC Plank (Maximum Tension)**: 3 sets × 30–45s max tension | **Load**: Bodyweight | **Tempo**: Max squeeze glutes & abs | **Rest**: 60s [P4P Workouts — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 25s vacuum hold (Waist slimming) [Jeremy Ethier — Stomach Vacuum for Slim Waist](https://www.youtube.com/watch?v=c3-e2u0l1dM)
-- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep whole-body stretch [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
+- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 25s vacuum hold (Waist slimming) [wikiHow — Stomach Vacuum Exercise Guide](https://www.youtube.com/watch?v=cub3xhJXsAA)
+- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep whole-body stretch [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
 - [ ] **Cardio/Steps**: Brisk Outdoor Walk — 30 mins (approx 4,000 steps) active flush
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -117,16 +117,16 @@ _Focus: 3s eccentric descent, strict form, 2 RIR._
 - **Focus**: Upper · **Week**: 1
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Feet-Elevated Decline Push-ups**: 3 sets × 10–12 reps | **Load**: Bodyweight (Feet on bed) | **Tempo**: 3-1-1-0 | **Rest**: 75s [Calisthenicmovement — Decline Push-Ups (Upper Chest)](https://www.youtube.com/watch?v=SKPab2YC8BE)
-- [ ] **Dumbbell Arnold Press**: 3 sets × 10–12 reps | **Load**: 2x 5kg | **Tempo**: 3-1-1-0 (Full rotation) | **Rest**: 75s [Scott Herman — Arnold Press Technique](https://www.youtube.com/watch?v=6Z15_WdXmVw)
-- [ ] **Bent-Over Two-Arm DB Row**: 3 sets × 12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 2-1-1-0 | **Rest**: 75s [Scott Herman — Bent Over DB Row](https://www.youtube.com/watch?v=6TSP13BISI4)
-- [ ] **Strict DB Lateral Raise (Side Delts)**: 4 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Strict side delts) | **Rest**: 60s [Jeff Nippard — Science of Lateral Raises](https://www.youtube.com/watch?v=3VcKaXpzqRo)
-- [ ] **Diamond Push-ups (Tricep Overload)**: 3 sets × 10–12 reps | **Load**: Bodyweight | **Tempo**: 2-1-1-0 | **Rest**: 60s [Calisthenicmovement — Diamond Push-Ups](https://www.youtube.com/watch?v=J0DnG1_S92I)
-- [ ] **Seated Concentration Curl**: 3 sets × 10–12 reps / arm | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 45s [Scott Herman — Concentration Curl](https://www.youtube.com/watch?v=0AUGkch3tzc)
+- [ ] **Feet-Elevated Decline Push-ups**: 3 sets × 10–12 reps | **Load**: Bodyweight (Feet on bed) | **Tempo**: 3-1-1-0 | **Rest**: 75s [Scott Herman — Decline Push-Up Form](https://www.youtube.com/watch?v=SKPab2YC8BE)
+- [ ] **Dumbbell Arnold Press**: 3 sets × 10–12 reps | **Load**: 2x 5kg | **Tempo**: 3-1-1-0 (Full rotation) | **Rest**: 75s [Buff Dudes — Arnold Press Tutorial](https://www.youtube.com/watch?v=6Z15_WdXmVw)
+- [ ] **Bent-Over Two-Arm DB Row**: 3 sets × 12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 2-1-1-0 | **Rest**: 75s [Renaissance Periodization — Two Arm Dumbbell Row](https://www.youtube.com/watch?v=5PoEksoJNaw)
+- [ ] **Strict DB Lateral Raise (Side Delts)**: 4 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Strict side delts) | **Rest**: 60s [Scott Herman — DB Side Lateral Raise](https://www.youtube.com/watch?v=3VcKaXpzqRo)
+- [ ] **Diamond Push-ups (Tricep Overload)**: 3 sets × 10–12 reps | **Load**: Bodyweight | **Tempo**: 2-1-1-0 | **Rest**: 60s [Scott Herman — Diamond Push-Up](https://www.youtube.com/watch?v=J0DnG1_S92I)
+- [ ] **Seated Concentration Curl**: 3 sets × 10–12 reps / arm | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 45s [Howcast — Concentration Curl Form](https://www.youtube.com/watch?v=0AUGkch3tzc)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Hollow Body Hold — 3 sets x 30–35s hollow body hold [Calisthenicmovement — Hollow Body Hold](https://www.youtube.com/watch?v=44ScXWFaVBs)
-- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
+- [ ] **Core**: Hollow Body Hold — 3 sets x 30–35s hollow body hold [Antranik — Hollow Body Hold Guide](https://www.youtube.com/watch?v=44ScXWFaVBs)
+- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
 - [ ] **Cardio/Steps**: Brisk Walk — 25 mins (3,000 steps)
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -144,15 +144,15 @@ _Focus: 3s eccentric descent, strict form, 2 RIR._
 - **Focus**: Legs · **Week**: 1
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Dumbbell Goblet Squat**: 3 sets × 15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 75s [Athlean-X — Goblet Squat Mastery](https://www.youtube.com/watch?v=MeIiIdhvXT4)
-- [ ] **Dumbbell Walking Lunges**: 3 sets × 10 reps / leg (20 total) | **Load**: 2x 5kg or Bodyweight | **Tempo**: Controlled 90/90 step | **Rest**: 75s [Scott Herman — Walking Lunges](https://www.youtube.com/watch?v=L8fvypPrzzs)
-- [ ] **Single-Leg DB Romanian Deadlift**: 3 sets × 10–12 reps / leg | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 75s [Squat University — Single Leg RDL](https://www.youtube.com/watch?v=2Tz8lWzL5Kk)
-- [ ] **Dumbbell Sumo Squat (Adductors & Glutes)**: 3 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 75s [Scott Herman — Sumo Squat Technique](https://www.youtube.com/watch?v=9ZuD8vf6nSU)
-- [ ] **Single-Leg Deficit Calf Raise**: 4 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand | **Tempo**: 3-2-1-0 | **Rest**: 45s [Jeff Nippard — Calf Growth Guide](https://www.youtube.com/watch?v=f2w8v8P7kio)
+- [ ] **Dumbbell Goblet Squat**: 3 sets × 15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 75s [Scott Herman — Goblet Squat Guide](https://www.youtube.com/watch?v=MeIiIdhvXT4)
+- [ ] **Dumbbell Walking Lunges**: 3 sets × 10 reps / leg (20 total) | **Load**: 2x 5kg or Bodyweight | **Tempo**: Controlled 90/90 step | **Rest**: 75s [CrossFit — The Walking Lunge Form](https://www.youtube.com/watch?v=L8fvypPrzzs)
+- [ ] **Single-Leg DB Romanian Deadlift**: 3 sets × 10–12 reps / leg | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 75s [Scott Herman — DB Single-Leg Stiff Deadlift](https://www.youtube.com/watch?v=DGavj41F_Cs)
+- [ ] **Dumbbell Sumo Squat (Adductors & Glutes)**: 3 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 75s [DeltaBolic — Dumbbell Sumo Squat Form](https://www.youtube.com/watch?v=bRCjBCtBGIo)
+- [ ] **Single-Leg Deficit Calf Raise**: 4 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand | **Tempo**: 3-2-1-0 | **Rest**: 45s [Scott Herman — Single-Leg Calf Raise Form](https://www.youtube.com/watch?v=ORT4oJ_R8Qs)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps / side [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=g_BYB0R-44A)
-- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep hips & ankles [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
+- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps / side [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=0XVbn86Btj0)
+- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep hips & ankles [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
 - [ ] **Cardio/Steps**: Brisk Walk — 25 mins (3,000 steps)
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -170,14 +170,14 @@ _Focus: 3s eccentric descent, strict form, 2 RIR._
 - **Focus**: Recovery · **Week**: 1
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **World's Greatest Stretch Routine**: 3 sets × 5 reps / side | **Load**: Bodyweight | **Tempo**: Deep breath at extension | **Rest**: 30s [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
-- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Relax into hip | **Rest**: 30s [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
-- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Mobility](https://www.youtube.com/watch?v=0h5c5lQvB1c)
-- [ ] **Transverse Abdominis Stomach Vacuum**: 4 sets × 25s vacuum hold | **Load**: Bodyweight | **Tempo**: Max exhalation & pull navel in | **Rest**: 45s [Jeremy Ethier — Stomach Vacuum for Slim Waist](https://www.youtube.com/watch?v=c3-e2u0l1dM)
+- [ ] **World's Greatest Stretch Routine**: 3 sets × 5 reps / side | **Load**: Bodyweight | **Tempo**: Deep breath at extension | **Rest**: 30s [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
+- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Relax into hip | **Rest**: 30s [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
+- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Spine Mobility](https://www.youtube.com/watch?v=9LJDGUulS_8)
+- [ ] **Transverse Abdominis Stomach Vacuum**: 4 sets × 25s vacuum hold | **Load**: Bodyweight | **Tempo**: Max exhalation & pull navel in | **Rest**: 45s [wikiHow — Stomach Vacuum Exercise Guide](https://www.youtube.com/watch?v=cub3xhJXsAA)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Hardstyle RKC Plank (Maximum Tension) — 3 sets x 30s plank hold [Calisthenicmovement — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
-- [ ] **Mobility**: Shoulder Doorway Stretch — 2 mins chest & anterior delt opening 
+- [ ] **Core**: Hardstyle RKC Plank (Maximum Tension) — 3 sets x 30s plank hold [P4P Workouts — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
+- [ ] **Mobility**: Shoulder Doorway Stretch — 2 mins chest & anterior delt opening [Rehab Hero — Doorway Chest & Shoulder Stretch](https://www.youtube.com/watch?v=O8rJw_TmC1Y)
 - [ ] **Cardio/Steps**: Relaxed Evening Walk — 30 mins (3,500 steps) fresh air & recovery
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -196,14 +196,14 @@ _Focus: 3s eccentric descent, strict form, 2 RIR._
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
 - [ ] **Deficit / Standard Push-ups**: 3 sets × 12–15 reps | **Load**: Bodyweight | **Tempo**: 3-1-1-0 | **Rest**: 75s [Calisthenicmovement — Perfect Push-Up Form](https://www.youtube.com/watch?v=IODxDxX7oi4)
-- [ ] **Dumbbell Floor Press**: 3 sets × 10–12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 3-1-1-0 | **Rest**: 75s [Athlean-X — Dumbbell Floor Press Guide](https://www.youtube.com/watch?v=uUGDRwG4Fjs)
+- [ ] **Dumbbell Floor Press**: 3 sets × 10–12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 3-1-1-0 | **Rest**: 75s [Scott Herman — Dumbbell Floor Press Form](https://www.youtube.com/watch?v=uUGDRwge4F8)
 - [ ] **Seated/Standing DB Overhead Press**: 3 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-0-1-0 | **Rest**: 75s [Scott Herman — DB Shoulder Press Form](https://www.youtube.com/watch?v=qEwKCR5JCog)
-- [ ] **Strict DB Lateral Raise (Side Delts)**: 4 sets × 12–15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Elbows lead) | **Rest**: 60s [Jeff Nippard — Science of Lateral Raises](https://www.youtube.com/watch?v=3VcKaXpzqRo)
-- [ ] **Overhead DB Tricep Extension**: 3 sets × 12 reps | **Load**: 1x 10kg (both hands) | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — Overhead Tricep Extension](https://www.youtube.com/watch?v=_gsUck-7M74)
+- [ ] **Strict DB Lateral Raise (Side Delts)**: 4 sets × 12–15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Elbows lead) | **Rest**: 60s [Scott Herman — DB Side Lateral Raise](https://www.youtube.com/watch?v=3VcKaXpzqRo)
+- [ ] **Overhead DB Tricep Extension**: 3 sets × 12 reps | **Load**: 1x 10kg (both hands) | **Tempo**: 3-1-1-0 | **Rest**: 60s [Howcast — Dumbbell Tricep Extension](https://www.youtube.com/watch?v=_gsUck-7M74)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 20–25s vacuum hold on empty stomach [Jeremy Ethier — Stomach Vacuum for Slim Waist](https://www.youtube.com/watch?v=c3-e2u0l1dM)
-- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side (opens tight hip flexors) [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
+- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 20–25s vacuum hold on empty stomach [wikiHow — Stomach Vacuum Exercise Guide](https://www.youtube.com/watch?v=cub3xhJXsAA)
+- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side (opens tight hip flexors) [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
 - [ ] **Cardio/Steps**: Brisk Evening Walk — 25 mins (approx 3,000 steps) for recovery & digestion
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -221,15 +221,15 @@ _Focus: 3s eccentric descent, strict form, 2 RIR._
 - **Focus**: Pull · **Week**: 2
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Single-Arm Dumbbell Row**: 3 sets × 12–15 reps / side | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 (1s squeeze at top) | **Rest**: 75s [Athlean-X — Perfect Single-Arm DB Row](https://www.youtube.com/watch?v=pYcpY20QaE8)
-- [ ] **Inverted Door/Towel Row**: 3 sets × 10–12 reps | **Load**: Bodyweight (Door/Towel) | **Tempo**: 2-1-1-0 | **Rest**: 75s [Calisthenicmovement — Door Towel Rows](https://www.youtube.com/watch?v=rloXYB8M3vU)
-- [ ] **Bent-Over DB Rear Delt Flyes**: 4 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Athlean-X — Rear Delt Flyes](https://www.youtube.com/watch?v=eaun65zHk2c)
-- [ ] **Strict Supinating DB Bicep Curl**: 3 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-1-1-0 (Supinate wrist) | **Rest**: 60s [Jeff Nippard — Bicep Hypertrophy Science](https://www.youtube.com/watch?v=in7PaeYlhrM)
+- [ ] **Single-Arm Dumbbell Row**: 3 sets × 12–15 reps / side | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 (1s squeeze at top) | **Rest**: 75s [Scott Herman — Single-Arm DB Row Form](https://www.youtube.com/watch?v=pYcpY20QaE8)
+- [ ] **Inverted Door/Towel Row**: 3 sets × 10–12 reps | **Load**: Bodyweight (Door/Towel) | **Tempo**: 2-1-1-0 | **Rest**: 75s [Antranik — Door Towel Incline Rows](https://www.youtube.com/watch?v=rloXYB8M3vU)
+- [ ] **Bent-Over DB Rear Delt Flyes**: 4 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — DB Bent-Over Rear Delt Raise](https://www.youtube.com/watch?v=ttvfGg9d76c)
+- [ ] **Strict Supinating DB Bicep Curl**: 3 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-1-1-0 (Supinate wrist) | **Rest**: 60s [Mind Pump TV — Dumbbell Bicep Curls Form](https://www.youtube.com/watch?v=in7PaeYlhrM)
 - [ ] **Neutral Grip DB Hammer Curl**: 3 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-0-1-0 | **Rest**: 60s [Scott Herman — Hammer Curl Form](https://www.youtube.com/watch?v=zC3nLlEvin4)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps per side (Anti-extension core) [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=g_BYB0R-44A)
-- [ ] **Mobility**: Thoracic Spine Mobility & Desk Posture — 3 mins thoracic spine rotations (fixes desk posture) [Squat University — Thoracic Mobility](https://www.youtube.com/watch?v=0h5c5lQvB1c)
+- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps per side (Anti-extension core) [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=0XVbn86Btj0)
+- [ ] **Mobility**: Thoracic Spine Mobility & Desk Posture — 3 mins thoracic spine rotations (fixes desk posture) [Squat University — Thoracic Spine Mobility](https://www.youtube.com/watch?v=9LJDGUulS_8)
 - [ ] **Cardio/Steps**: Brisk Evening Walk — 25 mins (approx 3,000 steps)
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -247,15 +247,15 @@ _Focus: 3s eccentric descent, strict form, 2 RIR._
 - **Focus**: Legs · **Week**: 2
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Bulgarian Split Squat**: 3 sets × 10–12 reps / leg | **Load**: 1x 10kg (Goblet) or 2x 5kg | **Tempo**: 3-1-1-0 (Deep hip crease) | **Rest**: 90s [Squat University — Bulgarian Split Squat](https://www.youtube.com/watch?v=1CVecvh_6W0)
-- [ ] **Dumbbell Romanian Deadlift (RDL)**: 3 sets × 10–12 reps | **Load**: 2x 10kg | **Tempo**: 4-1-1-0 (Deep hamstring stretch) | **Rest**: 75s [Jeremy Ethier — Dumbbell RDL Form](https://www.youtube.com/watch?v=_oyxCn2iSjU)
-- [ ] **Dumbbell Goblet Squat**: 3 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 75s [Athlean-X — Goblet Squat Mastery](https://www.youtube.com/watch?v=MeIiIdhvXT4)
-- [ ] **Weighted Glute Bridge / Hip Thrust**: 3 sets × 15 reps | **Load**: 1x 10kg on hips | **Tempo**: 2-2-1-0 (2s hold at peak) | **Rest**: 60s [Jeremy Ethier — Glute Bridge & Hip Thrust](https://www.youtube.com/watch?v=8bbE64NuDTU)
-- [ ] **Single-Leg Deficit Calf Raise**: 4 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand (Book/step) | **Tempo**: 3-2-1-0 (2s full stretch at bottom) | **Rest**: 45s [Jeff Nippard — Calf Growth Guide](https://www.youtube.com/watch?v=f2w8v8P7kio)
+- [ ] **Bulgarian Split Squat**: 3 sets × 10–12 reps / leg | **Load**: 1x 10kg (Goblet) or 2x 5kg | **Tempo**: 3-1-1-0 (Deep hip crease) | **Rest**: 90s [Squat University — Bulgarian Split Squat Form](https://www.youtube.com/watch?v=bwhl_9jN_3o)
+- [ ] **Dumbbell Romanian Deadlift (RDL)**: 3 sets × 10–12 reps | **Load**: 2x 10kg | **Tempo**: 4-1-1-0 (Deep hamstring stretch) | **Rest**: 75s [Jeff Nippard — Romanian Deadlift (RDL) Guide](https://www.youtube.com/watch?v=_oyxCn2iSjU)
+- [ ] **Dumbbell Goblet Squat**: 3 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 75s [Scott Herman — Goblet Squat Guide](https://www.youtube.com/watch?v=MeIiIdhvXT4)
+- [ ] **Weighted Glute Bridge / Hip Thrust**: 3 sets × 15 reps | **Load**: 1x 10kg on hips | **Tempo**: 2-2-1-0 (2s hold at peak) | **Rest**: 60s [Scott Herman — Glute Bridge Technique](https://www.youtube.com/watch?v=8bbE64NuDTU)
+- [ ] **Single-Leg Deficit Calf Raise**: 4 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand (Book/step) | **Tempo**: 3-2-1-0 (2s full stretch at bottom) | **Rest**: 45s [Scott Herman — Single-Leg Calf Raise Form](https://www.youtube.com/watch?v=ORT4oJ_R8Qs)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Lying Leg Raises & Reverse Crunches — 3 sets x 15 reps (Lower abs & pelvis tuck) [Calisthenicmovement — Leg Raises](https://www.youtube.com/watch?v=Pr1ieGZ5atk)
-- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins hip & ankle mobility flow [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
+- [ ] **Core**: Lying Leg Raises & Reverse Crunches — 3 sets x 15 reps (Lower abs & pelvis tuck) [TylerPath — Lying Leg Raises Form](https://www.youtube.com/watch?v=PkLYH3uRtSs)
+- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins hip & ankle mobility flow [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
 - [ ] **Cardio/Steps**: Brisk Leg Flush Walk — 20 mins steady walking to clear leg fatigue
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -273,14 +273,14 @@ _Focus: 3s eccentric descent, strict form, 2 RIR._
 - **Focus**: Recovery · **Week**: 2
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Deep breathing | **Rest**: 30s [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
-- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Mobility](https://www.youtube.com/watch?v=0h5c5lQvB1c)
-- [ ] **Bird-Dog Core & Lower Back Flow**: 3 sets × 12 reps / side | **Load**: Bodyweight | **Tempo**: 2s hold at full reach | **Rest**: 45s [Squat University — Bird Dog Form](https://www.youtube.com/watch?v=wiFNA3sqjCA)
-- [ ] **Hardstyle RKC Plank (Maximum Tension)**: 3 sets × 30–45s max tension | **Load**: Bodyweight | **Tempo**: Max squeeze glutes & abs | **Rest**: 60s [Calisthenicmovement — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
+- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Deep breathing | **Rest**: 30s [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
+- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Spine Mobility](https://www.youtube.com/watch?v=9LJDGUulS_8)
+- [ ] **Bird-Dog Core & Lower Back Flow**: 3 sets × 12 reps / side | **Load**: Bodyweight | **Tempo**: 2s hold at full reach | **Rest**: 45s [Howcast — Bird Dog Exercise Tutorial](https://www.youtube.com/watch?v=wiFNA3sqjCA)
+- [ ] **Hardstyle RKC Plank (Maximum Tension)**: 3 sets × 30–45s max tension | **Load**: Bodyweight | **Tempo**: Max squeeze glutes & abs | **Rest**: 60s [P4P Workouts — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 25s vacuum hold (Waist slimming) [Jeremy Ethier — Stomach Vacuum for Slim Waist](https://www.youtube.com/watch?v=c3-e2u0l1dM)
-- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep whole-body stretch [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
+- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 25s vacuum hold (Waist slimming) [wikiHow — Stomach Vacuum Exercise Guide](https://www.youtube.com/watch?v=cub3xhJXsAA)
+- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep whole-body stretch [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
 - [ ] **Cardio/Steps**: Brisk Outdoor Walk — 30 mins (approx 4,000 steps) active flush
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -298,16 +298,16 @@ _Focus: 3s eccentric descent, strict form, 2 RIR._
 - **Focus**: Upper · **Week**: 2
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Feet-Elevated Decline Push-ups**: 3 sets × 10–12 reps | **Load**: Bodyweight (Feet on bed) | **Tempo**: 3-1-1-0 | **Rest**: 75s [Calisthenicmovement — Decline Push-Ups (Upper Chest)](https://www.youtube.com/watch?v=SKPab2YC8BE)
-- [ ] **Dumbbell Arnold Press**: 3 sets × 10–12 reps | **Load**: 2x 5kg | **Tempo**: 3-1-1-0 (Full rotation) | **Rest**: 75s [Scott Herman — Arnold Press Technique](https://www.youtube.com/watch?v=6Z15_WdXmVw)
-- [ ] **Bent-Over Two-Arm DB Row**: 3 sets × 12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 2-1-1-0 | **Rest**: 75s [Scott Herman — Bent Over DB Row](https://www.youtube.com/watch?v=6TSP13BISI4)
-- [ ] **Strict DB Lateral Raise (Side Delts)**: 4 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Strict side delts) | **Rest**: 60s [Jeff Nippard — Science of Lateral Raises](https://www.youtube.com/watch?v=3VcKaXpzqRo)
-- [ ] **Diamond Push-ups (Tricep Overload)**: 3 sets × 10–12 reps | **Load**: Bodyweight | **Tempo**: 2-1-1-0 | **Rest**: 60s [Calisthenicmovement — Diamond Push-Ups](https://www.youtube.com/watch?v=J0DnG1_S92I)
-- [ ] **Seated Concentration Curl**: 3 sets × 10–12 reps / arm | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 45s [Scott Herman — Concentration Curl](https://www.youtube.com/watch?v=0AUGkch3tzc)
+- [ ] **Feet-Elevated Decline Push-ups**: 3 sets × 10–12 reps | **Load**: Bodyweight (Feet on bed) | **Tempo**: 3-1-1-0 | **Rest**: 75s [Scott Herman — Decline Push-Up Form](https://www.youtube.com/watch?v=SKPab2YC8BE)
+- [ ] **Dumbbell Arnold Press**: 3 sets × 10–12 reps | **Load**: 2x 5kg | **Tempo**: 3-1-1-0 (Full rotation) | **Rest**: 75s [Buff Dudes — Arnold Press Tutorial](https://www.youtube.com/watch?v=6Z15_WdXmVw)
+- [ ] **Bent-Over Two-Arm DB Row**: 3 sets × 12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 2-1-1-0 | **Rest**: 75s [Renaissance Periodization — Two Arm Dumbbell Row](https://www.youtube.com/watch?v=5PoEksoJNaw)
+- [ ] **Strict DB Lateral Raise (Side Delts)**: 4 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Strict side delts) | **Rest**: 60s [Scott Herman — DB Side Lateral Raise](https://www.youtube.com/watch?v=3VcKaXpzqRo)
+- [ ] **Diamond Push-ups (Tricep Overload)**: 3 sets × 10–12 reps | **Load**: Bodyweight | **Tempo**: 2-1-1-0 | **Rest**: 60s [Scott Herman — Diamond Push-Up](https://www.youtube.com/watch?v=J0DnG1_S92I)
+- [ ] **Seated Concentration Curl**: 3 sets × 10–12 reps / arm | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 45s [Howcast — Concentration Curl Form](https://www.youtube.com/watch?v=0AUGkch3tzc)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Hollow Body Hold — 3 sets x 30–35s hollow body hold [Calisthenicmovement — Hollow Body Hold](https://www.youtube.com/watch?v=44ScXWFaVBs)
-- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
+- [ ] **Core**: Hollow Body Hold — 3 sets x 30–35s hollow body hold [Antranik — Hollow Body Hold Guide](https://www.youtube.com/watch?v=44ScXWFaVBs)
+- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
 - [ ] **Cardio/Steps**: Brisk Walk — 25 mins (3,000 steps)
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -325,15 +325,15 @@ _Focus: 3s eccentric descent, strict form, 2 RIR._
 - **Focus**: Legs · **Week**: 2
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Dumbbell Goblet Squat**: 3 sets × 15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 75s [Athlean-X — Goblet Squat Mastery](https://www.youtube.com/watch?v=MeIiIdhvXT4)
-- [ ] **Dumbbell Walking Lunges**: 3 sets × 10 reps / leg (20 total) | **Load**: 2x 5kg or Bodyweight | **Tempo**: Controlled 90/90 step | **Rest**: 75s [Scott Herman — Walking Lunges](https://www.youtube.com/watch?v=L8fvypPrzzs)
-- [ ] **Single-Leg DB Romanian Deadlift**: 3 sets × 10–12 reps / leg | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 75s [Squat University — Single Leg RDL](https://www.youtube.com/watch?v=2Tz8lWzL5Kk)
-- [ ] **Dumbbell Sumo Squat (Adductors & Glutes)**: 3 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 75s [Scott Herman — Sumo Squat Technique](https://www.youtube.com/watch?v=9ZuD8vf6nSU)
-- [ ] **Single-Leg Deficit Calf Raise**: 4 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand | **Tempo**: 3-2-1-0 | **Rest**: 45s [Jeff Nippard — Calf Growth Guide](https://www.youtube.com/watch?v=f2w8v8P7kio)
+- [ ] **Dumbbell Goblet Squat**: 3 sets × 15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 75s [Scott Herman — Goblet Squat Guide](https://www.youtube.com/watch?v=MeIiIdhvXT4)
+- [ ] **Dumbbell Walking Lunges**: 3 sets × 10 reps / leg (20 total) | **Load**: 2x 5kg or Bodyweight | **Tempo**: Controlled 90/90 step | **Rest**: 75s [CrossFit — The Walking Lunge Form](https://www.youtube.com/watch?v=L8fvypPrzzs)
+- [ ] **Single-Leg DB Romanian Deadlift**: 3 sets × 10–12 reps / leg | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 75s [Scott Herman — DB Single-Leg Stiff Deadlift](https://www.youtube.com/watch?v=DGavj41F_Cs)
+- [ ] **Dumbbell Sumo Squat (Adductors & Glutes)**: 3 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 75s [DeltaBolic — Dumbbell Sumo Squat Form](https://www.youtube.com/watch?v=bRCjBCtBGIo)
+- [ ] **Single-Leg Deficit Calf Raise**: 4 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand | **Tempo**: 3-2-1-0 | **Rest**: 45s [Scott Herman — Single-Leg Calf Raise Form](https://www.youtube.com/watch?v=ORT4oJ_R8Qs)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps / side [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=g_BYB0R-44A)
-- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep hips & ankles [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
+- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps / side [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=0XVbn86Btj0)
+- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep hips & ankles [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
 - [ ] **Cardio/Steps**: Brisk Walk — 25 mins (3,000 steps)
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -351,14 +351,14 @@ _Focus: 3s eccentric descent, strict form, 2 RIR._
 - **Focus**: Recovery · **Week**: 2
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **World's Greatest Stretch Routine**: 3 sets × 5 reps / side | **Load**: Bodyweight | **Tempo**: Deep breath at extension | **Rest**: 30s [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
-- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Relax into hip | **Rest**: 30s [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
-- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Mobility](https://www.youtube.com/watch?v=0h5c5lQvB1c)
-- [ ] **Transverse Abdominis Stomach Vacuum**: 4 sets × 25s vacuum hold | **Load**: Bodyweight | **Tempo**: Max exhalation & pull navel in | **Rest**: 45s [Jeremy Ethier — Stomach Vacuum for Slim Waist](https://www.youtube.com/watch?v=c3-e2u0l1dM)
+- [ ] **World's Greatest Stretch Routine**: 3 sets × 5 reps / side | **Load**: Bodyweight | **Tempo**: Deep breath at extension | **Rest**: 30s [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
+- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Relax into hip | **Rest**: 30s [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
+- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Spine Mobility](https://www.youtube.com/watch?v=9LJDGUulS_8)
+- [ ] **Transverse Abdominis Stomach Vacuum**: 4 sets × 25s vacuum hold | **Load**: Bodyweight | **Tempo**: Max exhalation & pull navel in | **Rest**: 45s [wikiHow — Stomach Vacuum Exercise Guide](https://www.youtube.com/watch?v=cub3xhJXsAA)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Hardstyle RKC Plank (Maximum Tension) — 3 sets x 30s plank hold [Calisthenicmovement — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
-- [ ] **Mobility**: Shoulder Doorway Stretch — 2 mins chest & anterior delt opening 
+- [ ] **Core**: Hardstyle RKC Plank (Maximum Tension) — 3 sets x 30s plank hold [P4P Workouts — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
+- [ ] **Mobility**: Shoulder Doorway Stretch — 2 mins chest & anterior delt opening [Rehab Hero — Doorway Chest & Shoulder Stretch](https://www.youtube.com/watch?v=O8rJw_TmC1Y)
 - [ ] **Cardio/Steps**: Relaxed Evening Walk — 30 mins (3,500 steps) fresh air & recovery
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -381,14 +381,14 @@ _Focus: 3-1-1-0 tempo, 1s pause at peak, 1–2 RIR._
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
 - [ ] **Deficit / Standard Push-ups**: 4 sets × 12–15 reps | **Load**: Bodyweight | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [Calisthenicmovement — Perfect Push-Up Form](https://www.youtube.com/watch?v=IODxDxX7oi4)
-- [ ] **Dumbbell Floor Press**: 4 sets × 10–12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [Athlean-X — Dumbbell Floor Press Guide](https://www.youtube.com/watch?v=uUGDRwG4Fjs)
+- [ ] **Dumbbell Floor Press**: 4 sets × 10–12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [Scott Herman — Dumbbell Floor Press Form](https://www.youtube.com/watch?v=uUGDRwge4F8)
 - [ ] **Seated/Standing DB Overhead Press**: 4 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-0-1-0 | **Rest**: 60–75s [Scott Herman — DB Shoulder Press Form](https://www.youtube.com/watch?v=qEwKCR5JCog)
-- [ ] **Strict DB Lateral Raise (Side Delts)**: 5 sets × 12–15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Elbows lead) | **Rest**: 60s [Jeff Nippard — Science of Lateral Raises](https://www.youtube.com/watch?v=3VcKaXpzqRo)
-- [ ] **Overhead DB Tricep Extension**: 4 sets × 12 reps | **Load**: 1x 10kg (both hands) | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — Overhead Tricep Extension](https://www.youtube.com/watch?v=_gsUck-7M74)
+- [ ] **Strict DB Lateral Raise (Side Delts)**: 5 sets × 12–15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Elbows lead) | **Rest**: 60s [Scott Herman — DB Side Lateral Raise](https://www.youtube.com/watch?v=3VcKaXpzqRo)
+- [ ] **Overhead DB Tricep Extension**: 4 sets × 12 reps | **Load**: 1x 10kg (both hands) | **Tempo**: 3-1-1-0 | **Rest**: 60s [Howcast — Dumbbell Tricep Extension](https://www.youtube.com/watch?v=_gsUck-7M74)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 20–25s vacuum hold on empty stomach [Jeremy Ethier — Stomach Vacuum for Slim Waist](https://www.youtube.com/watch?v=c3-e2u0l1dM)
-- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side (opens tight hip flexors) [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
+- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 20–25s vacuum hold on empty stomach [wikiHow — Stomach Vacuum Exercise Guide](https://www.youtube.com/watch?v=cub3xhJXsAA)
+- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side (opens tight hip flexors) [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
 - [ ] **Cardio/Steps**: Brisk Evening Walk — 25 mins (approx 3,000 steps) for recovery & digestion
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -406,15 +406,15 @@ _Focus: 3-1-1-0 tempo, 1s pause at peak, 1–2 RIR._
 - **Focus**: Pull · **Week**: 3
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Single-Arm Dumbbell Row**: 4 sets × 12–15 reps / side | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 (1s squeeze at top) | **Rest**: 60–75s [Athlean-X — Perfect Single-Arm DB Row](https://www.youtube.com/watch?v=pYcpY20QaE8)
-- [ ] **Inverted Door/Towel Row**: 4 sets × 10–12 reps | **Load**: Bodyweight (Door/Towel) | **Tempo**: 2-1-1-0 | **Rest**: 60–75s [Calisthenicmovement — Door Towel Rows](https://www.youtube.com/watch?v=rloXYB8M3vU)
-- [ ] **Bent-Over DB Rear Delt Flyes**: 5 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Athlean-X — Rear Delt Flyes](https://www.youtube.com/watch?v=eaun65zHk2c)
-- [ ] **Strict Supinating DB Bicep Curl**: 4 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-1-1-0 (Supinate wrist) | **Rest**: 60s [Jeff Nippard — Bicep Hypertrophy Science](https://www.youtube.com/watch?v=in7PaeYlhrM)
+- [ ] **Single-Arm Dumbbell Row**: 4 sets × 12–15 reps / side | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 (1s squeeze at top) | **Rest**: 60–75s [Scott Herman — Single-Arm DB Row Form](https://www.youtube.com/watch?v=pYcpY20QaE8)
+- [ ] **Inverted Door/Towel Row**: 4 sets × 10–12 reps | **Load**: Bodyweight (Door/Towel) | **Tempo**: 2-1-1-0 | **Rest**: 60–75s [Antranik — Door Towel Incline Rows](https://www.youtube.com/watch?v=rloXYB8M3vU)
+- [ ] **Bent-Over DB Rear Delt Flyes**: 5 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — DB Bent-Over Rear Delt Raise](https://www.youtube.com/watch?v=ttvfGg9d76c)
+- [ ] **Strict Supinating DB Bicep Curl**: 4 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-1-1-0 (Supinate wrist) | **Rest**: 60s [Mind Pump TV — Dumbbell Bicep Curls Form](https://www.youtube.com/watch?v=in7PaeYlhrM)
 - [ ] **Neutral Grip DB Hammer Curl**: 4 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-0-1-0 | **Rest**: 60s [Scott Herman — Hammer Curl Form](https://www.youtube.com/watch?v=zC3nLlEvin4)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps per side (Anti-extension core) [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=g_BYB0R-44A)
-- [ ] **Mobility**: Thoracic Spine Mobility & Desk Posture — 3 mins thoracic spine rotations (fixes desk posture) [Squat University — Thoracic Mobility](https://www.youtube.com/watch?v=0h5c5lQvB1c)
+- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps per side (Anti-extension core) [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=0XVbn86Btj0)
+- [ ] **Mobility**: Thoracic Spine Mobility & Desk Posture — 3 mins thoracic spine rotations (fixes desk posture) [Squat University — Thoracic Spine Mobility](https://www.youtube.com/watch?v=9LJDGUulS_8)
 - [ ] **Cardio/Steps**: Brisk Evening Walk — 25 mins (approx 3,000 steps)
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -432,15 +432,15 @@ _Focus: 3-1-1-0 tempo, 1s pause at peak, 1–2 RIR._
 - **Focus**: Legs · **Week**: 3
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Bulgarian Split Squat**: 4 sets × 10–12 reps / leg | **Load**: 1x 10kg (Goblet) or 2x 5kg | **Tempo**: 3-1-1-0 (Deep hip crease) | **Rest**: 90s [Squat University — Bulgarian Split Squat](https://www.youtube.com/watch?v=1CVecvh_6W0)
-- [ ] **Dumbbell Romanian Deadlift (RDL)**: 4 sets × 10–12 reps | **Load**: 2x 10kg | **Tempo**: 4-1-1-0 (Deep hamstring stretch) | **Rest**: 60–75s [Jeremy Ethier — Dumbbell RDL Form](https://www.youtube.com/watch?v=_oyxCn2iSjU)
-- [ ] **Dumbbell Goblet Squat**: 4 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [Athlean-X — Goblet Squat Mastery](https://www.youtube.com/watch?v=MeIiIdhvXT4)
-- [ ] **Weighted Glute Bridge / Hip Thrust**: 4 sets × 15 reps | **Load**: 1x 10kg on hips | **Tempo**: 2-2-1-0 (2s hold at peak) | **Rest**: 60s [Jeremy Ethier — Glute Bridge & Hip Thrust](https://www.youtube.com/watch?v=8bbE64NuDTU)
-- [ ] **Single-Leg Deficit Calf Raise**: 5 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand (Book/step) | **Tempo**: 3-2-1-0 (2s full stretch at bottom) | **Rest**: 45s [Jeff Nippard — Calf Growth Guide](https://www.youtube.com/watch?v=f2w8v8P7kio)
+- [ ] **Bulgarian Split Squat**: 4 sets × 10–12 reps / leg | **Load**: 1x 10kg (Goblet) or 2x 5kg | **Tempo**: 3-1-1-0 (Deep hip crease) | **Rest**: 90s [Squat University — Bulgarian Split Squat Form](https://www.youtube.com/watch?v=bwhl_9jN_3o)
+- [ ] **Dumbbell Romanian Deadlift (RDL)**: 4 sets × 10–12 reps | **Load**: 2x 10kg | **Tempo**: 4-1-1-0 (Deep hamstring stretch) | **Rest**: 60–75s [Jeff Nippard — Romanian Deadlift (RDL) Guide](https://www.youtube.com/watch?v=_oyxCn2iSjU)
+- [ ] **Dumbbell Goblet Squat**: 4 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [Scott Herman — Goblet Squat Guide](https://www.youtube.com/watch?v=MeIiIdhvXT4)
+- [ ] **Weighted Glute Bridge / Hip Thrust**: 4 sets × 15 reps | **Load**: 1x 10kg on hips | **Tempo**: 2-2-1-0 (2s hold at peak) | **Rest**: 60s [Scott Herman — Glute Bridge Technique](https://www.youtube.com/watch?v=8bbE64NuDTU)
+- [ ] **Single-Leg Deficit Calf Raise**: 5 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand (Book/step) | **Tempo**: 3-2-1-0 (2s full stretch at bottom) | **Rest**: 45s [Scott Herman — Single-Leg Calf Raise Form](https://www.youtube.com/watch?v=ORT4oJ_R8Qs)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Lying Leg Raises & Reverse Crunches — 3 sets x 15 reps (Lower abs & pelvis tuck) [Calisthenicmovement — Leg Raises](https://www.youtube.com/watch?v=Pr1ieGZ5atk)
-- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins hip & ankle mobility flow [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
+- [ ] **Core**: Lying Leg Raises & Reverse Crunches — 3 sets x 15 reps (Lower abs & pelvis tuck) [TylerPath — Lying Leg Raises Form](https://www.youtube.com/watch?v=PkLYH3uRtSs)
+- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins hip & ankle mobility flow [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
 - [ ] **Cardio/Steps**: Brisk Leg Flush Walk — 20 mins steady walking to clear leg fatigue
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -458,14 +458,14 @@ _Focus: 3-1-1-0 tempo, 1s pause at peak, 1–2 RIR._
 - **Focus**: Recovery · **Week**: 3
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Deep breathing | **Rest**: 30s [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
-- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Mobility](https://www.youtube.com/watch?v=0h5c5lQvB1c)
-- [ ] **Bird-Dog Core & Lower Back Flow**: 3 sets × 12 reps / side | **Load**: Bodyweight | **Tempo**: 2s hold at full reach | **Rest**: 45s [Squat University — Bird Dog Form](https://www.youtube.com/watch?v=wiFNA3sqjCA)
-- [ ] **Hardstyle RKC Plank (Maximum Tension)**: 3 sets × 30–45s max tension | **Load**: Bodyweight | **Tempo**: Max squeeze glutes & abs | **Rest**: 60s [Calisthenicmovement — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
+- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Deep breathing | **Rest**: 30s [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
+- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Spine Mobility](https://www.youtube.com/watch?v=9LJDGUulS_8)
+- [ ] **Bird-Dog Core & Lower Back Flow**: 3 sets × 12 reps / side | **Load**: Bodyweight | **Tempo**: 2s hold at full reach | **Rest**: 45s [Howcast — Bird Dog Exercise Tutorial](https://www.youtube.com/watch?v=wiFNA3sqjCA)
+- [ ] **Hardstyle RKC Plank (Maximum Tension)**: 3 sets × 30–45s max tension | **Load**: Bodyweight | **Tempo**: Max squeeze glutes & abs | **Rest**: 60s [P4P Workouts — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 25s vacuum hold (Waist slimming) [Jeremy Ethier — Stomach Vacuum for Slim Waist](https://www.youtube.com/watch?v=c3-e2u0l1dM)
-- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep whole-body stretch [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
+- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 25s vacuum hold (Waist slimming) [wikiHow — Stomach Vacuum Exercise Guide](https://www.youtube.com/watch?v=cub3xhJXsAA)
+- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep whole-body stretch [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
 - [ ] **Cardio/Steps**: Brisk Outdoor Walk — 30 mins (approx 4,000 steps) active flush
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -483,16 +483,16 @@ _Focus: 3-1-1-0 tempo, 1s pause at peak, 1–2 RIR._
 - **Focus**: Upper · **Week**: 3
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Feet-Elevated Decline Push-ups**: 4 sets × 10–12 reps | **Load**: Bodyweight (Feet on bed) | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [Calisthenicmovement — Decline Push-Ups (Upper Chest)](https://www.youtube.com/watch?v=SKPab2YC8BE)
-- [ ] **Dumbbell Arnold Press**: 4 sets × 10–12 reps | **Load**: 2x 5kg | **Tempo**: 3-1-1-0 (Full rotation) | **Rest**: 60–75s [Scott Herman — Arnold Press Technique](https://www.youtube.com/watch?v=6Z15_WdXmVw)
-- [ ] **Bent-Over Two-Arm DB Row**: 4 sets × 12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 2-1-1-0 | **Rest**: 60–75s [Scott Herman — Bent Over DB Row](https://www.youtube.com/watch?v=6TSP13BISI4)
-- [ ] **Strict DB Lateral Raise (Side Delts)**: 5 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Strict side delts) | **Rest**: 60s [Jeff Nippard — Science of Lateral Raises](https://www.youtube.com/watch?v=3VcKaXpzqRo)
-- [ ] **Diamond Push-ups (Tricep Overload)**: 4 sets × 10–12 reps | **Load**: Bodyweight | **Tempo**: 2-1-1-0 | **Rest**: 60s [Calisthenicmovement — Diamond Push-Ups](https://www.youtube.com/watch?v=J0DnG1_S92I)
-- [ ] **Seated Concentration Curl**: 4 sets × 10–12 reps / arm | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 45s [Scott Herman — Concentration Curl](https://www.youtube.com/watch?v=0AUGkch3tzc)
+- [ ] **Feet-Elevated Decline Push-ups**: 4 sets × 10–12 reps | **Load**: Bodyweight (Feet on bed) | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [Scott Herman — Decline Push-Up Form](https://www.youtube.com/watch?v=SKPab2YC8BE)
+- [ ] **Dumbbell Arnold Press**: 4 sets × 10–12 reps | **Load**: 2x 5kg | **Tempo**: 3-1-1-0 (Full rotation) | **Rest**: 60–75s [Buff Dudes — Arnold Press Tutorial](https://www.youtube.com/watch?v=6Z15_WdXmVw)
+- [ ] **Bent-Over Two-Arm DB Row**: 4 sets × 12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 2-1-1-0 | **Rest**: 60–75s [Renaissance Periodization — Two Arm Dumbbell Row](https://www.youtube.com/watch?v=5PoEksoJNaw)
+- [ ] **Strict DB Lateral Raise (Side Delts)**: 5 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Strict side delts) | **Rest**: 60s [Scott Herman — DB Side Lateral Raise](https://www.youtube.com/watch?v=3VcKaXpzqRo)
+- [ ] **Diamond Push-ups (Tricep Overload)**: 4 sets × 10–12 reps | **Load**: Bodyweight | **Tempo**: 2-1-1-0 | **Rest**: 60s [Scott Herman — Diamond Push-Up](https://www.youtube.com/watch?v=J0DnG1_S92I)
+- [ ] **Seated Concentration Curl**: 4 sets × 10–12 reps / arm | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 45s [Howcast — Concentration Curl Form](https://www.youtube.com/watch?v=0AUGkch3tzc)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Hollow Body Hold — 3 sets x 30–35s hollow body hold [Calisthenicmovement — Hollow Body Hold](https://www.youtube.com/watch?v=44ScXWFaVBs)
-- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
+- [ ] **Core**: Hollow Body Hold — 3 sets x 30–35s hollow body hold [Antranik — Hollow Body Hold Guide](https://www.youtube.com/watch?v=44ScXWFaVBs)
+- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
 - [ ] **Cardio/Steps**: Brisk Walk — 25 mins (3,000 steps)
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -510,15 +510,15 @@ _Focus: 3-1-1-0 tempo, 1s pause at peak, 1–2 RIR._
 - **Focus**: Legs · **Week**: 3
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Dumbbell Goblet Squat**: 4 sets × 15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [Athlean-X — Goblet Squat Mastery](https://www.youtube.com/watch?v=MeIiIdhvXT4)
-- [ ] **Dumbbell Walking Lunges**: 4 sets × 10 reps / leg (20 total) | **Load**: 2x 5kg or Bodyweight | **Tempo**: Controlled 90/90 step | **Rest**: 60–75s [Scott Herman — Walking Lunges](https://www.youtube.com/watch?v=L8fvypPrzzs)
-- [ ] **Single-Leg DB Romanian Deadlift**: 4 sets × 10–12 reps / leg | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [Squat University — Single Leg RDL](https://www.youtube.com/watch?v=2Tz8lWzL5Kk)
-- [ ] **Dumbbell Sumo Squat (Adductors & Glutes)**: 4 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [Scott Herman — Sumo Squat Technique](https://www.youtube.com/watch?v=9ZuD8vf6nSU)
-- [ ] **Single-Leg Deficit Calf Raise**: 5 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand | **Tempo**: 3-2-1-0 | **Rest**: 45s [Jeff Nippard — Calf Growth Guide](https://www.youtube.com/watch?v=f2w8v8P7kio)
+- [ ] **Dumbbell Goblet Squat**: 4 sets × 15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [Scott Herman — Goblet Squat Guide](https://www.youtube.com/watch?v=MeIiIdhvXT4)
+- [ ] **Dumbbell Walking Lunges**: 4 sets × 10 reps / leg (20 total) | **Load**: 2x 5kg or Bodyweight | **Tempo**: Controlled 90/90 step | **Rest**: 60–75s [CrossFit — The Walking Lunge Form](https://www.youtube.com/watch?v=L8fvypPrzzs)
+- [ ] **Single-Leg DB Romanian Deadlift**: 4 sets × 10–12 reps / leg | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [Scott Herman — DB Single-Leg Stiff Deadlift](https://www.youtube.com/watch?v=DGavj41F_Cs)
+- [ ] **Dumbbell Sumo Squat (Adductors & Glutes)**: 4 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [DeltaBolic — Dumbbell Sumo Squat Form](https://www.youtube.com/watch?v=bRCjBCtBGIo)
+- [ ] **Single-Leg Deficit Calf Raise**: 5 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand | **Tempo**: 3-2-1-0 | **Rest**: 45s [Scott Herman — Single-Leg Calf Raise Form](https://www.youtube.com/watch?v=ORT4oJ_R8Qs)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps / side [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=g_BYB0R-44A)
-- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep hips & ankles [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
+- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps / side [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=0XVbn86Btj0)
+- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep hips & ankles [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
 - [ ] **Cardio/Steps**: Brisk Walk — 25 mins (3,000 steps)
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -536,14 +536,14 @@ _Focus: 3-1-1-0 tempo, 1s pause at peak, 1–2 RIR._
 - **Focus**: Recovery · **Week**: 3
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **World's Greatest Stretch Routine**: 3 sets × 5 reps / side | **Load**: Bodyweight | **Tempo**: Deep breath at extension | **Rest**: 30s [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
-- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Relax into hip | **Rest**: 30s [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
-- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Mobility](https://www.youtube.com/watch?v=0h5c5lQvB1c)
-- [ ] **Transverse Abdominis Stomach Vacuum**: 4 sets × 25s vacuum hold | **Load**: Bodyweight | **Tempo**: Max exhalation & pull navel in | **Rest**: 45s [Jeremy Ethier — Stomach Vacuum for Slim Waist](https://www.youtube.com/watch?v=c3-e2u0l1dM)
+- [ ] **World's Greatest Stretch Routine**: 3 sets × 5 reps / side | **Load**: Bodyweight | **Tempo**: Deep breath at extension | **Rest**: 30s [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
+- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Relax into hip | **Rest**: 30s [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
+- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Spine Mobility](https://www.youtube.com/watch?v=9LJDGUulS_8)
+- [ ] **Transverse Abdominis Stomach Vacuum**: 4 sets × 25s vacuum hold | **Load**: Bodyweight | **Tempo**: Max exhalation & pull navel in | **Rest**: 45s [wikiHow — Stomach Vacuum Exercise Guide](https://www.youtube.com/watch?v=cub3xhJXsAA)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Hardstyle RKC Plank (Maximum Tension) — 3 sets x 30s plank hold [Calisthenicmovement — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
-- [ ] **Mobility**: Shoulder Doorway Stretch — 2 mins chest & anterior delt opening 
+- [ ] **Core**: Hardstyle RKC Plank (Maximum Tension) — 3 sets x 30s plank hold [P4P Workouts — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
+- [ ] **Mobility**: Shoulder Doorway Stretch — 2 mins chest & anterior delt opening [Rehab Hero — Doorway Chest & Shoulder Stretch](https://www.youtube.com/watch?v=O8rJw_TmC1Y)
 - [ ] **Cardio/Steps**: Relaxed Evening Walk — 30 mins (3,500 steps) fresh air & recovery
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -562,14 +562,14 @@ _Focus: 3-1-1-0 tempo, 1s pause at peak, 1–2 RIR._
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
 - [ ] **Deficit / Standard Push-ups**: 4 sets × 12–15 reps | **Load**: Bodyweight | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [Calisthenicmovement — Perfect Push-Up Form](https://www.youtube.com/watch?v=IODxDxX7oi4)
-- [ ] **Dumbbell Floor Press**: 4 sets × 10–12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [Athlean-X — Dumbbell Floor Press Guide](https://www.youtube.com/watch?v=uUGDRwG4Fjs)
+- [ ] **Dumbbell Floor Press**: 4 sets × 10–12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [Scott Herman — Dumbbell Floor Press Form](https://www.youtube.com/watch?v=uUGDRwge4F8)
 - [ ] **Seated/Standing DB Overhead Press**: 4 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-0-1-0 | **Rest**: 60–75s [Scott Herman — DB Shoulder Press Form](https://www.youtube.com/watch?v=qEwKCR5JCog)
-- [ ] **Strict DB Lateral Raise (Side Delts)**: 5 sets × 12–15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Elbows lead) | **Rest**: 60s [Jeff Nippard — Science of Lateral Raises](https://www.youtube.com/watch?v=3VcKaXpzqRo)
-- [ ] **Overhead DB Tricep Extension**: 4 sets × 12 reps | **Load**: 1x 10kg (both hands) | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — Overhead Tricep Extension](https://www.youtube.com/watch?v=_gsUck-7M74)
+- [ ] **Strict DB Lateral Raise (Side Delts)**: 5 sets × 12–15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Elbows lead) | **Rest**: 60s [Scott Herman — DB Side Lateral Raise](https://www.youtube.com/watch?v=3VcKaXpzqRo)
+- [ ] **Overhead DB Tricep Extension**: 4 sets × 12 reps | **Load**: 1x 10kg (both hands) | **Tempo**: 3-1-1-0 | **Rest**: 60s [Howcast — Dumbbell Tricep Extension](https://www.youtube.com/watch?v=_gsUck-7M74)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 20–25s vacuum hold on empty stomach [Jeremy Ethier — Stomach Vacuum for Slim Waist](https://www.youtube.com/watch?v=c3-e2u0l1dM)
-- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side (opens tight hip flexors) [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
+- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 20–25s vacuum hold on empty stomach [wikiHow — Stomach Vacuum Exercise Guide](https://www.youtube.com/watch?v=cub3xhJXsAA)
+- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side (opens tight hip flexors) [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
 - [ ] **Cardio/Steps**: Brisk Evening Walk — 25 mins (approx 3,000 steps) for recovery & digestion
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -587,15 +587,15 @@ _Focus: 3-1-1-0 tempo, 1s pause at peak, 1–2 RIR._
 - **Focus**: Pull · **Week**: 4
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Single-Arm Dumbbell Row**: 4 sets × 12–15 reps / side | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 (1s squeeze at top) | **Rest**: 60–75s [Athlean-X — Perfect Single-Arm DB Row](https://www.youtube.com/watch?v=pYcpY20QaE8)
-- [ ] **Inverted Door/Towel Row**: 4 sets × 10–12 reps | **Load**: Bodyweight (Door/Towel) | **Tempo**: 2-1-1-0 | **Rest**: 60–75s [Calisthenicmovement — Door Towel Rows](https://www.youtube.com/watch?v=rloXYB8M3vU)
-- [ ] **Bent-Over DB Rear Delt Flyes**: 5 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Athlean-X — Rear Delt Flyes](https://www.youtube.com/watch?v=eaun65zHk2c)
-- [ ] **Strict Supinating DB Bicep Curl**: 4 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-1-1-0 (Supinate wrist) | **Rest**: 60s [Jeff Nippard — Bicep Hypertrophy Science](https://www.youtube.com/watch?v=in7PaeYlhrM)
+- [ ] **Single-Arm Dumbbell Row**: 4 sets × 12–15 reps / side | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 (1s squeeze at top) | **Rest**: 60–75s [Scott Herman — Single-Arm DB Row Form](https://www.youtube.com/watch?v=pYcpY20QaE8)
+- [ ] **Inverted Door/Towel Row**: 4 sets × 10–12 reps | **Load**: Bodyweight (Door/Towel) | **Tempo**: 2-1-1-0 | **Rest**: 60–75s [Antranik — Door Towel Incline Rows](https://www.youtube.com/watch?v=rloXYB8M3vU)
+- [ ] **Bent-Over DB Rear Delt Flyes**: 5 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — DB Bent-Over Rear Delt Raise](https://www.youtube.com/watch?v=ttvfGg9d76c)
+- [ ] **Strict Supinating DB Bicep Curl**: 4 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-1-1-0 (Supinate wrist) | **Rest**: 60s [Mind Pump TV — Dumbbell Bicep Curls Form](https://www.youtube.com/watch?v=in7PaeYlhrM)
 - [ ] **Neutral Grip DB Hammer Curl**: 4 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-0-1-0 | **Rest**: 60s [Scott Herman — Hammer Curl Form](https://www.youtube.com/watch?v=zC3nLlEvin4)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps per side (Anti-extension core) [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=g_BYB0R-44A)
-- [ ] **Mobility**: Thoracic Spine Mobility & Desk Posture — 3 mins thoracic spine rotations (fixes desk posture) [Squat University — Thoracic Mobility](https://www.youtube.com/watch?v=0h5c5lQvB1c)
+- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps per side (Anti-extension core) [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=0XVbn86Btj0)
+- [ ] **Mobility**: Thoracic Spine Mobility & Desk Posture — 3 mins thoracic spine rotations (fixes desk posture) [Squat University — Thoracic Spine Mobility](https://www.youtube.com/watch?v=9LJDGUulS_8)
 - [ ] **Cardio/Steps**: Brisk Evening Walk — 25 mins (approx 3,000 steps)
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -613,15 +613,15 @@ _Focus: 3-1-1-0 tempo, 1s pause at peak, 1–2 RIR._
 - **Focus**: Legs · **Week**: 4
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Bulgarian Split Squat**: 4 sets × 10–12 reps / leg | **Load**: 1x 10kg (Goblet) or 2x 5kg | **Tempo**: 3-1-1-0 (Deep hip crease) | **Rest**: 90s [Squat University — Bulgarian Split Squat](https://www.youtube.com/watch?v=1CVecvh_6W0)
-- [ ] **Dumbbell Romanian Deadlift (RDL)**: 4 sets × 10–12 reps | **Load**: 2x 10kg | **Tempo**: 4-1-1-0 (Deep hamstring stretch) | **Rest**: 60–75s [Jeremy Ethier — Dumbbell RDL Form](https://www.youtube.com/watch?v=_oyxCn2iSjU)
-- [ ] **Dumbbell Goblet Squat**: 4 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [Athlean-X — Goblet Squat Mastery](https://www.youtube.com/watch?v=MeIiIdhvXT4)
-- [ ] **Weighted Glute Bridge / Hip Thrust**: 4 sets × 15 reps | **Load**: 1x 10kg on hips | **Tempo**: 2-2-1-0 (2s hold at peak) | **Rest**: 60s [Jeremy Ethier — Glute Bridge & Hip Thrust](https://www.youtube.com/watch?v=8bbE64NuDTU)
-- [ ] **Single-Leg Deficit Calf Raise**: 5 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand (Book/step) | **Tempo**: 3-2-1-0 (2s full stretch at bottom) | **Rest**: 45s [Jeff Nippard — Calf Growth Guide](https://www.youtube.com/watch?v=f2w8v8P7kio)
+- [ ] **Bulgarian Split Squat**: 4 sets × 10–12 reps / leg | **Load**: 1x 10kg (Goblet) or 2x 5kg | **Tempo**: 3-1-1-0 (Deep hip crease) | **Rest**: 90s [Squat University — Bulgarian Split Squat Form](https://www.youtube.com/watch?v=bwhl_9jN_3o)
+- [ ] **Dumbbell Romanian Deadlift (RDL)**: 4 sets × 10–12 reps | **Load**: 2x 10kg | **Tempo**: 4-1-1-0 (Deep hamstring stretch) | **Rest**: 60–75s [Jeff Nippard — Romanian Deadlift (RDL) Guide](https://www.youtube.com/watch?v=_oyxCn2iSjU)
+- [ ] **Dumbbell Goblet Squat**: 4 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [Scott Herman — Goblet Squat Guide](https://www.youtube.com/watch?v=MeIiIdhvXT4)
+- [ ] **Weighted Glute Bridge / Hip Thrust**: 4 sets × 15 reps | **Load**: 1x 10kg on hips | **Tempo**: 2-2-1-0 (2s hold at peak) | **Rest**: 60s [Scott Herman — Glute Bridge Technique](https://www.youtube.com/watch?v=8bbE64NuDTU)
+- [ ] **Single-Leg Deficit Calf Raise**: 5 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand (Book/step) | **Tempo**: 3-2-1-0 (2s full stretch at bottom) | **Rest**: 45s [Scott Herman — Single-Leg Calf Raise Form](https://www.youtube.com/watch?v=ORT4oJ_R8Qs)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Lying Leg Raises & Reverse Crunches — 3 sets x 15 reps (Lower abs & pelvis tuck) [Calisthenicmovement — Leg Raises](https://www.youtube.com/watch?v=Pr1ieGZ5atk)
-- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins hip & ankle mobility flow [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
+- [ ] **Core**: Lying Leg Raises & Reverse Crunches — 3 sets x 15 reps (Lower abs & pelvis tuck) [TylerPath — Lying Leg Raises Form](https://www.youtube.com/watch?v=PkLYH3uRtSs)
+- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins hip & ankle mobility flow [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
 - [ ] **Cardio/Steps**: Brisk Leg Flush Walk — 20 mins steady walking to clear leg fatigue
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -639,14 +639,14 @@ _Focus: 3-1-1-0 tempo, 1s pause at peak, 1–2 RIR._
 - **Focus**: Recovery · **Week**: 4
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Deep breathing | **Rest**: 30s [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
-- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Mobility](https://www.youtube.com/watch?v=0h5c5lQvB1c)
-- [ ] **Bird-Dog Core & Lower Back Flow**: 3 sets × 12 reps / side | **Load**: Bodyweight | **Tempo**: 2s hold at full reach | **Rest**: 45s [Squat University — Bird Dog Form](https://www.youtube.com/watch?v=wiFNA3sqjCA)
-- [ ] **Hardstyle RKC Plank (Maximum Tension)**: 3 sets × 30–45s max tension | **Load**: Bodyweight | **Tempo**: Max squeeze glutes & abs | **Rest**: 60s [Calisthenicmovement — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
+- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Deep breathing | **Rest**: 30s [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
+- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Spine Mobility](https://www.youtube.com/watch?v=9LJDGUulS_8)
+- [ ] **Bird-Dog Core & Lower Back Flow**: 3 sets × 12 reps / side | **Load**: Bodyweight | **Tempo**: 2s hold at full reach | **Rest**: 45s [Howcast — Bird Dog Exercise Tutorial](https://www.youtube.com/watch?v=wiFNA3sqjCA)
+- [ ] **Hardstyle RKC Plank (Maximum Tension)**: 3 sets × 30–45s max tension | **Load**: Bodyweight | **Tempo**: Max squeeze glutes & abs | **Rest**: 60s [P4P Workouts — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 25s vacuum hold (Waist slimming) [Jeremy Ethier — Stomach Vacuum for Slim Waist](https://www.youtube.com/watch?v=c3-e2u0l1dM)
-- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep whole-body stretch [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
+- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 25s vacuum hold (Waist slimming) [wikiHow — Stomach Vacuum Exercise Guide](https://www.youtube.com/watch?v=cub3xhJXsAA)
+- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep whole-body stretch [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
 - [ ] **Cardio/Steps**: Brisk Outdoor Walk — 30 mins (approx 4,000 steps) active flush
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -664,16 +664,16 @@ _Focus: 3-1-1-0 tempo, 1s pause at peak, 1–2 RIR._
 - **Focus**: Upper · **Week**: 4
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Feet-Elevated Decline Push-ups**: 4 sets × 10–12 reps | **Load**: Bodyweight (Feet on bed) | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [Calisthenicmovement — Decline Push-Ups (Upper Chest)](https://www.youtube.com/watch?v=SKPab2YC8BE)
-- [ ] **Dumbbell Arnold Press**: 4 sets × 10–12 reps | **Load**: 2x 5kg | **Tempo**: 3-1-1-0 (Full rotation) | **Rest**: 60–75s [Scott Herman — Arnold Press Technique](https://www.youtube.com/watch?v=6Z15_WdXmVw)
-- [ ] **Bent-Over Two-Arm DB Row**: 4 sets × 12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 2-1-1-0 | **Rest**: 60–75s [Scott Herman — Bent Over DB Row](https://www.youtube.com/watch?v=6TSP13BISI4)
-- [ ] **Strict DB Lateral Raise (Side Delts)**: 5 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Strict side delts) | **Rest**: 60s [Jeff Nippard — Science of Lateral Raises](https://www.youtube.com/watch?v=3VcKaXpzqRo)
-- [ ] **Diamond Push-ups (Tricep Overload)**: 4 sets × 10–12 reps | **Load**: Bodyweight | **Tempo**: 2-1-1-0 | **Rest**: 60s [Calisthenicmovement — Diamond Push-Ups](https://www.youtube.com/watch?v=J0DnG1_S92I)
-- [ ] **Seated Concentration Curl**: 4 sets × 10–12 reps / arm | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 45s [Scott Herman — Concentration Curl](https://www.youtube.com/watch?v=0AUGkch3tzc)
+- [ ] **Feet-Elevated Decline Push-ups**: 4 sets × 10–12 reps | **Load**: Bodyweight (Feet on bed) | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [Scott Herman — Decline Push-Up Form](https://www.youtube.com/watch?v=SKPab2YC8BE)
+- [ ] **Dumbbell Arnold Press**: 4 sets × 10–12 reps | **Load**: 2x 5kg | **Tempo**: 3-1-1-0 (Full rotation) | **Rest**: 60–75s [Buff Dudes — Arnold Press Tutorial](https://www.youtube.com/watch?v=6Z15_WdXmVw)
+- [ ] **Bent-Over Two-Arm DB Row**: 4 sets × 12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 2-1-1-0 | **Rest**: 60–75s [Renaissance Periodization — Two Arm Dumbbell Row](https://www.youtube.com/watch?v=5PoEksoJNaw)
+- [ ] **Strict DB Lateral Raise (Side Delts)**: 5 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Strict side delts) | **Rest**: 60s [Scott Herman — DB Side Lateral Raise](https://www.youtube.com/watch?v=3VcKaXpzqRo)
+- [ ] **Diamond Push-ups (Tricep Overload)**: 4 sets × 10–12 reps | **Load**: Bodyweight | **Tempo**: 2-1-1-0 | **Rest**: 60s [Scott Herman — Diamond Push-Up](https://www.youtube.com/watch?v=J0DnG1_S92I)
+- [ ] **Seated Concentration Curl**: 4 sets × 10–12 reps / arm | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 45s [Howcast — Concentration Curl Form](https://www.youtube.com/watch?v=0AUGkch3tzc)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Hollow Body Hold — 3 sets x 30–35s hollow body hold [Calisthenicmovement — Hollow Body Hold](https://www.youtube.com/watch?v=44ScXWFaVBs)
-- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
+- [ ] **Core**: Hollow Body Hold — 3 sets x 30–35s hollow body hold [Antranik — Hollow Body Hold Guide](https://www.youtube.com/watch?v=44ScXWFaVBs)
+- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
 - [ ] **Cardio/Steps**: Brisk Walk — 25 mins (3,000 steps)
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -691,15 +691,15 @@ _Focus: 3-1-1-0 tempo, 1s pause at peak, 1–2 RIR._
 - **Focus**: Legs · **Week**: 4
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Dumbbell Goblet Squat**: 4 sets × 15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [Athlean-X — Goblet Squat Mastery](https://www.youtube.com/watch?v=MeIiIdhvXT4)
-- [ ] **Dumbbell Walking Lunges**: 4 sets × 10 reps / leg (20 total) | **Load**: 2x 5kg or Bodyweight | **Tempo**: Controlled 90/90 step | **Rest**: 60–75s [Scott Herman — Walking Lunges](https://www.youtube.com/watch?v=L8fvypPrzzs)
-- [ ] **Single-Leg DB Romanian Deadlift**: 4 sets × 10–12 reps / leg | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [Squat University — Single Leg RDL](https://www.youtube.com/watch?v=2Tz8lWzL5Kk)
-- [ ] **Dumbbell Sumo Squat (Adductors & Glutes)**: 4 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [Scott Herman — Sumo Squat Technique](https://www.youtube.com/watch?v=9ZuD8vf6nSU)
-- [ ] **Single-Leg Deficit Calf Raise**: 5 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand | **Tempo**: 3-2-1-0 | **Rest**: 45s [Jeff Nippard — Calf Growth Guide](https://www.youtube.com/watch?v=f2w8v8P7kio)
+- [ ] **Dumbbell Goblet Squat**: 4 sets × 15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [Scott Herman — Goblet Squat Guide](https://www.youtube.com/watch?v=MeIiIdhvXT4)
+- [ ] **Dumbbell Walking Lunges**: 4 sets × 10 reps / leg (20 total) | **Load**: 2x 5kg or Bodyweight | **Tempo**: Controlled 90/90 step | **Rest**: 60–75s [CrossFit — The Walking Lunge Form](https://www.youtube.com/watch?v=L8fvypPrzzs)
+- [ ] **Single-Leg DB Romanian Deadlift**: 4 sets × 10–12 reps / leg | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [Scott Herman — DB Single-Leg Stiff Deadlift](https://www.youtube.com/watch?v=DGavj41F_Cs)
+- [ ] **Dumbbell Sumo Squat (Adductors & Glutes)**: 4 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [DeltaBolic — Dumbbell Sumo Squat Form](https://www.youtube.com/watch?v=bRCjBCtBGIo)
+- [ ] **Single-Leg Deficit Calf Raise**: 5 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand | **Tempo**: 3-2-1-0 | **Rest**: 45s [Scott Herman — Single-Leg Calf Raise Form](https://www.youtube.com/watch?v=ORT4oJ_R8Qs)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps / side [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=g_BYB0R-44A)
-- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep hips & ankles [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
+- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps / side [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=0XVbn86Btj0)
+- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep hips & ankles [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
 - [ ] **Cardio/Steps**: Brisk Walk — 25 mins (3,000 steps)
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -717,14 +717,14 @@ _Focus: 3-1-1-0 tempo, 1s pause at peak, 1–2 RIR._
 - **Focus**: Recovery · **Week**: 4
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **World's Greatest Stretch Routine**: 3 sets × 5 reps / side | **Load**: Bodyweight | **Tempo**: Deep breath at extension | **Rest**: 30s [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
-- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Relax into hip | **Rest**: 30s [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
-- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Mobility](https://www.youtube.com/watch?v=0h5c5lQvB1c)
-- [ ] **Transverse Abdominis Stomach Vacuum**: 4 sets × 25s vacuum hold | **Load**: Bodyweight | **Tempo**: Max exhalation & pull navel in | **Rest**: 45s [Jeremy Ethier — Stomach Vacuum for Slim Waist](https://www.youtube.com/watch?v=c3-e2u0l1dM)
+- [ ] **World's Greatest Stretch Routine**: 3 sets × 5 reps / side | **Load**: Bodyweight | **Tempo**: Deep breath at extension | **Rest**: 30s [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
+- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Relax into hip | **Rest**: 30s [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
+- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Spine Mobility](https://www.youtube.com/watch?v=9LJDGUulS_8)
+- [ ] **Transverse Abdominis Stomach Vacuum**: 4 sets × 25s vacuum hold | **Load**: Bodyweight | **Tempo**: Max exhalation & pull navel in | **Rest**: 45s [wikiHow — Stomach Vacuum Exercise Guide](https://www.youtube.com/watch?v=cub3xhJXsAA)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Hardstyle RKC Plank (Maximum Tension) — 3 sets x 30s plank hold [Calisthenicmovement — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
-- [ ] **Mobility**: Shoulder Doorway Stretch — 2 mins chest & anterior delt opening 
+- [ ] **Core**: Hardstyle RKC Plank (Maximum Tension) — 3 sets x 30s plank hold [P4P Workouts — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
+- [ ] **Mobility**: Shoulder Doorway Stretch — 2 mins chest & anterior delt opening [Rehab Hero — Doorway Chest & Shoulder Stretch](https://www.youtube.com/watch?v=O8rJw_TmC1Y)
 - [ ] **Cardio/Steps**: Relaxed Evening Walk — 30 mins (3,500 steps) fresh air & recovery
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -743,14 +743,14 @@ _Focus: 3-1-1-0 tempo, 1s pause at peak, 1–2 RIR._
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
 - [ ] **Deficit / Standard Push-ups**: 4 sets × 12–15 reps | **Load**: Bodyweight | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [Calisthenicmovement — Perfect Push-Up Form](https://www.youtube.com/watch?v=IODxDxX7oi4)
-- [ ] **Dumbbell Floor Press**: 4 sets × 10–12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [Athlean-X — Dumbbell Floor Press Guide](https://www.youtube.com/watch?v=uUGDRwG4Fjs)
+- [ ] **Dumbbell Floor Press**: 4 sets × 10–12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [Scott Herman — Dumbbell Floor Press Form](https://www.youtube.com/watch?v=uUGDRwge4F8)
 - [ ] **Seated/Standing DB Overhead Press**: 4 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-0-1-0 | **Rest**: 60–75s [Scott Herman — DB Shoulder Press Form](https://www.youtube.com/watch?v=qEwKCR5JCog)
-- [ ] **Strict DB Lateral Raise (Side Delts)**: 5 sets × 12–15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Elbows lead) | **Rest**: 60s [Jeff Nippard — Science of Lateral Raises](https://www.youtube.com/watch?v=3VcKaXpzqRo)
-- [ ] **Overhead DB Tricep Extension**: 4 sets × 12 reps | **Load**: 1x 10kg (both hands) | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — Overhead Tricep Extension](https://www.youtube.com/watch?v=_gsUck-7M74)
+- [ ] **Strict DB Lateral Raise (Side Delts)**: 5 sets × 12–15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Elbows lead) | **Rest**: 60s [Scott Herman — DB Side Lateral Raise](https://www.youtube.com/watch?v=3VcKaXpzqRo)
+- [ ] **Overhead DB Tricep Extension**: 4 sets × 12 reps | **Load**: 1x 10kg (both hands) | **Tempo**: 3-1-1-0 | **Rest**: 60s [Howcast — Dumbbell Tricep Extension](https://www.youtube.com/watch?v=_gsUck-7M74)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 20–25s vacuum hold on empty stomach [Jeremy Ethier — Stomach Vacuum for Slim Waist](https://www.youtube.com/watch?v=c3-e2u0l1dM)
-- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side (opens tight hip flexors) [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
+- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 20–25s vacuum hold on empty stomach [wikiHow — Stomach Vacuum Exercise Guide](https://www.youtube.com/watch?v=cub3xhJXsAA)
+- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side (opens tight hip flexors) [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
 - [ ] **Cardio/Steps**: Brisk Evening Walk — 25 mins (approx 3,000 steps) for recovery & digestion
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -768,15 +768,15 @@ _Focus: 3-1-1-0 tempo, 1s pause at peak, 1–2 RIR._
 - **Focus**: Pull · **Week**: 5
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Single-Arm Dumbbell Row**: 4 sets × 12–15 reps / side | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 (1s squeeze at top) | **Rest**: 60–75s [Athlean-X — Perfect Single-Arm DB Row](https://www.youtube.com/watch?v=pYcpY20QaE8)
-- [ ] **Inverted Door/Towel Row**: 4 sets × 10–12 reps | **Load**: Bodyweight (Door/Towel) | **Tempo**: 2-1-1-0 | **Rest**: 60–75s [Calisthenicmovement — Door Towel Rows](https://www.youtube.com/watch?v=rloXYB8M3vU)
-- [ ] **Bent-Over DB Rear Delt Flyes**: 5 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Athlean-X — Rear Delt Flyes](https://www.youtube.com/watch?v=eaun65zHk2c)
-- [ ] **Strict Supinating DB Bicep Curl**: 4 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-1-1-0 (Supinate wrist) | **Rest**: 60s [Jeff Nippard — Bicep Hypertrophy Science](https://www.youtube.com/watch?v=in7PaeYlhrM)
+- [ ] **Single-Arm Dumbbell Row**: 4 sets × 12–15 reps / side | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 (1s squeeze at top) | **Rest**: 60–75s [Scott Herman — Single-Arm DB Row Form](https://www.youtube.com/watch?v=pYcpY20QaE8)
+- [ ] **Inverted Door/Towel Row**: 4 sets × 10–12 reps | **Load**: Bodyweight (Door/Towel) | **Tempo**: 2-1-1-0 | **Rest**: 60–75s [Antranik — Door Towel Incline Rows](https://www.youtube.com/watch?v=rloXYB8M3vU)
+- [ ] **Bent-Over DB Rear Delt Flyes**: 5 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — DB Bent-Over Rear Delt Raise](https://www.youtube.com/watch?v=ttvfGg9d76c)
+- [ ] **Strict Supinating DB Bicep Curl**: 4 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-1-1-0 (Supinate wrist) | **Rest**: 60s [Mind Pump TV — Dumbbell Bicep Curls Form](https://www.youtube.com/watch?v=in7PaeYlhrM)
 - [ ] **Neutral Grip DB Hammer Curl**: 4 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-0-1-0 | **Rest**: 60s [Scott Herman — Hammer Curl Form](https://www.youtube.com/watch?v=zC3nLlEvin4)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps per side (Anti-extension core) [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=g_BYB0R-44A)
-- [ ] **Mobility**: Thoracic Spine Mobility & Desk Posture — 3 mins thoracic spine rotations (fixes desk posture) [Squat University — Thoracic Mobility](https://www.youtube.com/watch?v=0h5c5lQvB1c)
+- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps per side (Anti-extension core) [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=0XVbn86Btj0)
+- [ ] **Mobility**: Thoracic Spine Mobility & Desk Posture — 3 mins thoracic spine rotations (fixes desk posture) [Squat University — Thoracic Spine Mobility](https://www.youtube.com/watch?v=9LJDGUulS_8)
 - [ ] **Cardio/Steps**: Brisk Evening Walk — 25 mins (approx 3,000 steps)
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -794,15 +794,15 @@ _Focus: 3-1-1-0 tempo, 1s pause at peak, 1–2 RIR._
 - **Focus**: Legs · **Week**: 5
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Bulgarian Split Squat**: 4 sets × 10–12 reps / leg | **Load**: 1x 10kg (Goblet) or 2x 5kg | **Tempo**: 3-1-1-0 (Deep hip crease) | **Rest**: 90s [Squat University — Bulgarian Split Squat](https://www.youtube.com/watch?v=1CVecvh_6W0)
-- [ ] **Dumbbell Romanian Deadlift (RDL)**: 4 sets × 10–12 reps | **Load**: 2x 10kg | **Tempo**: 4-1-1-0 (Deep hamstring stretch) | **Rest**: 60–75s [Jeremy Ethier — Dumbbell RDL Form](https://www.youtube.com/watch?v=_oyxCn2iSjU)
-- [ ] **Dumbbell Goblet Squat**: 4 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [Athlean-X — Goblet Squat Mastery](https://www.youtube.com/watch?v=MeIiIdhvXT4)
-- [ ] **Weighted Glute Bridge / Hip Thrust**: 4 sets × 15 reps | **Load**: 1x 10kg on hips | **Tempo**: 2-2-1-0 (2s hold at peak) | **Rest**: 60s [Jeremy Ethier — Glute Bridge & Hip Thrust](https://www.youtube.com/watch?v=8bbE64NuDTU)
-- [ ] **Single-Leg Deficit Calf Raise**: 5 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand (Book/step) | **Tempo**: 3-2-1-0 (2s full stretch at bottom) | **Rest**: 45s [Jeff Nippard — Calf Growth Guide](https://www.youtube.com/watch?v=f2w8v8P7kio)
+- [ ] **Bulgarian Split Squat**: 4 sets × 10–12 reps / leg | **Load**: 1x 10kg (Goblet) or 2x 5kg | **Tempo**: 3-1-1-0 (Deep hip crease) | **Rest**: 90s [Squat University — Bulgarian Split Squat Form](https://www.youtube.com/watch?v=bwhl_9jN_3o)
+- [ ] **Dumbbell Romanian Deadlift (RDL)**: 4 sets × 10–12 reps | **Load**: 2x 10kg | **Tempo**: 4-1-1-0 (Deep hamstring stretch) | **Rest**: 60–75s [Jeff Nippard — Romanian Deadlift (RDL) Guide](https://www.youtube.com/watch?v=_oyxCn2iSjU)
+- [ ] **Dumbbell Goblet Squat**: 4 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [Scott Herman — Goblet Squat Guide](https://www.youtube.com/watch?v=MeIiIdhvXT4)
+- [ ] **Weighted Glute Bridge / Hip Thrust**: 4 sets × 15 reps | **Load**: 1x 10kg on hips | **Tempo**: 2-2-1-0 (2s hold at peak) | **Rest**: 60s [Scott Herman — Glute Bridge Technique](https://www.youtube.com/watch?v=8bbE64NuDTU)
+- [ ] **Single-Leg Deficit Calf Raise**: 5 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand (Book/step) | **Tempo**: 3-2-1-0 (2s full stretch at bottom) | **Rest**: 45s [Scott Herman — Single-Leg Calf Raise Form](https://www.youtube.com/watch?v=ORT4oJ_R8Qs)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Lying Leg Raises & Reverse Crunches — 3 sets x 15 reps (Lower abs & pelvis tuck) [Calisthenicmovement — Leg Raises](https://www.youtube.com/watch?v=Pr1ieGZ5atk)
-- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins hip & ankle mobility flow [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
+- [ ] **Core**: Lying Leg Raises & Reverse Crunches — 3 sets x 15 reps (Lower abs & pelvis tuck) [TylerPath — Lying Leg Raises Form](https://www.youtube.com/watch?v=PkLYH3uRtSs)
+- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins hip & ankle mobility flow [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
 - [ ] **Cardio/Steps**: Brisk Leg Flush Walk — 20 mins steady walking to clear leg fatigue
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -820,14 +820,14 @@ _Focus: 3-1-1-0 tempo, 1s pause at peak, 1–2 RIR._
 - **Focus**: Recovery · **Week**: 5
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Deep breathing | **Rest**: 30s [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
-- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Mobility](https://www.youtube.com/watch?v=0h5c5lQvB1c)
-- [ ] **Bird-Dog Core & Lower Back Flow**: 3 sets × 12 reps / side | **Load**: Bodyweight | **Tempo**: 2s hold at full reach | **Rest**: 45s [Squat University — Bird Dog Form](https://www.youtube.com/watch?v=wiFNA3sqjCA)
-- [ ] **Hardstyle RKC Plank (Maximum Tension)**: 3 sets × 30–45s max tension | **Load**: Bodyweight | **Tempo**: Max squeeze glutes & abs | **Rest**: 60s [Calisthenicmovement — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
+- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Deep breathing | **Rest**: 30s [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
+- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Spine Mobility](https://www.youtube.com/watch?v=9LJDGUulS_8)
+- [ ] **Bird-Dog Core & Lower Back Flow**: 3 sets × 12 reps / side | **Load**: Bodyweight | **Tempo**: 2s hold at full reach | **Rest**: 45s [Howcast — Bird Dog Exercise Tutorial](https://www.youtube.com/watch?v=wiFNA3sqjCA)
+- [ ] **Hardstyle RKC Plank (Maximum Tension)**: 3 sets × 30–45s max tension | **Load**: Bodyweight | **Tempo**: Max squeeze glutes & abs | **Rest**: 60s [P4P Workouts — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 25s vacuum hold (Waist slimming) [Jeremy Ethier — Stomach Vacuum for Slim Waist](https://www.youtube.com/watch?v=c3-e2u0l1dM)
-- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep whole-body stretch [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
+- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 25s vacuum hold (Waist slimming) [wikiHow — Stomach Vacuum Exercise Guide](https://www.youtube.com/watch?v=cub3xhJXsAA)
+- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep whole-body stretch [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
 - [ ] **Cardio/Steps**: Brisk Outdoor Walk — 30 mins (approx 4,000 steps) active flush
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -845,16 +845,16 @@ _Focus: 3-1-1-0 tempo, 1s pause at peak, 1–2 RIR._
 - **Focus**: Upper · **Week**: 5
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Feet-Elevated Decline Push-ups**: 4 sets × 10–12 reps | **Load**: Bodyweight (Feet on bed) | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [Calisthenicmovement — Decline Push-Ups (Upper Chest)](https://www.youtube.com/watch?v=SKPab2YC8BE)
-- [ ] **Dumbbell Arnold Press**: 4 sets × 10–12 reps | **Load**: 2x 5kg | **Tempo**: 3-1-1-0 (Full rotation) | **Rest**: 60–75s [Scott Herman — Arnold Press Technique](https://www.youtube.com/watch?v=6Z15_WdXmVw)
-- [ ] **Bent-Over Two-Arm DB Row**: 4 sets × 12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 2-1-1-0 | **Rest**: 60–75s [Scott Herman — Bent Over DB Row](https://www.youtube.com/watch?v=6TSP13BISI4)
-- [ ] **Strict DB Lateral Raise (Side Delts)**: 5 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Strict side delts) | **Rest**: 60s [Jeff Nippard — Science of Lateral Raises](https://www.youtube.com/watch?v=3VcKaXpzqRo)
-- [ ] **Diamond Push-ups (Tricep Overload)**: 4 sets × 10–12 reps | **Load**: Bodyweight | **Tempo**: 2-1-1-0 | **Rest**: 60s [Calisthenicmovement — Diamond Push-Ups](https://www.youtube.com/watch?v=J0DnG1_S92I)
-- [ ] **Seated Concentration Curl**: 4 sets × 10–12 reps / arm | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 45s [Scott Herman — Concentration Curl](https://www.youtube.com/watch?v=0AUGkch3tzc)
+- [ ] **Feet-Elevated Decline Push-ups**: 4 sets × 10–12 reps | **Load**: Bodyweight (Feet on bed) | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [Scott Herman — Decline Push-Up Form](https://www.youtube.com/watch?v=SKPab2YC8BE)
+- [ ] **Dumbbell Arnold Press**: 4 sets × 10–12 reps | **Load**: 2x 5kg | **Tempo**: 3-1-1-0 (Full rotation) | **Rest**: 60–75s [Buff Dudes — Arnold Press Tutorial](https://www.youtube.com/watch?v=6Z15_WdXmVw)
+- [ ] **Bent-Over Two-Arm DB Row**: 4 sets × 12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 2-1-1-0 | **Rest**: 60–75s [Renaissance Periodization — Two Arm Dumbbell Row](https://www.youtube.com/watch?v=5PoEksoJNaw)
+- [ ] **Strict DB Lateral Raise (Side Delts)**: 5 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Strict side delts) | **Rest**: 60s [Scott Herman — DB Side Lateral Raise](https://www.youtube.com/watch?v=3VcKaXpzqRo)
+- [ ] **Diamond Push-ups (Tricep Overload)**: 4 sets × 10–12 reps | **Load**: Bodyweight | **Tempo**: 2-1-1-0 | **Rest**: 60s [Scott Herman — Diamond Push-Up](https://www.youtube.com/watch?v=J0DnG1_S92I)
+- [ ] **Seated Concentration Curl**: 4 sets × 10–12 reps / arm | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 45s [Howcast — Concentration Curl Form](https://www.youtube.com/watch?v=0AUGkch3tzc)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Hollow Body Hold — 3 sets x 30–35s hollow body hold [Calisthenicmovement — Hollow Body Hold](https://www.youtube.com/watch?v=44ScXWFaVBs)
-- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
+- [ ] **Core**: Hollow Body Hold — 3 sets x 30–35s hollow body hold [Antranik — Hollow Body Hold Guide](https://www.youtube.com/watch?v=44ScXWFaVBs)
+- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
 - [ ] **Cardio/Steps**: Brisk Walk — 25 mins (3,000 steps)
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -872,15 +872,15 @@ _Focus: 3-1-1-0 tempo, 1s pause at peak, 1–2 RIR._
 - **Focus**: Legs · **Week**: 5
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Dumbbell Goblet Squat**: 4 sets × 15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [Athlean-X — Goblet Squat Mastery](https://www.youtube.com/watch?v=MeIiIdhvXT4)
-- [ ] **Dumbbell Walking Lunges**: 4 sets × 10 reps / leg (20 total) | **Load**: 2x 5kg or Bodyweight | **Tempo**: Controlled 90/90 step | **Rest**: 60–75s [Scott Herman — Walking Lunges](https://www.youtube.com/watch?v=L8fvypPrzzs)
-- [ ] **Single-Leg DB Romanian Deadlift**: 4 sets × 10–12 reps / leg | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [Squat University — Single Leg RDL](https://www.youtube.com/watch?v=2Tz8lWzL5Kk)
-- [ ] **Dumbbell Sumo Squat (Adductors & Glutes)**: 4 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [Scott Herman — Sumo Squat Technique](https://www.youtube.com/watch?v=9ZuD8vf6nSU)
-- [ ] **Single-Leg Deficit Calf Raise**: 5 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand | **Tempo**: 3-2-1-0 | **Rest**: 45s [Jeff Nippard — Calf Growth Guide](https://www.youtube.com/watch?v=f2w8v8P7kio)
+- [ ] **Dumbbell Goblet Squat**: 4 sets × 15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [Scott Herman — Goblet Squat Guide](https://www.youtube.com/watch?v=MeIiIdhvXT4)
+- [ ] **Dumbbell Walking Lunges**: 4 sets × 10 reps / leg (20 total) | **Load**: 2x 5kg or Bodyweight | **Tempo**: Controlled 90/90 step | **Rest**: 60–75s [CrossFit — The Walking Lunge Form](https://www.youtube.com/watch?v=L8fvypPrzzs)
+- [ ] **Single-Leg DB Romanian Deadlift**: 4 sets × 10–12 reps / leg | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [Scott Herman — DB Single-Leg Stiff Deadlift](https://www.youtube.com/watch?v=DGavj41F_Cs)
+- [ ] **Dumbbell Sumo Squat (Adductors & Glutes)**: 4 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60–75s [DeltaBolic — Dumbbell Sumo Squat Form](https://www.youtube.com/watch?v=bRCjBCtBGIo)
+- [ ] **Single-Leg Deficit Calf Raise**: 5 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand | **Tempo**: 3-2-1-0 | **Rest**: 45s [Scott Herman — Single-Leg Calf Raise Form](https://www.youtube.com/watch?v=ORT4oJ_R8Qs)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps / side [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=g_BYB0R-44A)
-- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep hips & ankles [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
+- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps / side [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=0XVbn86Btj0)
+- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep hips & ankles [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
 - [ ] **Cardio/Steps**: Brisk Walk — 25 mins (3,000 steps)
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -898,14 +898,14 @@ _Focus: 3-1-1-0 tempo, 1s pause at peak, 1–2 RIR._
 - **Focus**: Recovery · **Week**: 5
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **World's Greatest Stretch Routine**: 3 sets × 5 reps / side | **Load**: Bodyweight | **Tempo**: Deep breath at extension | **Rest**: 30s [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
-- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Relax into hip | **Rest**: 30s [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
-- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Mobility](https://www.youtube.com/watch?v=0h5c5lQvB1c)
-- [ ] **Transverse Abdominis Stomach Vacuum**: 4 sets × 25s vacuum hold | **Load**: Bodyweight | **Tempo**: Max exhalation & pull navel in | **Rest**: 45s [Jeremy Ethier — Stomach Vacuum for Slim Waist](https://www.youtube.com/watch?v=c3-e2u0l1dM)
+- [ ] **World's Greatest Stretch Routine**: 3 sets × 5 reps / side | **Load**: Bodyweight | **Tempo**: Deep breath at extension | **Rest**: 30s [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
+- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Relax into hip | **Rest**: 30s [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
+- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Spine Mobility](https://www.youtube.com/watch?v=9LJDGUulS_8)
+- [ ] **Transverse Abdominis Stomach Vacuum**: 4 sets × 25s vacuum hold | **Load**: Bodyweight | **Tempo**: Max exhalation & pull navel in | **Rest**: 45s [wikiHow — Stomach Vacuum Exercise Guide](https://www.youtube.com/watch?v=cub3xhJXsAA)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Hardstyle RKC Plank (Maximum Tension) — 3 sets x 30s plank hold [Calisthenicmovement — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
-- [ ] **Mobility**: Shoulder Doorway Stretch — 2 mins chest & anterior delt opening 
+- [ ] **Core**: Hardstyle RKC Plank (Maximum Tension) — 3 sets x 30s plank hold [P4P Workouts — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
+- [ ] **Mobility**: Shoulder Doorway Stretch — 2 mins chest & anterior delt opening [Rehab Hero — Doorway Chest & Shoulder Stretch](https://www.youtube.com/watch?v=O8rJw_TmC1Y)
 - [ ] **Cardio/Steps**: Relaxed Evening Walk — 30 mins (3,500 steps) fresh air & recovery
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -928,14 +928,14 @@ _Focus: High tension, mechanical drop sets, 0–1 RIR._
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
 - [ ] **Deficit / Standard Push-ups**: 4 sets × 12–15 reps | **Load**: Bodyweight | **Tempo**: 3-1-1-0 | **Rest**: 60s [Calisthenicmovement — Perfect Push-Up Form](https://www.youtube.com/watch?v=IODxDxX7oi4)
-- [ ] **Dumbbell Floor Press**: 4 sets × 10–12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 3-1-1-0 | **Rest**: 60s [Athlean-X — Dumbbell Floor Press Guide](https://www.youtube.com/watch?v=uUGDRwG4Fjs)
+- [ ] **Dumbbell Floor Press**: 4 sets × 10–12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — Dumbbell Floor Press Form](https://www.youtube.com/watch?v=uUGDRwge4F8)
 - [ ] **Seated/Standing DB Overhead Press**: 4 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-0-1-0 | **Rest**: 60s [Scott Herman — DB Shoulder Press Form](https://www.youtube.com/watch?v=qEwKCR5JCog)
-- [ ] **Strict DB Lateral Raise (Side Delts)**: 5 sets × 12–15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Elbows lead) | **Rest**: 60s [Jeff Nippard — Science of Lateral Raises](https://www.youtube.com/watch?v=3VcKaXpzqRo)
-- [ ] **Overhead DB Tricep Extension**: 4 sets × 12 reps | **Load**: 1x 10kg (both hands) | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — Overhead Tricep Extension](https://www.youtube.com/watch?v=_gsUck-7M74)
+- [ ] **Strict DB Lateral Raise (Side Delts)**: 5 sets × 12–15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Elbows lead) | **Rest**: 60s [Scott Herman — DB Side Lateral Raise](https://www.youtube.com/watch?v=3VcKaXpzqRo)
+- [ ] **Overhead DB Tricep Extension**: 4 sets × 12 reps | **Load**: 1x 10kg (both hands) | **Tempo**: 3-1-1-0 | **Rest**: 60s [Howcast — Dumbbell Tricep Extension](https://www.youtube.com/watch?v=_gsUck-7M74)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 20–25s vacuum hold on empty stomach [Jeremy Ethier — Stomach Vacuum for Slim Waist](https://www.youtube.com/watch?v=c3-e2u0l1dM)
-- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side (opens tight hip flexors) [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
+- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 20–25s vacuum hold on empty stomach [wikiHow — Stomach Vacuum Exercise Guide](https://www.youtube.com/watch?v=cub3xhJXsAA)
+- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side (opens tight hip flexors) [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
 - [ ] **Cardio/Steps**: Brisk Evening Walk — 25 mins (approx 3,000 steps) for recovery & digestion
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -953,15 +953,15 @@ _Focus: High tension, mechanical drop sets, 0–1 RIR._
 - **Focus**: Pull · **Week**: 6
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Single-Arm Dumbbell Row**: 4 sets × 12–15 reps / side | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 (1s squeeze at top) | **Rest**: 60s [Athlean-X — Perfect Single-Arm DB Row](https://www.youtube.com/watch?v=pYcpY20QaE8)
-- [ ] **Inverted Door/Towel Row**: 4 sets × 10–12 reps | **Load**: Bodyweight (Door/Towel) | **Tempo**: 2-1-1-0 | **Rest**: 60s [Calisthenicmovement — Door Towel Rows](https://www.youtube.com/watch?v=rloXYB8M3vU)
-- [ ] **Bent-Over DB Rear Delt Flyes**: 5 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Athlean-X — Rear Delt Flyes](https://www.youtube.com/watch?v=eaun65zHk2c)
-- [ ] **Strict Supinating DB Bicep Curl**: 4 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-1-1-0 (Supinate wrist) | **Rest**: 60s [Jeff Nippard — Bicep Hypertrophy Science](https://www.youtube.com/watch?v=in7PaeYlhrM)
+- [ ] **Single-Arm Dumbbell Row**: 4 sets × 12–15 reps / side | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 (1s squeeze at top) | **Rest**: 60s [Scott Herman — Single-Arm DB Row Form](https://www.youtube.com/watch?v=pYcpY20QaE8)
+- [ ] **Inverted Door/Towel Row**: 4 sets × 10–12 reps | **Load**: Bodyweight (Door/Towel) | **Tempo**: 2-1-1-0 | **Rest**: 60s [Antranik — Door Towel Incline Rows](https://www.youtube.com/watch?v=rloXYB8M3vU)
+- [ ] **Bent-Over DB Rear Delt Flyes**: 5 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — DB Bent-Over Rear Delt Raise](https://www.youtube.com/watch?v=ttvfGg9d76c)
+- [ ] **Strict Supinating DB Bicep Curl**: 4 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-1-1-0 (Supinate wrist) | **Rest**: 60s [Mind Pump TV — Dumbbell Bicep Curls Form](https://www.youtube.com/watch?v=in7PaeYlhrM)
 - [ ] **Neutral Grip DB Hammer Curl**: 4 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-0-1-0 | **Rest**: 60s [Scott Herman — Hammer Curl Form](https://www.youtube.com/watch?v=zC3nLlEvin4)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps per side (Anti-extension core) [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=g_BYB0R-44A)
-- [ ] **Mobility**: Thoracic Spine Mobility & Desk Posture — 3 mins thoracic spine rotations (fixes desk posture) [Squat University — Thoracic Mobility](https://www.youtube.com/watch?v=0h5c5lQvB1c)
+- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps per side (Anti-extension core) [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=0XVbn86Btj0)
+- [ ] **Mobility**: Thoracic Spine Mobility & Desk Posture — 3 mins thoracic spine rotations (fixes desk posture) [Squat University — Thoracic Spine Mobility](https://www.youtube.com/watch?v=9LJDGUulS_8)
 - [ ] **Cardio/Steps**: Brisk Evening Walk — 25 mins (approx 3,000 steps)
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -979,15 +979,15 @@ _Focus: High tension, mechanical drop sets, 0–1 RIR._
 - **Focus**: Legs · **Week**: 6
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Bulgarian Split Squat**: 4 sets × 10–12 reps / leg | **Load**: 1x 10kg (Goblet) or 2x 5kg | **Tempo**: 3-1-1-0 (Deep hip crease) | **Rest**: 90s [Squat University — Bulgarian Split Squat](https://www.youtube.com/watch?v=1CVecvh_6W0)
-- [ ] **Dumbbell Romanian Deadlift (RDL)**: 4 sets × 10–12 reps | **Load**: 2x 10kg | **Tempo**: 4-1-1-0 (Deep hamstring stretch) | **Rest**: 60s [Jeremy Ethier — Dumbbell RDL Form](https://www.youtube.com/watch?v=_oyxCn2iSjU)
-- [ ] **Dumbbell Goblet Squat**: 4 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Athlean-X — Goblet Squat Mastery](https://www.youtube.com/watch?v=MeIiIdhvXT4)
-- [ ] **Weighted Glute Bridge / Hip Thrust**: 4 sets × 15 reps | **Load**: 1x 10kg on hips | **Tempo**: 2-2-1-0 (2s hold at peak) | **Rest**: 60s [Jeremy Ethier — Glute Bridge & Hip Thrust](https://www.youtube.com/watch?v=8bbE64NuDTU)
-- [ ] **Single-Leg Deficit Calf Raise**: 5 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand (Book/step) | **Tempo**: 3-2-1-0 (2s full stretch at bottom) | **Rest**: 45s [Jeff Nippard — Calf Growth Guide](https://www.youtube.com/watch?v=f2w8v8P7kio)
+- [ ] **Bulgarian Split Squat**: 4 sets × 10–12 reps / leg | **Load**: 1x 10kg (Goblet) or 2x 5kg | **Tempo**: 3-1-1-0 (Deep hip crease) | **Rest**: 90s [Squat University — Bulgarian Split Squat Form](https://www.youtube.com/watch?v=bwhl_9jN_3o)
+- [ ] **Dumbbell Romanian Deadlift (RDL)**: 4 sets × 10–12 reps | **Load**: 2x 10kg | **Tempo**: 4-1-1-0 (Deep hamstring stretch) | **Rest**: 60s [Jeff Nippard — Romanian Deadlift (RDL) Guide](https://www.youtube.com/watch?v=_oyxCn2iSjU)
+- [ ] **Dumbbell Goblet Squat**: 4 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — Goblet Squat Guide](https://www.youtube.com/watch?v=MeIiIdhvXT4)
+- [ ] **Weighted Glute Bridge / Hip Thrust**: 4 sets × 15 reps | **Load**: 1x 10kg on hips | **Tempo**: 2-2-1-0 (2s hold at peak) | **Rest**: 60s [Scott Herman — Glute Bridge Technique](https://www.youtube.com/watch?v=8bbE64NuDTU)
+- [ ] **Single-Leg Deficit Calf Raise**: 5 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand (Book/step) | **Tempo**: 3-2-1-0 (2s full stretch at bottom) | **Rest**: 45s [Scott Herman — Single-Leg Calf Raise Form](https://www.youtube.com/watch?v=ORT4oJ_R8Qs)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Lying Leg Raises & Reverse Crunches — 3 sets x 15 reps (Lower abs & pelvis tuck) [Calisthenicmovement — Leg Raises](https://www.youtube.com/watch?v=Pr1ieGZ5atk)
-- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins hip & ankle mobility flow [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
+- [ ] **Core**: Lying Leg Raises & Reverse Crunches — 3 sets x 15 reps (Lower abs & pelvis tuck) [TylerPath — Lying Leg Raises Form](https://www.youtube.com/watch?v=PkLYH3uRtSs)
+- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins hip & ankle mobility flow [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
 - [ ] **Cardio/Steps**: Brisk Leg Flush Walk — 20 mins steady walking to clear leg fatigue
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -1005,14 +1005,14 @@ _Focus: High tension, mechanical drop sets, 0–1 RIR._
 - **Focus**: Recovery · **Week**: 6
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Deep breathing | **Rest**: 30s [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
-- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Mobility](https://www.youtube.com/watch?v=0h5c5lQvB1c)
-- [ ] **Bird-Dog Core & Lower Back Flow**: 3 sets × 12 reps / side | **Load**: Bodyweight | **Tempo**: 2s hold at full reach | **Rest**: 45s [Squat University — Bird Dog Form](https://www.youtube.com/watch?v=wiFNA3sqjCA)
-- [ ] **Hardstyle RKC Plank (Maximum Tension)**: 3 sets × 30–45s max tension | **Load**: Bodyweight | **Tempo**: Max squeeze glutes & abs | **Rest**: 60s [Calisthenicmovement — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
+- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Deep breathing | **Rest**: 30s [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
+- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Spine Mobility](https://www.youtube.com/watch?v=9LJDGUulS_8)
+- [ ] **Bird-Dog Core & Lower Back Flow**: 3 sets × 12 reps / side | **Load**: Bodyweight | **Tempo**: 2s hold at full reach | **Rest**: 45s [Howcast — Bird Dog Exercise Tutorial](https://www.youtube.com/watch?v=wiFNA3sqjCA)
+- [ ] **Hardstyle RKC Plank (Maximum Tension)**: 3 sets × 30–45s max tension | **Load**: Bodyweight | **Tempo**: Max squeeze glutes & abs | **Rest**: 60s [P4P Workouts — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 25s vacuum hold (Waist slimming) [Jeremy Ethier — Stomach Vacuum for Slim Waist](https://www.youtube.com/watch?v=c3-e2u0l1dM)
-- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep whole-body stretch [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
+- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 25s vacuum hold (Waist slimming) [wikiHow — Stomach Vacuum Exercise Guide](https://www.youtube.com/watch?v=cub3xhJXsAA)
+- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep whole-body stretch [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
 - [ ] **Cardio/Steps**: Brisk Outdoor Walk — 30 mins (approx 4,000 steps) active flush
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -1030,16 +1030,16 @@ _Focus: High tension, mechanical drop sets, 0–1 RIR._
 - **Focus**: Upper · **Week**: 6
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Feet-Elevated Decline Push-ups**: 4 sets × 10–12 reps | **Load**: Bodyweight (Feet on bed) | **Tempo**: 3-1-1-0 | **Rest**: 60s [Calisthenicmovement — Decline Push-Ups (Upper Chest)](https://www.youtube.com/watch?v=SKPab2YC8BE)
-- [ ] **Dumbbell Arnold Press**: 4 sets × 10–12 reps | **Load**: 2x 5kg | **Tempo**: 3-1-1-0 (Full rotation) | **Rest**: 60s [Scott Herman — Arnold Press Technique](https://www.youtube.com/watch?v=6Z15_WdXmVw)
-- [ ] **Bent-Over Two-Arm DB Row**: 4 sets × 12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 2-1-1-0 | **Rest**: 60s [Scott Herman — Bent Over DB Row](https://www.youtube.com/watch?v=6TSP13BISI4)
-- [ ] **Strict DB Lateral Raise (Side Delts)**: 5 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Strict side delts) | **Rest**: 60s [Jeff Nippard — Science of Lateral Raises](https://www.youtube.com/watch?v=3VcKaXpzqRo)
-- [ ] **Diamond Push-ups (Tricep Overload)**: 4 sets × 10–12 reps | **Load**: Bodyweight | **Tempo**: 2-1-1-0 | **Rest**: 60s [Calisthenicmovement — Diamond Push-Ups](https://www.youtube.com/watch?v=J0DnG1_S92I)
-- [ ] **Seated Concentration Curl**: 4 sets × 10–12 reps / arm | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 45s [Scott Herman — Concentration Curl](https://www.youtube.com/watch?v=0AUGkch3tzc)
+- [ ] **Feet-Elevated Decline Push-ups**: 4 sets × 10–12 reps | **Load**: Bodyweight (Feet on bed) | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — Decline Push-Up Form](https://www.youtube.com/watch?v=SKPab2YC8BE)
+- [ ] **Dumbbell Arnold Press**: 4 sets × 10–12 reps | **Load**: 2x 5kg | **Tempo**: 3-1-1-0 (Full rotation) | **Rest**: 60s [Buff Dudes — Arnold Press Tutorial](https://www.youtube.com/watch?v=6Z15_WdXmVw)
+- [ ] **Bent-Over Two-Arm DB Row**: 4 sets × 12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 2-1-1-0 | **Rest**: 60s [Renaissance Periodization — Two Arm Dumbbell Row](https://www.youtube.com/watch?v=5PoEksoJNaw)
+- [ ] **Strict DB Lateral Raise (Side Delts)**: 5 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Strict side delts) | **Rest**: 60s [Scott Herman — DB Side Lateral Raise](https://www.youtube.com/watch?v=3VcKaXpzqRo)
+- [ ] **Diamond Push-ups (Tricep Overload)**: 4 sets × 10–12 reps | **Load**: Bodyweight | **Tempo**: 2-1-1-0 | **Rest**: 60s [Scott Herman — Diamond Push-Up](https://www.youtube.com/watch?v=J0DnG1_S92I)
+- [ ] **Seated Concentration Curl**: 4 sets × 10–12 reps / arm | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 45s [Howcast — Concentration Curl Form](https://www.youtube.com/watch?v=0AUGkch3tzc)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Hollow Body Hold — 3 sets x 30–35s hollow body hold [Calisthenicmovement — Hollow Body Hold](https://www.youtube.com/watch?v=44ScXWFaVBs)
-- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
+- [ ] **Core**: Hollow Body Hold — 3 sets x 30–35s hollow body hold [Antranik — Hollow Body Hold Guide](https://www.youtube.com/watch?v=44ScXWFaVBs)
+- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
 - [ ] **Cardio/Steps**: Brisk Walk — 25 mins (3,000 steps)
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -1057,15 +1057,15 @@ _Focus: High tension, mechanical drop sets, 0–1 RIR._
 - **Focus**: Legs · **Week**: 6
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Dumbbell Goblet Squat**: 4 sets × 15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Athlean-X — Goblet Squat Mastery](https://www.youtube.com/watch?v=MeIiIdhvXT4)
-- [ ] **Dumbbell Walking Lunges**: 4 sets × 10 reps / leg (20 total) | **Load**: 2x 5kg or Bodyweight | **Tempo**: Controlled 90/90 step | **Rest**: 60s [Scott Herman — Walking Lunges](https://www.youtube.com/watch?v=L8fvypPrzzs)
-- [ ] **Single-Leg DB Romanian Deadlift**: 4 sets × 10–12 reps / leg | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Squat University — Single Leg RDL](https://www.youtube.com/watch?v=2Tz8lWzL5Kk)
-- [ ] **Dumbbell Sumo Squat (Adductors & Glutes)**: 4 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — Sumo Squat Technique](https://www.youtube.com/watch?v=9ZuD8vf6nSU)
-- [ ] **Single-Leg Deficit Calf Raise**: 5 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand | **Tempo**: 3-2-1-0 | **Rest**: 45s [Jeff Nippard — Calf Growth Guide](https://www.youtube.com/watch?v=f2w8v8P7kio)
+- [ ] **Dumbbell Goblet Squat**: 4 sets × 15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — Goblet Squat Guide](https://www.youtube.com/watch?v=MeIiIdhvXT4)
+- [ ] **Dumbbell Walking Lunges**: 4 sets × 10 reps / leg (20 total) | **Load**: 2x 5kg or Bodyweight | **Tempo**: Controlled 90/90 step | **Rest**: 60s [CrossFit — The Walking Lunge Form](https://www.youtube.com/watch?v=L8fvypPrzzs)
+- [ ] **Single-Leg DB Romanian Deadlift**: 4 sets × 10–12 reps / leg | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — DB Single-Leg Stiff Deadlift](https://www.youtube.com/watch?v=DGavj41F_Cs)
+- [ ] **Dumbbell Sumo Squat (Adductors & Glutes)**: 4 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [DeltaBolic — Dumbbell Sumo Squat Form](https://www.youtube.com/watch?v=bRCjBCtBGIo)
+- [ ] **Single-Leg Deficit Calf Raise**: 5 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand | **Tempo**: 3-2-1-0 | **Rest**: 45s [Scott Herman — Single-Leg Calf Raise Form](https://www.youtube.com/watch?v=ORT4oJ_R8Qs)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps / side [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=g_BYB0R-44A)
-- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep hips & ankles [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
+- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps / side [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=0XVbn86Btj0)
+- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep hips & ankles [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
 - [ ] **Cardio/Steps**: Brisk Walk — 25 mins (3,000 steps)
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -1083,14 +1083,14 @@ _Focus: High tension, mechanical drop sets, 0–1 RIR._
 - **Focus**: Recovery · **Week**: 6
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **World's Greatest Stretch Routine**: 3 sets × 5 reps / side | **Load**: Bodyweight | **Tempo**: Deep breath at extension | **Rest**: 30s [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
-- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Relax into hip | **Rest**: 30s [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
-- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Mobility](https://www.youtube.com/watch?v=0h5c5lQvB1c)
-- [ ] **Transverse Abdominis Stomach Vacuum**: 4 sets × 25s vacuum hold | **Load**: Bodyweight | **Tempo**: Max exhalation & pull navel in | **Rest**: 45s [Jeremy Ethier — Stomach Vacuum for Slim Waist](https://www.youtube.com/watch?v=c3-e2u0l1dM)
+- [ ] **World's Greatest Stretch Routine**: 3 sets × 5 reps / side | **Load**: Bodyweight | **Tempo**: Deep breath at extension | **Rest**: 30s [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
+- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Relax into hip | **Rest**: 30s [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
+- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Spine Mobility](https://www.youtube.com/watch?v=9LJDGUulS_8)
+- [ ] **Transverse Abdominis Stomach Vacuum**: 4 sets × 25s vacuum hold | **Load**: Bodyweight | **Tempo**: Max exhalation & pull navel in | **Rest**: 45s [wikiHow — Stomach Vacuum Exercise Guide](https://www.youtube.com/watch?v=cub3xhJXsAA)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Hardstyle RKC Plank (Maximum Tension) — 3 sets x 30s plank hold [Calisthenicmovement — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
-- [ ] **Mobility**: Shoulder Doorway Stretch — 2 mins chest & anterior delt opening 
+- [ ] **Core**: Hardstyle RKC Plank (Maximum Tension) — 3 sets x 30s plank hold [P4P Workouts — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
+- [ ] **Mobility**: Shoulder Doorway Stretch — 2 mins chest & anterior delt opening [Rehab Hero — Doorway Chest & Shoulder Stretch](https://www.youtube.com/watch?v=O8rJw_TmC1Y)
 - [ ] **Cardio/Steps**: Relaxed Evening Walk — 30 mins (3,500 steps) fresh air & recovery
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -1109,14 +1109,14 @@ _Focus: High tension, mechanical drop sets, 0–1 RIR._
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
 - [ ] **Deficit / Standard Push-ups**: 4 sets × 12–15 reps | **Load**: Bodyweight | **Tempo**: 3-1-1-0 | **Rest**: 60s [Calisthenicmovement — Perfect Push-Up Form](https://www.youtube.com/watch?v=IODxDxX7oi4)
-- [ ] **Dumbbell Floor Press**: 4 sets × 10–12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 3-1-1-0 | **Rest**: 60s [Athlean-X — Dumbbell Floor Press Guide](https://www.youtube.com/watch?v=uUGDRwG4Fjs)
+- [ ] **Dumbbell Floor Press**: 4 sets × 10–12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — Dumbbell Floor Press Form](https://www.youtube.com/watch?v=uUGDRwge4F8)
 - [ ] **Seated/Standing DB Overhead Press**: 4 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-0-1-0 | **Rest**: 60s [Scott Herman — DB Shoulder Press Form](https://www.youtube.com/watch?v=qEwKCR5JCog)
-- [ ] **Strict DB Lateral Raise (Side Delts)**: 5 sets × 12–15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Elbows lead) | **Rest**: 60s [Jeff Nippard — Science of Lateral Raises](https://www.youtube.com/watch?v=3VcKaXpzqRo)
-- [ ] **Overhead DB Tricep Extension**: 4 sets × 12 reps | **Load**: 1x 10kg (both hands) | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — Overhead Tricep Extension](https://www.youtube.com/watch?v=_gsUck-7M74)
+- [ ] **Strict DB Lateral Raise (Side Delts)**: 5 sets × 12–15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Elbows lead) | **Rest**: 60s [Scott Herman — DB Side Lateral Raise](https://www.youtube.com/watch?v=3VcKaXpzqRo)
+- [ ] **Overhead DB Tricep Extension**: 4 sets × 12 reps | **Load**: 1x 10kg (both hands) | **Tempo**: 3-1-1-0 | **Rest**: 60s [Howcast — Dumbbell Tricep Extension](https://www.youtube.com/watch?v=_gsUck-7M74)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 20–25s vacuum hold on empty stomach [Jeremy Ethier — Stomach Vacuum for Slim Waist](https://www.youtube.com/watch?v=c3-e2u0l1dM)
-- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side (opens tight hip flexors) [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
+- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 20–25s vacuum hold on empty stomach [wikiHow — Stomach Vacuum Exercise Guide](https://www.youtube.com/watch?v=cub3xhJXsAA)
+- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side (opens tight hip flexors) [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
 - [ ] **Cardio/Steps**: Brisk Evening Walk — 25 mins (approx 3,000 steps) for recovery & digestion
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -1134,15 +1134,15 @@ _Focus: High tension, mechanical drop sets, 0–1 RIR._
 - **Focus**: Pull · **Week**: 7
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Single-Arm Dumbbell Row**: 4 sets × 12–15 reps / side | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 (1s squeeze at top) | **Rest**: 60s [Athlean-X — Perfect Single-Arm DB Row](https://www.youtube.com/watch?v=pYcpY20QaE8)
-- [ ] **Inverted Door/Towel Row**: 4 sets × 10–12 reps | **Load**: Bodyweight (Door/Towel) | **Tempo**: 2-1-1-0 | **Rest**: 60s [Calisthenicmovement — Door Towel Rows](https://www.youtube.com/watch?v=rloXYB8M3vU)
-- [ ] **Bent-Over DB Rear Delt Flyes**: 5 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Athlean-X — Rear Delt Flyes](https://www.youtube.com/watch?v=eaun65zHk2c)
-- [ ] **Strict Supinating DB Bicep Curl**: 4 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-1-1-0 (Supinate wrist) | **Rest**: 60s [Jeff Nippard — Bicep Hypertrophy Science](https://www.youtube.com/watch?v=in7PaeYlhrM)
+- [ ] **Single-Arm Dumbbell Row**: 4 sets × 12–15 reps / side | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 (1s squeeze at top) | **Rest**: 60s [Scott Herman — Single-Arm DB Row Form](https://www.youtube.com/watch?v=pYcpY20QaE8)
+- [ ] **Inverted Door/Towel Row**: 4 sets × 10–12 reps | **Load**: Bodyweight (Door/Towel) | **Tempo**: 2-1-1-0 | **Rest**: 60s [Antranik — Door Towel Incline Rows](https://www.youtube.com/watch?v=rloXYB8M3vU)
+- [ ] **Bent-Over DB Rear Delt Flyes**: 5 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — DB Bent-Over Rear Delt Raise](https://www.youtube.com/watch?v=ttvfGg9d76c)
+- [ ] **Strict Supinating DB Bicep Curl**: 4 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-1-1-0 (Supinate wrist) | **Rest**: 60s [Mind Pump TV — Dumbbell Bicep Curls Form](https://www.youtube.com/watch?v=in7PaeYlhrM)
 - [ ] **Neutral Grip DB Hammer Curl**: 4 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-0-1-0 | **Rest**: 60s [Scott Herman — Hammer Curl Form](https://www.youtube.com/watch?v=zC3nLlEvin4)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps per side (Anti-extension core) [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=g_BYB0R-44A)
-- [ ] **Mobility**: Thoracic Spine Mobility & Desk Posture — 3 mins thoracic spine rotations (fixes desk posture) [Squat University — Thoracic Mobility](https://www.youtube.com/watch?v=0h5c5lQvB1c)
+- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps per side (Anti-extension core) [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=0XVbn86Btj0)
+- [ ] **Mobility**: Thoracic Spine Mobility & Desk Posture — 3 mins thoracic spine rotations (fixes desk posture) [Squat University — Thoracic Spine Mobility](https://www.youtube.com/watch?v=9LJDGUulS_8)
 - [ ] **Cardio/Steps**: Brisk Evening Walk — 25 mins (approx 3,000 steps)
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -1160,15 +1160,15 @@ _Focus: High tension, mechanical drop sets, 0–1 RIR._
 - **Focus**: Legs · **Week**: 7
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Bulgarian Split Squat**: 4 sets × 10–12 reps / leg | **Load**: 1x 10kg (Goblet) or 2x 5kg | **Tempo**: 3-1-1-0 (Deep hip crease) | **Rest**: 90s [Squat University — Bulgarian Split Squat](https://www.youtube.com/watch?v=1CVecvh_6W0)
-- [ ] **Dumbbell Romanian Deadlift (RDL)**: 4 sets × 10–12 reps | **Load**: 2x 10kg | **Tempo**: 4-1-1-0 (Deep hamstring stretch) | **Rest**: 60s [Jeremy Ethier — Dumbbell RDL Form](https://www.youtube.com/watch?v=_oyxCn2iSjU)
-- [ ] **Dumbbell Goblet Squat**: 4 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Athlean-X — Goblet Squat Mastery](https://www.youtube.com/watch?v=MeIiIdhvXT4)
-- [ ] **Weighted Glute Bridge / Hip Thrust**: 4 sets × 15 reps | **Load**: 1x 10kg on hips | **Tempo**: 2-2-1-0 (2s hold at peak) | **Rest**: 60s [Jeremy Ethier — Glute Bridge & Hip Thrust](https://www.youtube.com/watch?v=8bbE64NuDTU)
-- [ ] **Single-Leg Deficit Calf Raise**: 5 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand (Book/step) | **Tempo**: 3-2-1-0 (2s full stretch at bottom) | **Rest**: 45s [Jeff Nippard — Calf Growth Guide](https://www.youtube.com/watch?v=f2w8v8P7kio)
+- [ ] **Bulgarian Split Squat**: 4 sets × 10–12 reps / leg | **Load**: 1x 10kg (Goblet) or 2x 5kg | **Tempo**: 3-1-1-0 (Deep hip crease) | **Rest**: 90s [Squat University — Bulgarian Split Squat Form](https://www.youtube.com/watch?v=bwhl_9jN_3o)
+- [ ] **Dumbbell Romanian Deadlift (RDL)**: 4 sets × 10–12 reps | **Load**: 2x 10kg | **Tempo**: 4-1-1-0 (Deep hamstring stretch) | **Rest**: 60s [Jeff Nippard — Romanian Deadlift (RDL) Guide](https://www.youtube.com/watch?v=_oyxCn2iSjU)
+- [ ] **Dumbbell Goblet Squat**: 4 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — Goblet Squat Guide](https://www.youtube.com/watch?v=MeIiIdhvXT4)
+- [ ] **Weighted Glute Bridge / Hip Thrust**: 4 sets × 15 reps | **Load**: 1x 10kg on hips | **Tempo**: 2-2-1-0 (2s hold at peak) | **Rest**: 60s [Scott Herman — Glute Bridge Technique](https://www.youtube.com/watch?v=8bbE64NuDTU)
+- [ ] **Single-Leg Deficit Calf Raise**: 5 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand (Book/step) | **Tempo**: 3-2-1-0 (2s full stretch at bottom) | **Rest**: 45s [Scott Herman — Single-Leg Calf Raise Form](https://www.youtube.com/watch?v=ORT4oJ_R8Qs)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Lying Leg Raises & Reverse Crunches — 3 sets x 15 reps (Lower abs & pelvis tuck) [Calisthenicmovement — Leg Raises](https://www.youtube.com/watch?v=Pr1ieGZ5atk)
-- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins hip & ankle mobility flow [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
+- [ ] **Core**: Lying Leg Raises & Reverse Crunches — 3 sets x 15 reps (Lower abs & pelvis tuck) [TylerPath — Lying Leg Raises Form](https://www.youtube.com/watch?v=PkLYH3uRtSs)
+- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins hip & ankle mobility flow [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
 - [ ] **Cardio/Steps**: Brisk Leg Flush Walk — 20 mins steady walking to clear leg fatigue
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -1186,14 +1186,14 @@ _Focus: High tension, mechanical drop sets, 0–1 RIR._
 - **Focus**: Recovery · **Week**: 7
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Deep breathing | **Rest**: 30s [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
-- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Mobility](https://www.youtube.com/watch?v=0h5c5lQvB1c)
-- [ ] **Bird-Dog Core & Lower Back Flow**: 3 sets × 12 reps / side | **Load**: Bodyweight | **Tempo**: 2s hold at full reach | **Rest**: 45s [Squat University — Bird Dog Form](https://www.youtube.com/watch?v=wiFNA3sqjCA)
-- [ ] **Hardstyle RKC Plank (Maximum Tension)**: 3 sets × 30–45s max tension | **Load**: Bodyweight | **Tempo**: Max squeeze glutes & abs | **Rest**: 60s [Calisthenicmovement — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
+- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Deep breathing | **Rest**: 30s [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
+- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Spine Mobility](https://www.youtube.com/watch?v=9LJDGUulS_8)
+- [ ] **Bird-Dog Core & Lower Back Flow**: 3 sets × 12 reps / side | **Load**: Bodyweight | **Tempo**: 2s hold at full reach | **Rest**: 45s [Howcast — Bird Dog Exercise Tutorial](https://www.youtube.com/watch?v=wiFNA3sqjCA)
+- [ ] **Hardstyle RKC Plank (Maximum Tension)**: 3 sets × 30–45s max tension | **Load**: Bodyweight | **Tempo**: Max squeeze glutes & abs | **Rest**: 60s [P4P Workouts — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 25s vacuum hold (Waist slimming) [Jeremy Ethier — Stomach Vacuum for Slim Waist](https://www.youtube.com/watch?v=c3-e2u0l1dM)
-- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep whole-body stretch [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
+- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 25s vacuum hold (Waist slimming) [wikiHow — Stomach Vacuum Exercise Guide](https://www.youtube.com/watch?v=cub3xhJXsAA)
+- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep whole-body stretch [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
 - [ ] **Cardio/Steps**: Brisk Outdoor Walk — 30 mins (approx 4,000 steps) active flush
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -1211,16 +1211,16 @@ _Focus: High tension, mechanical drop sets, 0–1 RIR._
 - **Focus**: Upper · **Week**: 7
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Feet-Elevated Decline Push-ups**: 4 sets × 10–12 reps | **Load**: Bodyweight (Feet on bed) | **Tempo**: 3-1-1-0 | **Rest**: 60s [Calisthenicmovement — Decline Push-Ups (Upper Chest)](https://www.youtube.com/watch?v=SKPab2YC8BE)
-- [ ] **Dumbbell Arnold Press**: 4 sets × 10–12 reps | **Load**: 2x 5kg | **Tempo**: 3-1-1-0 (Full rotation) | **Rest**: 60s [Scott Herman — Arnold Press Technique](https://www.youtube.com/watch?v=6Z15_WdXmVw)
-- [ ] **Bent-Over Two-Arm DB Row**: 4 sets × 12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 2-1-1-0 | **Rest**: 60s [Scott Herman — Bent Over DB Row](https://www.youtube.com/watch?v=6TSP13BISI4)
-- [ ] **Strict DB Lateral Raise (Side Delts)**: 5 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Strict side delts) | **Rest**: 60s [Jeff Nippard — Science of Lateral Raises](https://www.youtube.com/watch?v=3VcKaXpzqRo)
-- [ ] **Diamond Push-ups (Tricep Overload)**: 4 sets × 10–12 reps | **Load**: Bodyweight | **Tempo**: 2-1-1-0 | **Rest**: 60s [Calisthenicmovement — Diamond Push-Ups](https://www.youtube.com/watch?v=J0DnG1_S92I)
-- [ ] **Seated Concentration Curl**: 4 sets × 10–12 reps / arm | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 45s [Scott Herman — Concentration Curl](https://www.youtube.com/watch?v=0AUGkch3tzc)
+- [ ] **Feet-Elevated Decline Push-ups**: 4 sets × 10–12 reps | **Load**: Bodyweight (Feet on bed) | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — Decline Push-Up Form](https://www.youtube.com/watch?v=SKPab2YC8BE)
+- [ ] **Dumbbell Arnold Press**: 4 sets × 10–12 reps | **Load**: 2x 5kg | **Tempo**: 3-1-1-0 (Full rotation) | **Rest**: 60s [Buff Dudes — Arnold Press Tutorial](https://www.youtube.com/watch?v=6Z15_WdXmVw)
+- [ ] **Bent-Over Two-Arm DB Row**: 4 sets × 12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 2-1-1-0 | **Rest**: 60s [Renaissance Periodization — Two Arm Dumbbell Row](https://www.youtube.com/watch?v=5PoEksoJNaw)
+- [ ] **Strict DB Lateral Raise (Side Delts)**: 5 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Strict side delts) | **Rest**: 60s [Scott Herman — DB Side Lateral Raise](https://www.youtube.com/watch?v=3VcKaXpzqRo)
+- [ ] **Diamond Push-ups (Tricep Overload)**: 4 sets × 10–12 reps | **Load**: Bodyweight | **Tempo**: 2-1-1-0 | **Rest**: 60s [Scott Herman — Diamond Push-Up](https://www.youtube.com/watch?v=J0DnG1_S92I)
+- [ ] **Seated Concentration Curl**: 4 sets × 10–12 reps / arm | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 45s [Howcast — Concentration Curl Form](https://www.youtube.com/watch?v=0AUGkch3tzc)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Hollow Body Hold — 3 sets x 30–35s hollow body hold [Calisthenicmovement — Hollow Body Hold](https://www.youtube.com/watch?v=44ScXWFaVBs)
-- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
+- [ ] **Core**: Hollow Body Hold — 3 sets x 30–35s hollow body hold [Antranik — Hollow Body Hold Guide](https://www.youtube.com/watch?v=44ScXWFaVBs)
+- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
 - [ ] **Cardio/Steps**: Brisk Walk — 25 mins (3,000 steps)
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -1238,15 +1238,15 @@ _Focus: High tension, mechanical drop sets, 0–1 RIR._
 - **Focus**: Legs · **Week**: 7
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Dumbbell Goblet Squat**: 4 sets × 15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Athlean-X — Goblet Squat Mastery](https://www.youtube.com/watch?v=MeIiIdhvXT4)
-- [ ] **Dumbbell Walking Lunges**: 4 sets × 10 reps / leg (20 total) | **Load**: 2x 5kg or Bodyweight | **Tempo**: Controlled 90/90 step | **Rest**: 60s [Scott Herman — Walking Lunges](https://www.youtube.com/watch?v=L8fvypPrzzs)
-- [ ] **Single-Leg DB Romanian Deadlift**: 4 sets × 10–12 reps / leg | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Squat University — Single Leg RDL](https://www.youtube.com/watch?v=2Tz8lWzL5Kk)
-- [ ] **Dumbbell Sumo Squat (Adductors & Glutes)**: 4 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — Sumo Squat Technique](https://www.youtube.com/watch?v=9ZuD8vf6nSU)
-- [ ] **Single-Leg Deficit Calf Raise**: 5 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand | **Tempo**: 3-2-1-0 | **Rest**: 45s [Jeff Nippard — Calf Growth Guide](https://www.youtube.com/watch?v=f2w8v8P7kio)
+- [ ] **Dumbbell Goblet Squat**: 4 sets × 15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — Goblet Squat Guide](https://www.youtube.com/watch?v=MeIiIdhvXT4)
+- [ ] **Dumbbell Walking Lunges**: 4 sets × 10 reps / leg (20 total) | **Load**: 2x 5kg or Bodyweight | **Tempo**: Controlled 90/90 step | **Rest**: 60s [CrossFit — The Walking Lunge Form](https://www.youtube.com/watch?v=L8fvypPrzzs)
+- [ ] **Single-Leg DB Romanian Deadlift**: 4 sets × 10–12 reps / leg | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — DB Single-Leg Stiff Deadlift](https://www.youtube.com/watch?v=DGavj41F_Cs)
+- [ ] **Dumbbell Sumo Squat (Adductors & Glutes)**: 4 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [DeltaBolic — Dumbbell Sumo Squat Form](https://www.youtube.com/watch?v=bRCjBCtBGIo)
+- [ ] **Single-Leg Deficit Calf Raise**: 5 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand | **Tempo**: 3-2-1-0 | **Rest**: 45s [Scott Herman — Single-Leg Calf Raise Form](https://www.youtube.com/watch?v=ORT4oJ_R8Qs)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps / side [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=g_BYB0R-44A)
-- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep hips & ankles [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
+- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps / side [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=0XVbn86Btj0)
+- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep hips & ankles [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
 - [ ] **Cardio/Steps**: Brisk Walk — 25 mins (3,000 steps)
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -1264,14 +1264,14 @@ _Focus: High tension, mechanical drop sets, 0–1 RIR._
 - **Focus**: Recovery · **Week**: 7
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **World's Greatest Stretch Routine**: 3 sets × 5 reps / side | **Load**: Bodyweight | **Tempo**: Deep breath at extension | **Rest**: 30s [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
-- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Relax into hip | **Rest**: 30s [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
-- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Mobility](https://www.youtube.com/watch?v=0h5c5lQvB1c)
-- [ ] **Transverse Abdominis Stomach Vacuum**: 4 sets × 25s vacuum hold | **Load**: Bodyweight | **Tempo**: Max exhalation & pull navel in | **Rest**: 45s [Jeremy Ethier — Stomach Vacuum for Slim Waist](https://www.youtube.com/watch?v=c3-e2u0l1dM)
+- [ ] **World's Greatest Stretch Routine**: 3 sets × 5 reps / side | **Load**: Bodyweight | **Tempo**: Deep breath at extension | **Rest**: 30s [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
+- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Relax into hip | **Rest**: 30s [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
+- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Spine Mobility](https://www.youtube.com/watch?v=9LJDGUulS_8)
+- [ ] **Transverse Abdominis Stomach Vacuum**: 4 sets × 25s vacuum hold | **Load**: Bodyweight | **Tempo**: Max exhalation & pull navel in | **Rest**: 45s [wikiHow — Stomach Vacuum Exercise Guide](https://www.youtube.com/watch?v=cub3xhJXsAA)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Hardstyle RKC Plank (Maximum Tension) — 3 sets x 30s plank hold [Calisthenicmovement — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
-- [ ] **Mobility**: Shoulder Doorway Stretch — 2 mins chest & anterior delt opening 
+- [ ] **Core**: Hardstyle RKC Plank (Maximum Tension) — 3 sets x 30s plank hold [P4P Workouts — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
+- [ ] **Mobility**: Shoulder Doorway Stretch — 2 mins chest & anterior delt opening [Rehab Hero — Doorway Chest & Shoulder Stretch](https://www.youtube.com/watch?v=O8rJw_TmC1Y)
 - [ ] **Cardio/Steps**: Relaxed Evening Walk — 30 mins (3,500 steps) fresh air & recovery
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -1290,14 +1290,14 @@ _Focus: High tension, mechanical drop sets, 0–1 RIR._
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
 - [ ] **Deficit / Standard Push-ups**: 4 sets × 12–15 reps | **Load**: Bodyweight | **Tempo**: 3-1-1-0 | **Rest**: 60s [Calisthenicmovement — Perfect Push-Up Form](https://www.youtube.com/watch?v=IODxDxX7oi4)
-- [ ] **Dumbbell Floor Press**: 4 sets × 10–12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 3-1-1-0 | **Rest**: 60s [Athlean-X — Dumbbell Floor Press Guide](https://www.youtube.com/watch?v=uUGDRwG4Fjs)
+- [ ] **Dumbbell Floor Press**: 4 sets × 10–12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — Dumbbell Floor Press Form](https://www.youtube.com/watch?v=uUGDRwge4F8)
 - [ ] **Seated/Standing DB Overhead Press**: 4 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-0-1-0 | **Rest**: 60s [Scott Herman — DB Shoulder Press Form](https://www.youtube.com/watch?v=qEwKCR5JCog)
-- [ ] **Strict DB Lateral Raise (Side Delts)**: 5 sets × 12–15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Elbows lead) | **Rest**: 60s [Jeff Nippard — Science of Lateral Raises](https://www.youtube.com/watch?v=3VcKaXpzqRo)
-- [ ] **Overhead DB Tricep Extension**: 4 sets × 12 reps | **Load**: 1x 10kg (both hands) | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — Overhead Tricep Extension](https://www.youtube.com/watch?v=_gsUck-7M74)
+- [ ] **Strict DB Lateral Raise (Side Delts)**: 5 sets × 12–15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Elbows lead) | **Rest**: 60s [Scott Herman — DB Side Lateral Raise](https://www.youtube.com/watch?v=3VcKaXpzqRo)
+- [ ] **Overhead DB Tricep Extension**: 4 sets × 12 reps | **Load**: 1x 10kg (both hands) | **Tempo**: 3-1-1-0 | **Rest**: 60s [Howcast — Dumbbell Tricep Extension](https://www.youtube.com/watch?v=_gsUck-7M74)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 20–25s vacuum hold on empty stomach [Jeremy Ethier — Stomach Vacuum for Slim Waist](https://www.youtube.com/watch?v=c3-e2u0l1dM)
-- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side (opens tight hip flexors) [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
+- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 20–25s vacuum hold on empty stomach [wikiHow — Stomach Vacuum Exercise Guide](https://www.youtube.com/watch?v=cub3xhJXsAA)
+- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side (opens tight hip flexors) [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
 - [ ] **Cardio/Steps**: Brisk Evening Walk — 25 mins (approx 3,000 steps) for recovery & digestion
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -1315,15 +1315,15 @@ _Focus: High tension, mechanical drop sets, 0–1 RIR._
 - **Focus**: Pull · **Week**: 8
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Single-Arm Dumbbell Row**: 4 sets × 12–15 reps / side | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 (1s squeeze at top) | **Rest**: 60s [Athlean-X — Perfect Single-Arm DB Row](https://www.youtube.com/watch?v=pYcpY20QaE8)
-- [ ] **Inverted Door/Towel Row**: 4 sets × 10–12 reps | **Load**: Bodyweight (Door/Towel) | **Tempo**: 2-1-1-0 | **Rest**: 60s [Calisthenicmovement — Door Towel Rows](https://www.youtube.com/watch?v=rloXYB8M3vU)
-- [ ] **Bent-Over DB Rear Delt Flyes**: 5 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Athlean-X — Rear Delt Flyes](https://www.youtube.com/watch?v=eaun65zHk2c)
-- [ ] **Strict Supinating DB Bicep Curl**: 4 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-1-1-0 (Supinate wrist) | **Rest**: 60s [Jeff Nippard — Bicep Hypertrophy Science](https://www.youtube.com/watch?v=in7PaeYlhrM)
+- [ ] **Single-Arm Dumbbell Row**: 4 sets × 12–15 reps / side | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 (1s squeeze at top) | **Rest**: 60s [Scott Herman — Single-Arm DB Row Form](https://www.youtube.com/watch?v=pYcpY20QaE8)
+- [ ] **Inverted Door/Towel Row**: 4 sets × 10–12 reps | **Load**: Bodyweight (Door/Towel) | **Tempo**: 2-1-1-0 | **Rest**: 60s [Antranik — Door Towel Incline Rows](https://www.youtube.com/watch?v=rloXYB8M3vU)
+- [ ] **Bent-Over DB Rear Delt Flyes**: 5 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — DB Bent-Over Rear Delt Raise](https://www.youtube.com/watch?v=ttvfGg9d76c)
+- [ ] **Strict Supinating DB Bicep Curl**: 4 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-1-1-0 (Supinate wrist) | **Rest**: 60s [Mind Pump TV — Dumbbell Bicep Curls Form](https://www.youtube.com/watch?v=in7PaeYlhrM)
 - [ ] **Neutral Grip DB Hammer Curl**: 4 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-0-1-0 | **Rest**: 60s [Scott Herman — Hammer Curl Form](https://www.youtube.com/watch?v=zC3nLlEvin4)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps per side (Anti-extension core) [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=g_BYB0R-44A)
-- [ ] **Mobility**: Thoracic Spine Mobility & Desk Posture — 3 mins thoracic spine rotations (fixes desk posture) [Squat University — Thoracic Mobility](https://www.youtube.com/watch?v=0h5c5lQvB1c)
+- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps per side (Anti-extension core) [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=0XVbn86Btj0)
+- [ ] **Mobility**: Thoracic Spine Mobility & Desk Posture — 3 mins thoracic spine rotations (fixes desk posture) [Squat University — Thoracic Spine Mobility](https://www.youtube.com/watch?v=9LJDGUulS_8)
 - [ ] **Cardio/Steps**: Brisk Evening Walk — 25 mins (approx 3,000 steps)
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -1341,15 +1341,15 @@ _Focus: High tension, mechanical drop sets, 0–1 RIR._
 - **Focus**: Legs · **Week**: 8
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Bulgarian Split Squat**: 4 sets × 10–12 reps / leg | **Load**: 1x 10kg (Goblet) or 2x 5kg | **Tempo**: 3-1-1-0 (Deep hip crease) | **Rest**: 90s [Squat University — Bulgarian Split Squat](https://www.youtube.com/watch?v=1CVecvh_6W0)
-- [ ] **Dumbbell Romanian Deadlift (RDL)**: 4 sets × 10–12 reps | **Load**: 2x 10kg | **Tempo**: 4-1-1-0 (Deep hamstring stretch) | **Rest**: 60s [Jeremy Ethier — Dumbbell RDL Form](https://www.youtube.com/watch?v=_oyxCn2iSjU)
-- [ ] **Dumbbell Goblet Squat**: 4 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Athlean-X — Goblet Squat Mastery](https://www.youtube.com/watch?v=MeIiIdhvXT4)
-- [ ] **Weighted Glute Bridge / Hip Thrust**: 4 sets × 15 reps | **Load**: 1x 10kg on hips | **Tempo**: 2-2-1-0 (2s hold at peak) | **Rest**: 60s [Jeremy Ethier — Glute Bridge & Hip Thrust](https://www.youtube.com/watch?v=8bbE64NuDTU)
-- [ ] **Single-Leg Deficit Calf Raise**: 5 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand (Book/step) | **Tempo**: 3-2-1-0 (2s full stretch at bottom) | **Rest**: 45s [Jeff Nippard — Calf Growth Guide](https://www.youtube.com/watch?v=f2w8v8P7kio)
+- [ ] **Bulgarian Split Squat**: 4 sets × 10–12 reps / leg | **Load**: 1x 10kg (Goblet) or 2x 5kg | **Tempo**: 3-1-1-0 (Deep hip crease) | **Rest**: 90s [Squat University — Bulgarian Split Squat Form](https://www.youtube.com/watch?v=bwhl_9jN_3o)
+- [ ] **Dumbbell Romanian Deadlift (RDL)**: 4 sets × 10–12 reps | **Load**: 2x 10kg | **Tempo**: 4-1-1-0 (Deep hamstring stretch) | **Rest**: 60s [Jeff Nippard — Romanian Deadlift (RDL) Guide](https://www.youtube.com/watch?v=_oyxCn2iSjU)
+- [ ] **Dumbbell Goblet Squat**: 4 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — Goblet Squat Guide](https://www.youtube.com/watch?v=MeIiIdhvXT4)
+- [ ] **Weighted Glute Bridge / Hip Thrust**: 4 sets × 15 reps | **Load**: 1x 10kg on hips | **Tempo**: 2-2-1-0 (2s hold at peak) | **Rest**: 60s [Scott Herman — Glute Bridge Technique](https://www.youtube.com/watch?v=8bbE64NuDTU)
+- [ ] **Single-Leg Deficit Calf Raise**: 5 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand (Book/step) | **Tempo**: 3-2-1-0 (2s full stretch at bottom) | **Rest**: 45s [Scott Herman — Single-Leg Calf Raise Form](https://www.youtube.com/watch?v=ORT4oJ_R8Qs)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Lying Leg Raises & Reverse Crunches — 3 sets x 15 reps (Lower abs & pelvis tuck) [Calisthenicmovement — Leg Raises](https://www.youtube.com/watch?v=Pr1ieGZ5atk)
-- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins hip & ankle mobility flow [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
+- [ ] **Core**: Lying Leg Raises & Reverse Crunches — 3 sets x 15 reps (Lower abs & pelvis tuck) [TylerPath — Lying Leg Raises Form](https://www.youtube.com/watch?v=PkLYH3uRtSs)
+- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins hip & ankle mobility flow [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
 - [ ] **Cardio/Steps**: Brisk Leg Flush Walk — 20 mins steady walking to clear leg fatigue
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -1367,14 +1367,14 @@ _Focus: High tension, mechanical drop sets, 0–1 RIR._
 - **Focus**: Recovery · **Week**: 8
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Deep breathing | **Rest**: 30s [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
-- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Mobility](https://www.youtube.com/watch?v=0h5c5lQvB1c)
-- [ ] **Bird-Dog Core & Lower Back Flow**: 3 sets × 12 reps / side | **Load**: Bodyweight | **Tempo**: 2s hold at full reach | **Rest**: 45s [Squat University — Bird Dog Form](https://www.youtube.com/watch?v=wiFNA3sqjCA)
-- [ ] **Hardstyle RKC Plank (Maximum Tension)**: 3 sets × 30–45s max tension | **Load**: Bodyweight | **Tempo**: Max squeeze glutes & abs | **Rest**: 60s [Calisthenicmovement — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
+- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Deep breathing | **Rest**: 30s [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
+- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Spine Mobility](https://www.youtube.com/watch?v=9LJDGUulS_8)
+- [ ] **Bird-Dog Core & Lower Back Flow**: 3 sets × 12 reps / side | **Load**: Bodyweight | **Tempo**: 2s hold at full reach | **Rest**: 45s [Howcast — Bird Dog Exercise Tutorial](https://www.youtube.com/watch?v=wiFNA3sqjCA)
+- [ ] **Hardstyle RKC Plank (Maximum Tension)**: 3 sets × 30–45s max tension | **Load**: Bodyweight | **Tempo**: Max squeeze glutes & abs | **Rest**: 60s [P4P Workouts — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 25s vacuum hold (Waist slimming) [Jeremy Ethier — Stomach Vacuum for Slim Waist](https://www.youtube.com/watch?v=c3-e2u0l1dM)
-- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep whole-body stretch [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
+- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 25s vacuum hold (Waist slimming) [wikiHow — Stomach Vacuum Exercise Guide](https://www.youtube.com/watch?v=cub3xhJXsAA)
+- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep whole-body stretch [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
 - [ ] **Cardio/Steps**: Brisk Outdoor Walk — 30 mins (approx 4,000 steps) active flush
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -1392,16 +1392,16 @@ _Focus: High tension, mechanical drop sets, 0–1 RIR._
 - **Focus**: Upper · **Week**: 8
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Feet-Elevated Decline Push-ups**: 4 sets × 10–12 reps | **Load**: Bodyweight (Feet on bed) | **Tempo**: 3-1-1-0 | **Rest**: 60s [Calisthenicmovement — Decline Push-Ups (Upper Chest)](https://www.youtube.com/watch?v=SKPab2YC8BE)
-- [ ] **Dumbbell Arnold Press**: 4 sets × 10–12 reps | **Load**: 2x 5kg | **Tempo**: 3-1-1-0 (Full rotation) | **Rest**: 60s [Scott Herman — Arnold Press Technique](https://www.youtube.com/watch?v=6Z15_WdXmVw)
-- [ ] **Bent-Over Two-Arm DB Row**: 4 sets × 12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 2-1-1-0 | **Rest**: 60s [Scott Herman — Bent Over DB Row](https://www.youtube.com/watch?v=6TSP13BISI4)
-- [ ] **Strict DB Lateral Raise (Side Delts)**: 5 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Strict side delts) | **Rest**: 60s [Jeff Nippard — Science of Lateral Raises](https://www.youtube.com/watch?v=3VcKaXpzqRo)
-- [ ] **Diamond Push-ups (Tricep Overload)**: 4 sets × 10–12 reps | **Load**: Bodyweight | **Tempo**: 2-1-1-0 | **Rest**: 60s [Calisthenicmovement — Diamond Push-Ups](https://www.youtube.com/watch?v=J0DnG1_S92I)
-- [ ] **Seated Concentration Curl**: 4 sets × 10–12 reps / arm | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 45s [Scott Herman — Concentration Curl](https://www.youtube.com/watch?v=0AUGkch3tzc)
+- [ ] **Feet-Elevated Decline Push-ups**: 4 sets × 10–12 reps | **Load**: Bodyweight (Feet on bed) | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — Decline Push-Up Form](https://www.youtube.com/watch?v=SKPab2YC8BE)
+- [ ] **Dumbbell Arnold Press**: 4 sets × 10–12 reps | **Load**: 2x 5kg | **Tempo**: 3-1-1-0 (Full rotation) | **Rest**: 60s [Buff Dudes — Arnold Press Tutorial](https://www.youtube.com/watch?v=6Z15_WdXmVw)
+- [ ] **Bent-Over Two-Arm DB Row**: 4 sets × 12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 2-1-1-0 | **Rest**: 60s [Renaissance Periodization — Two Arm Dumbbell Row](https://www.youtube.com/watch?v=5PoEksoJNaw)
+- [ ] **Strict DB Lateral Raise (Side Delts)**: 5 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Strict side delts) | **Rest**: 60s [Scott Herman — DB Side Lateral Raise](https://www.youtube.com/watch?v=3VcKaXpzqRo)
+- [ ] **Diamond Push-ups (Tricep Overload)**: 4 sets × 10–12 reps | **Load**: Bodyweight | **Tempo**: 2-1-1-0 | **Rest**: 60s [Scott Herman — Diamond Push-Up](https://www.youtube.com/watch?v=J0DnG1_S92I)
+- [ ] **Seated Concentration Curl**: 4 sets × 10–12 reps / arm | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 45s [Howcast — Concentration Curl Form](https://www.youtube.com/watch?v=0AUGkch3tzc)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Hollow Body Hold — 3 sets x 30–35s hollow body hold [Calisthenicmovement — Hollow Body Hold](https://www.youtube.com/watch?v=44ScXWFaVBs)
-- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
+- [ ] **Core**: Hollow Body Hold — 3 sets x 30–35s hollow body hold [Antranik — Hollow Body Hold Guide](https://www.youtube.com/watch?v=44ScXWFaVBs)
+- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
 - [ ] **Cardio/Steps**: Brisk Walk — 25 mins (3,000 steps)
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -1419,15 +1419,15 @@ _Focus: High tension, mechanical drop sets, 0–1 RIR._
 - **Focus**: Legs · **Week**: 8
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Dumbbell Goblet Squat**: 4 sets × 15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Athlean-X — Goblet Squat Mastery](https://www.youtube.com/watch?v=MeIiIdhvXT4)
-- [ ] **Dumbbell Walking Lunges**: 4 sets × 10 reps / leg (20 total) | **Load**: 2x 5kg or Bodyweight | **Tempo**: Controlled 90/90 step | **Rest**: 60s [Scott Herman — Walking Lunges](https://www.youtube.com/watch?v=L8fvypPrzzs)
-- [ ] **Single-Leg DB Romanian Deadlift**: 4 sets × 10–12 reps / leg | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Squat University — Single Leg RDL](https://www.youtube.com/watch?v=2Tz8lWzL5Kk)
-- [ ] **Dumbbell Sumo Squat (Adductors & Glutes)**: 4 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — Sumo Squat Technique](https://www.youtube.com/watch?v=9ZuD8vf6nSU)
-- [ ] **Single-Leg Deficit Calf Raise**: 5 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand | **Tempo**: 3-2-1-0 | **Rest**: 45s [Jeff Nippard — Calf Growth Guide](https://www.youtube.com/watch?v=f2w8v8P7kio)
+- [ ] **Dumbbell Goblet Squat**: 4 sets × 15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — Goblet Squat Guide](https://www.youtube.com/watch?v=MeIiIdhvXT4)
+- [ ] **Dumbbell Walking Lunges**: 4 sets × 10 reps / leg (20 total) | **Load**: 2x 5kg or Bodyweight | **Tempo**: Controlled 90/90 step | **Rest**: 60s [CrossFit — The Walking Lunge Form](https://www.youtube.com/watch?v=L8fvypPrzzs)
+- [ ] **Single-Leg DB Romanian Deadlift**: 4 sets × 10–12 reps / leg | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — DB Single-Leg Stiff Deadlift](https://www.youtube.com/watch?v=DGavj41F_Cs)
+- [ ] **Dumbbell Sumo Squat (Adductors & Glutes)**: 4 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [DeltaBolic — Dumbbell Sumo Squat Form](https://www.youtube.com/watch?v=bRCjBCtBGIo)
+- [ ] **Single-Leg Deficit Calf Raise**: 5 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand | **Tempo**: 3-2-1-0 | **Rest**: 45s [Scott Herman — Single-Leg Calf Raise Form](https://www.youtube.com/watch?v=ORT4oJ_R8Qs)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps / side [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=g_BYB0R-44A)
-- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep hips & ankles [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
+- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps / side [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=0XVbn86Btj0)
+- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep hips & ankles [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
 - [ ] **Cardio/Steps**: Brisk Walk — 25 mins (3,000 steps)
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -1445,14 +1445,14 @@ _Focus: High tension, mechanical drop sets, 0–1 RIR._
 - **Focus**: Recovery · **Week**: 8
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **World's Greatest Stretch Routine**: 3 sets × 5 reps / side | **Load**: Bodyweight | **Tempo**: Deep breath at extension | **Rest**: 30s [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
-- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Relax into hip | **Rest**: 30s [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
-- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Mobility](https://www.youtube.com/watch?v=0h5c5lQvB1c)
-- [ ] **Transverse Abdominis Stomach Vacuum**: 4 sets × 25s vacuum hold | **Load**: Bodyweight | **Tempo**: Max exhalation & pull navel in | **Rest**: 45s [Jeremy Ethier — Stomach Vacuum for Slim Waist](https://www.youtube.com/watch?v=c3-e2u0l1dM)
+- [ ] **World's Greatest Stretch Routine**: 3 sets × 5 reps / side | **Load**: Bodyweight | **Tempo**: Deep breath at extension | **Rest**: 30s [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
+- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Relax into hip | **Rest**: 30s [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
+- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Spine Mobility](https://www.youtube.com/watch?v=9LJDGUulS_8)
+- [ ] **Transverse Abdominis Stomach Vacuum**: 4 sets × 25s vacuum hold | **Load**: Bodyweight | **Tempo**: Max exhalation & pull navel in | **Rest**: 45s [wikiHow — Stomach Vacuum Exercise Guide](https://www.youtube.com/watch?v=cub3xhJXsAA)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Hardstyle RKC Plank (Maximum Tension) — 3 sets x 30s plank hold [Calisthenicmovement — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
-- [ ] **Mobility**: Shoulder Doorway Stretch — 2 mins chest & anterior delt opening 
+- [ ] **Core**: Hardstyle RKC Plank (Maximum Tension) — 3 sets x 30s plank hold [P4P Workouts — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
+- [ ] **Mobility**: Shoulder Doorway Stretch — 2 mins chest & anterior delt opening [Rehab Hero — Doorway Chest & Shoulder Stretch](https://www.youtube.com/watch?v=O8rJw_TmC1Y)
 - [ ] **Cardio/Steps**: Relaxed Evening Walk — 30 mins (3,500 steps) fresh air & recovery
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -1475,14 +1475,14 @@ _Focus: Peak definition, density supersets, strict mind-muscle connection._
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
 - [ ] **Deficit / Standard Push-ups**: 4 sets × 12–15 reps | **Load**: Bodyweight | **Tempo**: 3-1-1-0 | **Rest**: 45–60s [Calisthenicmovement — Perfect Push-Up Form](https://www.youtube.com/watch?v=IODxDxX7oi4)
-- [ ] **Dumbbell Floor Press**: 4 sets × 10–12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 3-1-1-0 | **Rest**: 45–60s [Athlean-X — Dumbbell Floor Press Guide](https://www.youtube.com/watch?v=uUGDRwG4Fjs)
+- [ ] **Dumbbell Floor Press**: 4 sets × 10–12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 3-1-1-0 | **Rest**: 45–60s [Scott Herman — Dumbbell Floor Press Form](https://www.youtube.com/watch?v=uUGDRwge4F8)
 - [ ] **Seated/Standing DB Overhead Press**: 4 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-0-1-0 | **Rest**: 45–60s [Scott Herman — DB Shoulder Press Form](https://www.youtube.com/watch?v=qEwKCR5JCog)
-- [ ] **Strict DB Lateral Raise (Side Delts)**: 5 sets × 12–15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Elbows lead) | **Rest**: 60s [Jeff Nippard — Science of Lateral Raises](https://www.youtube.com/watch?v=3VcKaXpzqRo)
-- [ ] **Overhead DB Tricep Extension**: 4 sets × 12 reps | **Load**: 1x 10kg (both hands) | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — Overhead Tricep Extension](https://www.youtube.com/watch?v=_gsUck-7M74)
+- [ ] **Strict DB Lateral Raise (Side Delts)**: 5 sets × 12–15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Elbows lead) | **Rest**: 60s [Scott Herman — DB Side Lateral Raise](https://www.youtube.com/watch?v=3VcKaXpzqRo)
+- [ ] **Overhead DB Tricep Extension**: 4 sets × 12 reps | **Load**: 1x 10kg (both hands) | **Tempo**: 3-1-1-0 | **Rest**: 60s [Howcast — Dumbbell Tricep Extension](https://www.youtube.com/watch?v=_gsUck-7M74)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 20–25s vacuum hold on empty stomach [Jeremy Ethier — Stomach Vacuum for Slim Waist](https://www.youtube.com/watch?v=c3-e2u0l1dM)
-- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side (opens tight hip flexors) [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
+- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 20–25s vacuum hold on empty stomach [wikiHow — Stomach Vacuum Exercise Guide](https://www.youtube.com/watch?v=cub3xhJXsAA)
+- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side (opens tight hip flexors) [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
 - [ ] **Cardio/Steps**: Brisk Evening Walk — 25 mins (approx 3,000 steps) for recovery & digestion
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -1500,15 +1500,15 @@ _Focus: Peak definition, density supersets, strict mind-muscle connection._
 - **Focus**: Pull · **Week**: 9
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Single-Arm Dumbbell Row**: 4 sets × 12–15 reps / side | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 (1s squeeze at top) | **Rest**: 45–60s [Athlean-X — Perfect Single-Arm DB Row](https://www.youtube.com/watch?v=pYcpY20QaE8)
-- [ ] **Inverted Door/Towel Row**: 4 sets × 10–12 reps | **Load**: Bodyweight (Door/Towel) | **Tempo**: 2-1-1-0 | **Rest**: 45–60s [Calisthenicmovement — Door Towel Rows](https://www.youtube.com/watch?v=rloXYB8M3vU)
-- [ ] **Bent-Over DB Rear Delt Flyes**: 5 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Athlean-X — Rear Delt Flyes](https://www.youtube.com/watch?v=eaun65zHk2c)
-- [ ] **Strict Supinating DB Bicep Curl**: 4 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-1-1-0 (Supinate wrist) | **Rest**: 60s [Jeff Nippard — Bicep Hypertrophy Science](https://www.youtube.com/watch?v=in7PaeYlhrM)
+- [ ] **Single-Arm Dumbbell Row**: 4 sets × 12–15 reps / side | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 (1s squeeze at top) | **Rest**: 45–60s [Scott Herman — Single-Arm DB Row Form](https://www.youtube.com/watch?v=pYcpY20QaE8)
+- [ ] **Inverted Door/Towel Row**: 4 sets × 10–12 reps | **Load**: Bodyweight (Door/Towel) | **Tempo**: 2-1-1-0 | **Rest**: 45–60s [Antranik — Door Towel Incline Rows](https://www.youtube.com/watch?v=rloXYB8M3vU)
+- [ ] **Bent-Over DB Rear Delt Flyes**: 5 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — DB Bent-Over Rear Delt Raise](https://www.youtube.com/watch?v=ttvfGg9d76c)
+- [ ] **Strict Supinating DB Bicep Curl**: 4 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-1-1-0 (Supinate wrist) | **Rest**: 60s [Mind Pump TV — Dumbbell Bicep Curls Form](https://www.youtube.com/watch?v=in7PaeYlhrM)
 - [ ] **Neutral Grip DB Hammer Curl**: 4 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-0-1-0 | **Rest**: 60s [Scott Herman — Hammer Curl Form](https://www.youtube.com/watch?v=zC3nLlEvin4)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps per side (Anti-extension core) [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=g_BYB0R-44A)
-- [ ] **Mobility**: Thoracic Spine Mobility & Desk Posture — 3 mins thoracic spine rotations (fixes desk posture) [Squat University — Thoracic Mobility](https://www.youtube.com/watch?v=0h5c5lQvB1c)
+- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps per side (Anti-extension core) [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=0XVbn86Btj0)
+- [ ] **Mobility**: Thoracic Spine Mobility & Desk Posture — 3 mins thoracic spine rotations (fixes desk posture) [Squat University — Thoracic Spine Mobility](https://www.youtube.com/watch?v=9LJDGUulS_8)
 - [ ] **Cardio/Steps**: Brisk Evening Walk — 25 mins (approx 3,000 steps)
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -1526,15 +1526,15 @@ _Focus: Peak definition, density supersets, strict mind-muscle connection._
 - **Focus**: Legs · **Week**: 9
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Bulgarian Split Squat**: 4 sets × 10–12 reps / leg | **Load**: 1x 10kg (Goblet) or 2x 5kg | **Tempo**: 3-1-1-0 (Deep hip crease) | **Rest**: 90s [Squat University — Bulgarian Split Squat](https://www.youtube.com/watch?v=1CVecvh_6W0)
-- [ ] **Dumbbell Romanian Deadlift (RDL)**: 4 sets × 10–12 reps | **Load**: 2x 10kg | **Tempo**: 4-1-1-0 (Deep hamstring stretch) | **Rest**: 45–60s [Jeremy Ethier — Dumbbell RDL Form](https://www.youtube.com/watch?v=_oyxCn2iSjU)
-- [ ] **Dumbbell Goblet Squat**: 4 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 45–60s [Athlean-X — Goblet Squat Mastery](https://www.youtube.com/watch?v=MeIiIdhvXT4)
-- [ ] **Weighted Glute Bridge / Hip Thrust**: 4 sets × 15 reps | **Load**: 1x 10kg on hips | **Tempo**: 2-2-1-0 (2s hold at peak) | **Rest**: 60s [Jeremy Ethier — Glute Bridge & Hip Thrust](https://www.youtube.com/watch?v=8bbE64NuDTU)
-- [ ] **Single-Leg Deficit Calf Raise**: 5 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand (Book/step) | **Tempo**: 3-2-1-0 (2s full stretch at bottom) | **Rest**: 45s [Jeff Nippard — Calf Growth Guide](https://www.youtube.com/watch?v=f2w8v8P7kio)
+- [ ] **Bulgarian Split Squat**: 4 sets × 10–12 reps / leg | **Load**: 1x 10kg (Goblet) or 2x 5kg | **Tempo**: 3-1-1-0 (Deep hip crease) | **Rest**: 90s [Squat University — Bulgarian Split Squat Form](https://www.youtube.com/watch?v=bwhl_9jN_3o)
+- [ ] **Dumbbell Romanian Deadlift (RDL)**: 4 sets × 10–12 reps | **Load**: 2x 10kg | **Tempo**: 4-1-1-0 (Deep hamstring stretch) | **Rest**: 45–60s [Jeff Nippard — Romanian Deadlift (RDL) Guide](https://www.youtube.com/watch?v=_oyxCn2iSjU)
+- [ ] **Dumbbell Goblet Squat**: 4 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 45–60s [Scott Herman — Goblet Squat Guide](https://www.youtube.com/watch?v=MeIiIdhvXT4)
+- [ ] **Weighted Glute Bridge / Hip Thrust**: 4 sets × 15 reps | **Load**: 1x 10kg on hips | **Tempo**: 2-2-1-0 (2s hold at peak) | **Rest**: 60s [Scott Herman — Glute Bridge Technique](https://www.youtube.com/watch?v=8bbE64NuDTU)
+- [ ] **Single-Leg Deficit Calf Raise**: 5 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand (Book/step) | **Tempo**: 3-2-1-0 (2s full stretch at bottom) | **Rest**: 45s [Scott Herman — Single-Leg Calf Raise Form](https://www.youtube.com/watch?v=ORT4oJ_R8Qs)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Lying Leg Raises & Reverse Crunches — 3 sets x 15 reps (Lower abs & pelvis tuck) [Calisthenicmovement — Leg Raises](https://www.youtube.com/watch?v=Pr1ieGZ5atk)
-- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins hip & ankle mobility flow [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
+- [ ] **Core**: Lying Leg Raises & Reverse Crunches — 3 sets x 15 reps (Lower abs & pelvis tuck) [TylerPath — Lying Leg Raises Form](https://www.youtube.com/watch?v=PkLYH3uRtSs)
+- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins hip & ankle mobility flow [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
 - [ ] **Cardio/Steps**: Brisk Leg Flush Walk — 20 mins steady walking to clear leg fatigue
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -1552,14 +1552,14 @@ _Focus: Peak definition, density supersets, strict mind-muscle connection._
 - **Focus**: Recovery · **Week**: 9
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Deep breathing | **Rest**: 30s [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
-- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Mobility](https://www.youtube.com/watch?v=0h5c5lQvB1c)
-- [ ] **Bird-Dog Core & Lower Back Flow**: 3 sets × 12 reps / side | **Load**: Bodyweight | **Tempo**: 2s hold at full reach | **Rest**: 45s [Squat University — Bird Dog Form](https://www.youtube.com/watch?v=wiFNA3sqjCA)
-- [ ] **Hardstyle RKC Plank (Maximum Tension)**: 3 sets × 30–45s max tension | **Load**: Bodyweight | **Tempo**: Max squeeze glutes & abs | **Rest**: 60s [Calisthenicmovement — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
+- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Deep breathing | **Rest**: 30s [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
+- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Spine Mobility](https://www.youtube.com/watch?v=9LJDGUulS_8)
+- [ ] **Bird-Dog Core & Lower Back Flow**: 3 sets × 12 reps / side | **Load**: Bodyweight | **Tempo**: 2s hold at full reach | **Rest**: 45s [Howcast — Bird Dog Exercise Tutorial](https://www.youtube.com/watch?v=wiFNA3sqjCA)
+- [ ] **Hardstyle RKC Plank (Maximum Tension)**: 3 sets × 30–45s max tension | **Load**: Bodyweight | **Tempo**: Max squeeze glutes & abs | **Rest**: 60s [P4P Workouts — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 25s vacuum hold (Waist slimming) [Jeremy Ethier — Stomach Vacuum for Slim Waist](https://www.youtube.com/watch?v=c3-e2u0l1dM)
-- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep whole-body stretch [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
+- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 25s vacuum hold (Waist slimming) [wikiHow — Stomach Vacuum Exercise Guide](https://www.youtube.com/watch?v=cub3xhJXsAA)
+- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep whole-body stretch [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
 - [ ] **Cardio/Steps**: Brisk Outdoor Walk — 30 mins (approx 4,000 steps) active flush
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -1577,16 +1577,16 @@ _Focus: Peak definition, density supersets, strict mind-muscle connection._
 - **Focus**: Upper · **Week**: 9
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Feet-Elevated Decline Push-ups**: 4 sets × 10–12 reps | **Load**: Bodyweight (Feet on bed) | **Tempo**: 3-1-1-0 | **Rest**: 45–60s [Calisthenicmovement — Decline Push-Ups (Upper Chest)](https://www.youtube.com/watch?v=SKPab2YC8BE)
-- [ ] **Dumbbell Arnold Press**: 4 sets × 10–12 reps | **Load**: 2x 5kg | **Tempo**: 3-1-1-0 (Full rotation) | **Rest**: 45–60s [Scott Herman — Arnold Press Technique](https://www.youtube.com/watch?v=6Z15_WdXmVw)
-- [ ] **Bent-Over Two-Arm DB Row**: 4 sets × 12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 2-1-1-0 | **Rest**: 45–60s [Scott Herman — Bent Over DB Row](https://www.youtube.com/watch?v=6TSP13BISI4)
-- [ ] **Strict DB Lateral Raise (Side Delts)**: 5 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Strict side delts) | **Rest**: 60s [Jeff Nippard — Science of Lateral Raises](https://www.youtube.com/watch?v=3VcKaXpzqRo)
-- [ ] **Diamond Push-ups (Tricep Overload)**: 4 sets × 10–12 reps | **Load**: Bodyweight | **Tempo**: 2-1-1-0 | **Rest**: 60s [Calisthenicmovement — Diamond Push-Ups](https://www.youtube.com/watch?v=J0DnG1_S92I)
-- [ ] **Seated Concentration Curl**: 4 sets × 10–12 reps / arm | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 45s [Scott Herman — Concentration Curl](https://www.youtube.com/watch?v=0AUGkch3tzc)
+- [ ] **Feet-Elevated Decline Push-ups**: 4 sets × 10–12 reps | **Load**: Bodyweight (Feet on bed) | **Tempo**: 3-1-1-0 | **Rest**: 45–60s [Scott Herman — Decline Push-Up Form](https://www.youtube.com/watch?v=SKPab2YC8BE)
+- [ ] **Dumbbell Arnold Press**: 4 sets × 10–12 reps | **Load**: 2x 5kg | **Tempo**: 3-1-1-0 (Full rotation) | **Rest**: 45–60s [Buff Dudes — Arnold Press Tutorial](https://www.youtube.com/watch?v=6Z15_WdXmVw)
+- [ ] **Bent-Over Two-Arm DB Row**: 4 sets × 12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 2-1-1-0 | **Rest**: 45–60s [Renaissance Periodization — Two Arm Dumbbell Row](https://www.youtube.com/watch?v=5PoEksoJNaw)
+- [ ] **Strict DB Lateral Raise (Side Delts)**: 5 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Strict side delts) | **Rest**: 60s [Scott Herman — DB Side Lateral Raise](https://www.youtube.com/watch?v=3VcKaXpzqRo)
+- [ ] **Diamond Push-ups (Tricep Overload)**: 4 sets × 10–12 reps | **Load**: Bodyweight | **Tempo**: 2-1-1-0 | **Rest**: 60s [Scott Herman — Diamond Push-Up](https://www.youtube.com/watch?v=J0DnG1_S92I)
+- [ ] **Seated Concentration Curl**: 4 sets × 10–12 reps / arm | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 45s [Howcast — Concentration Curl Form](https://www.youtube.com/watch?v=0AUGkch3tzc)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Hollow Body Hold — 3 sets x 30–35s hollow body hold [Calisthenicmovement — Hollow Body Hold](https://www.youtube.com/watch?v=44ScXWFaVBs)
-- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
+- [ ] **Core**: Hollow Body Hold — 3 sets x 30–35s hollow body hold [Antranik — Hollow Body Hold Guide](https://www.youtube.com/watch?v=44ScXWFaVBs)
+- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
 - [ ] **Cardio/Steps**: Brisk Walk — 25 mins (3,000 steps)
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -1604,15 +1604,15 @@ _Focus: Peak definition, density supersets, strict mind-muscle connection._
 - **Focus**: Legs · **Week**: 9
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Dumbbell Goblet Squat**: 4 sets × 15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 45–60s [Athlean-X — Goblet Squat Mastery](https://www.youtube.com/watch?v=MeIiIdhvXT4)
-- [ ] **Dumbbell Walking Lunges**: 4 sets × 10 reps / leg (20 total) | **Load**: 2x 5kg or Bodyweight | **Tempo**: Controlled 90/90 step | **Rest**: 45–60s [Scott Herman — Walking Lunges](https://www.youtube.com/watch?v=L8fvypPrzzs)
-- [ ] **Single-Leg DB Romanian Deadlift**: 4 sets × 10–12 reps / leg | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 45–60s [Squat University — Single Leg RDL](https://www.youtube.com/watch?v=2Tz8lWzL5Kk)
-- [ ] **Dumbbell Sumo Squat (Adductors & Glutes)**: 4 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 45–60s [Scott Herman — Sumo Squat Technique](https://www.youtube.com/watch?v=9ZuD8vf6nSU)
-- [ ] **Single-Leg Deficit Calf Raise**: 5 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand | **Tempo**: 3-2-1-0 | **Rest**: 45s [Jeff Nippard — Calf Growth Guide](https://www.youtube.com/watch?v=f2w8v8P7kio)
+- [ ] **Dumbbell Goblet Squat**: 4 sets × 15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 45–60s [Scott Herman — Goblet Squat Guide](https://www.youtube.com/watch?v=MeIiIdhvXT4)
+- [ ] **Dumbbell Walking Lunges**: 4 sets × 10 reps / leg (20 total) | **Load**: 2x 5kg or Bodyweight | **Tempo**: Controlled 90/90 step | **Rest**: 45–60s [CrossFit — The Walking Lunge Form](https://www.youtube.com/watch?v=L8fvypPrzzs)
+- [ ] **Single-Leg DB Romanian Deadlift**: 4 sets × 10–12 reps / leg | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 45–60s [Scott Herman — DB Single-Leg Stiff Deadlift](https://www.youtube.com/watch?v=DGavj41F_Cs)
+- [ ] **Dumbbell Sumo Squat (Adductors & Glutes)**: 4 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 45–60s [DeltaBolic — Dumbbell Sumo Squat Form](https://www.youtube.com/watch?v=bRCjBCtBGIo)
+- [ ] **Single-Leg Deficit Calf Raise**: 5 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand | **Tempo**: 3-2-1-0 | **Rest**: 45s [Scott Herman — Single-Leg Calf Raise Form](https://www.youtube.com/watch?v=ORT4oJ_R8Qs)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps / side [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=g_BYB0R-44A)
-- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep hips & ankles [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
+- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps / side [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=0XVbn86Btj0)
+- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep hips & ankles [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
 - [ ] **Cardio/Steps**: Brisk Walk — 25 mins (3,000 steps)
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -1630,14 +1630,14 @@ _Focus: Peak definition, density supersets, strict mind-muscle connection._
 - **Focus**: Recovery · **Week**: 9
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **World's Greatest Stretch Routine**: 3 sets × 5 reps / side | **Load**: Bodyweight | **Tempo**: Deep breath at extension | **Rest**: 30s [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
-- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Relax into hip | **Rest**: 30s [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
-- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Mobility](https://www.youtube.com/watch?v=0h5c5lQvB1c)
-- [ ] **Transverse Abdominis Stomach Vacuum**: 4 sets × 25s vacuum hold | **Load**: Bodyweight | **Tempo**: Max exhalation & pull navel in | **Rest**: 45s [Jeremy Ethier — Stomach Vacuum for Slim Waist](https://www.youtube.com/watch?v=c3-e2u0l1dM)
+- [ ] **World's Greatest Stretch Routine**: 3 sets × 5 reps / side | **Load**: Bodyweight | **Tempo**: Deep breath at extension | **Rest**: 30s [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
+- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Relax into hip | **Rest**: 30s [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
+- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Spine Mobility](https://www.youtube.com/watch?v=9LJDGUulS_8)
+- [ ] **Transverse Abdominis Stomach Vacuum**: 4 sets × 25s vacuum hold | **Load**: Bodyweight | **Tempo**: Max exhalation & pull navel in | **Rest**: 45s [wikiHow — Stomach Vacuum Exercise Guide](https://www.youtube.com/watch?v=cub3xhJXsAA)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Hardstyle RKC Plank (Maximum Tension) — 3 sets x 30s plank hold [Calisthenicmovement — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
-- [ ] **Mobility**: Shoulder Doorway Stretch — 2 mins chest & anterior delt opening 
+- [ ] **Core**: Hardstyle RKC Plank (Maximum Tension) — 3 sets x 30s plank hold [P4P Workouts — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
+- [ ] **Mobility**: Shoulder Doorway Stretch — 2 mins chest & anterior delt opening [Rehab Hero — Doorway Chest & Shoulder Stretch](https://www.youtube.com/watch?v=O8rJw_TmC1Y)
 - [ ] **Cardio/Steps**: Relaxed Evening Walk — 30 mins (3,500 steps) fresh air & recovery
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -1656,14 +1656,14 @@ _Focus: Peak definition, density supersets, strict mind-muscle connection._
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
 - [ ] **Deficit / Standard Push-ups**: 4 sets × 12–15 reps | **Load**: Bodyweight | **Tempo**: 3-1-1-0 | **Rest**: 45–60s [Calisthenicmovement — Perfect Push-Up Form](https://www.youtube.com/watch?v=IODxDxX7oi4)
-- [ ] **Dumbbell Floor Press**: 4 sets × 10–12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 3-1-1-0 | **Rest**: 45–60s [Athlean-X — Dumbbell Floor Press Guide](https://www.youtube.com/watch?v=uUGDRwG4Fjs)
+- [ ] **Dumbbell Floor Press**: 4 sets × 10–12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 3-1-1-0 | **Rest**: 45–60s [Scott Herman — Dumbbell Floor Press Form](https://www.youtube.com/watch?v=uUGDRwge4F8)
 - [ ] **Seated/Standing DB Overhead Press**: 4 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-0-1-0 | **Rest**: 45–60s [Scott Herman — DB Shoulder Press Form](https://www.youtube.com/watch?v=qEwKCR5JCog)
-- [ ] **Strict DB Lateral Raise (Side Delts)**: 5 sets × 12–15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Elbows lead) | **Rest**: 60s [Jeff Nippard — Science of Lateral Raises](https://www.youtube.com/watch?v=3VcKaXpzqRo)
-- [ ] **Overhead DB Tricep Extension**: 4 sets × 12 reps | **Load**: 1x 10kg (both hands) | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — Overhead Tricep Extension](https://www.youtube.com/watch?v=_gsUck-7M74)
+- [ ] **Strict DB Lateral Raise (Side Delts)**: 5 sets × 12–15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Elbows lead) | **Rest**: 60s [Scott Herman — DB Side Lateral Raise](https://www.youtube.com/watch?v=3VcKaXpzqRo)
+- [ ] **Overhead DB Tricep Extension**: 4 sets × 12 reps | **Load**: 1x 10kg (both hands) | **Tempo**: 3-1-1-0 | **Rest**: 60s [Howcast — Dumbbell Tricep Extension](https://www.youtube.com/watch?v=_gsUck-7M74)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 20–25s vacuum hold on empty stomach [Jeremy Ethier — Stomach Vacuum for Slim Waist](https://www.youtube.com/watch?v=c3-e2u0l1dM)
-- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side (opens tight hip flexors) [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
+- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 20–25s vacuum hold on empty stomach [wikiHow — Stomach Vacuum Exercise Guide](https://www.youtube.com/watch?v=cub3xhJXsAA)
+- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side (opens tight hip flexors) [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
 - [ ] **Cardio/Steps**: Brisk Evening Walk — 25 mins (approx 3,000 steps) for recovery & digestion
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -1681,15 +1681,15 @@ _Focus: Peak definition, density supersets, strict mind-muscle connection._
 - **Focus**: Pull · **Week**: 10
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Single-Arm Dumbbell Row**: 4 sets × 12–15 reps / side | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 (1s squeeze at top) | **Rest**: 45–60s [Athlean-X — Perfect Single-Arm DB Row](https://www.youtube.com/watch?v=pYcpY20QaE8)
-- [ ] **Inverted Door/Towel Row**: 4 sets × 10–12 reps | **Load**: Bodyweight (Door/Towel) | **Tempo**: 2-1-1-0 | **Rest**: 45–60s [Calisthenicmovement — Door Towel Rows](https://www.youtube.com/watch?v=rloXYB8M3vU)
-- [ ] **Bent-Over DB Rear Delt Flyes**: 5 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Athlean-X — Rear Delt Flyes](https://www.youtube.com/watch?v=eaun65zHk2c)
-- [ ] **Strict Supinating DB Bicep Curl**: 4 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-1-1-0 (Supinate wrist) | **Rest**: 60s [Jeff Nippard — Bicep Hypertrophy Science](https://www.youtube.com/watch?v=in7PaeYlhrM)
+- [ ] **Single-Arm Dumbbell Row**: 4 sets × 12–15 reps / side | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 (1s squeeze at top) | **Rest**: 45–60s [Scott Herman — Single-Arm DB Row Form](https://www.youtube.com/watch?v=pYcpY20QaE8)
+- [ ] **Inverted Door/Towel Row**: 4 sets × 10–12 reps | **Load**: Bodyweight (Door/Towel) | **Tempo**: 2-1-1-0 | **Rest**: 45–60s [Antranik — Door Towel Incline Rows](https://www.youtube.com/watch?v=rloXYB8M3vU)
+- [ ] **Bent-Over DB Rear Delt Flyes**: 5 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 | **Rest**: 60s [Scott Herman — DB Bent-Over Rear Delt Raise](https://www.youtube.com/watch?v=ttvfGg9d76c)
+- [ ] **Strict Supinating DB Bicep Curl**: 4 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-1-1-0 (Supinate wrist) | **Rest**: 60s [Mind Pump TV — Dumbbell Bicep Curls Form](https://www.youtube.com/watch?v=in7PaeYlhrM)
 - [ ] **Neutral Grip DB Hammer Curl**: 4 sets × 10–12 reps | **Load**: 2x 5kg or 2x 10kg | **Tempo**: 3-0-1-0 | **Rest**: 60s [Scott Herman — Hammer Curl Form](https://www.youtube.com/watch?v=zC3nLlEvin4)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps per side (Anti-extension core) [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=g_BYB0R-44A)
-- [ ] **Mobility**: Thoracic Spine Mobility & Desk Posture — 3 mins thoracic spine rotations (fixes desk posture) [Squat University — Thoracic Mobility](https://www.youtube.com/watch?v=0h5c5lQvB1c)
+- [ ] **Core**: Deadbug Core Stabilization — 3 sets x 12 reps per side (Anti-extension core) [Squat University — Deadbug Core Form](https://www.youtube.com/watch?v=0XVbn86Btj0)
+- [ ] **Mobility**: Thoracic Spine Mobility & Desk Posture — 3 mins thoracic spine rotations (fixes desk posture) [Squat University — Thoracic Spine Mobility](https://www.youtube.com/watch?v=9LJDGUulS_8)
 - [ ] **Cardio/Steps**: Brisk Evening Walk — 25 mins (approx 3,000 steps)
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -1707,15 +1707,15 @@ _Focus: Peak definition, density supersets, strict mind-muscle connection._
 - **Focus**: Legs · **Week**: 10
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Bulgarian Split Squat**: 4 sets × 10–12 reps / leg | **Load**: 1x 10kg (Goblet) or 2x 5kg | **Tempo**: 3-1-1-0 (Deep hip crease) | **Rest**: 90s [Squat University — Bulgarian Split Squat](https://www.youtube.com/watch?v=1CVecvh_6W0)
-- [ ] **Dumbbell Romanian Deadlift (RDL)**: 4 sets × 10–12 reps | **Load**: 2x 10kg | **Tempo**: 4-1-1-0 (Deep hamstring stretch) | **Rest**: 45–60s [Jeremy Ethier — Dumbbell RDL Form](https://www.youtube.com/watch?v=_oyxCn2iSjU)
-- [ ] **Dumbbell Goblet Squat**: 4 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 45–60s [Athlean-X — Goblet Squat Mastery](https://www.youtube.com/watch?v=MeIiIdhvXT4)
-- [ ] **Weighted Glute Bridge / Hip Thrust**: 4 sets × 15 reps | **Load**: 1x 10kg on hips | **Tempo**: 2-2-1-0 (2s hold at peak) | **Rest**: 60s [Jeremy Ethier — Glute Bridge & Hip Thrust](https://www.youtube.com/watch?v=8bbE64NuDTU)
-- [ ] **Single-Leg Deficit Calf Raise**: 5 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand (Book/step) | **Tempo**: 3-2-1-0 (2s full stretch at bottom) | **Rest**: 45s [Jeff Nippard — Calf Growth Guide](https://www.youtube.com/watch?v=f2w8v8P7kio)
+- [ ] **Bulgarian Split Squat**: 4 sets × 10–12 reps / leg | **Load**: 1x 10kg (Goblet) or 2x 5kg | **Tempo**: 3-1-1-0 (Deep hip crease) | **Rest**: 90s [Squat University — Bulgarian Split Squat Form](https://www.youtube.com/watch?v=bwhl_9jN_3o)
+- [ ] **Dumbbell Romanian Deadlift (RDL)**: 4 sets × 10–12 reps | **Load**: 2x 10kg | **Tempo**: 4-1-1-0 (Deep hamstring stretch) | **Rest**: 45–60s [Jeff Nippard — Romanian Deadlift (RDL) Guide](https://www.youtube.com/watch?v=_oyxCn2iSjU)
+- [ ] **Dumbbell Goblet Squat**: 4 sets × 12–15 reps | **Load**: 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 45–60s [Scott Herman — Goblet Squat Guide](https://www.youtube.com/watch?v=MeIiIdhvXT4)
+- [ ] **Weighted Glute Bridge / Hip Thrust**: 4 sets × 15 reps | **Load**: 1x 10kg on hips | **Tempo**: 2-2-1-0 (2s hold at peak) | **Rest**: 60s [Scott Herman — Glute Bridge Technique](https://www.youtube.com/watch?v=8bbE64NuDTU)
+- [ ] **Single-Leg Deficit Calf Raise**: 5 sets × 15–20 reps / leg | **Load**: 1x 10kg in hand (Book/step) | **Tempo**: 3-2-1-0 (2s full stretch at bottom) | **Rest**: 45s [Scott Herman — Single-Leg Calf Raise Form](https://www.youtube.com/watch?v=ORT4oJ_R8Qs)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Lying Leg Raises & Reverse Crunches — 3 sets x 15 reps (Lower abs & pelvis tuck) [Calisthenicmovement — Leg Raises](https://www.youtube.com/watch?v=Pr1ieGZ5atk)
-- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins hip & ankle mobility flow [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
+- [ ] **Core**: Lying Leg Raises & Reverse Crunches — 3 sets x 15 reps (Lower abs & pelvis tuck) [TylerPath — Lying Leg Raises Form](https://www.youtube.com/watch?v=PkLYH3uRtSs)
+- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins hip & ankle mobility flow [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
 - [ ] **Cardio/Steps**: Brisk Leg Flush Walk — 20 mins steady walking to clear leg fatigue
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -1733,14 +1733,14 @@ _Focus: Peak definition, density supersets, strict mind-muscle connection._
 - **Focus**: Recovery · **Week**: 10
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Deep breathing | **Rest**: 30s [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
-- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Mobility](https://www.youtube.com/watch?v=0h5c5lQvB1c)
-- [ ] **Bird-Dog Core & Lower Back Flow**: 3 sets × 12 reps / side | **Load**: Bodyweight | **Tempo**: 2s hold at full reach | **Rest**: 45s [Squat University — Bird Dog Form](https://www.youtube.com/watch?v=wiFNA3sqjCA)
-- [ ] **Hardstyle RKC Plank (Maximum Tension)**: 3 sets × 30–45s max tension | **Load**: Bodyweight | **Tempo**: Max squeeze glutes & abs | **Rest**: 60s [Calisthenicmovement — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
+- [ ] **Couch Stretch (Hip Flexor & Psoas Opener)**: 3 sets × 90s / side | **Load**: Bodyweight | **Tempo**: Deep breathing | **Rest**: 30s [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
+- [ ] **Thoracic Spine Mobility & Desk Posture**: 3 sets × 10 reps / side | **Load**: Bodyweight | **Tempo**: Slow rotation | **Rest**: 30s [Squat University — Thoracic Spine Mobility](https://www.youtube.com/watch?v=9LJDGUulS_8)
+- [ ] **Bird-Dog Core & Lower Back Flow**: 3 sets × 12 reps / side | **Load**: Bodyweight | **Tempo**: 2s hold at full reach | **Rest**: 45s [Howcast — Bird Dog Exercise Tutorial](https://www.youtube.com/watch?v=wiFNA3sqjCA)
+- [ ] **Hardstyle RKC Plank (Maximum Tension)**: 3 sets × 30–45s max tension | **Load**: Bodyweight | **Tempo**: Max squeeze glutes & abs | **Rest**: 60s [P4P Workouts — Proper Plank Form](https://www.youtube.com/watch?v=TvxNkmjdhMM)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 25s vacuum hold (Waist slimming) [Jeremy Ethier — Stomach Vacuum for Slim Waist](https://www.youtube.com/watch?v=c3-e2u0l1dM)
-- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep whole-body stretch [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=4sQ9vQf0sXg)
+- [ ] **Core**: Transverse Abdominis Stomach Vacuum — 4 sets x 25s vacuum hold (Waist slimming) [wikiHow — Stomach Vacuum Exercise Guide](https://www.youtube.com/watch?v=cub3xhJXsAA)
+- [ ] **Mobility**: World's Greatest Stretch Routine — 3 mins deep whole-body stretch [Squat University — World's Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34)
 - [ ] **Cardio/Steps**: Brisk Outdoor Walk — 30 mins (approx 4,000 steps) active flush
 
 #### 🥗 PG Nutrition & Supplement Protocol
@@ -1758,16 +1758,16 @@ _Focus: Peak definition, density supersets, strict mind-muscle connection._
 - **Focus**: Upper · **Week**: 10
 
 #### ☀️ Morning Session (60 mins — Resistance Training)
-- [ ] **Feet-Elevated Decline Push-ups**: 4 sets × 10–12 reps | **Load**: Bodyweight (Feet on bed) | **Tempo**: 3-1-1-0 | **Rest**: 45–60s [Calisthenicmovement — Decline Push-Ups (Upper Chest)](https://www.youtube.com/watch?v=SKPab2YC8BE)
-- [ ] **Dumbbell Arnold Press**: 4 sets × 10–12 reps | **Load**: 2x 5kg | **Tempo**: 3-1-1-0 (Full rotation) | **Rest**: 45–60s [Scott Herman — Arnold Press Technique](https://www.youtube.com/watch?v=6Z15_WdXmVw)
-- [ ] **Bent-Over Two-Arm DB Row**: 4 sets × 12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 2-1-1-0 | **Rest**: 45–60s [Scott Herman — Bent Over DB Row](https://www.youtube.com/watch?v=6TSP13BISI4)
-- [ ] **Strict DB Lateral Raise (Side Delts)**: 5 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Strict side delts) | **Rest**: 60s [Jeff Nippard — Science of Lateral Raises](https://www.youtube.com/watch?v=3VcKaXpzqRo)
-- [ ] **Diamond Push-ups (Tricep Overload)**: 4 sets × 10–12 reps | **Load**: Bodyweight | **Tempo**: 2-1-1-0 | **Rest**: 60s [Calisthenicmovement — Diamond Push-Ups](https://www.youtube.com/watch?v=J0DnG1_S92I)
-- [ ] **Seated Concentration Curl**: 4 sets × 10–12 reps / arm | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 45s [Scott Herman — Concentration Curl](https://www.youtube.com/watch?v=0AUGkch3tzc)
+- [ ] **Feet-Elevated Decline Push-ups**: 4 sets × 10–12 reps | **Load**: Bodyweight (Feet on bed) | **Tempo**: 3-1-1-0 | **Rest**: 45–60s [Scott Herman — Decline Push-Up Form](https://www.youtube.com/watch?v=SKPab2YC8BE)
+- [ ] **Dumbbell Arnold Press**: 4 sets × 10–12 reps | **Load**: 2x 5kg | **Tempo**: 3-1-1-0 (Full rotation) | **Rest**: 45–60s [Buff Dudes — Arnold Press Tutorial](https://www.youtube.com/watch?v=6Z15_WdXmVw)
+- [ ] **Bent-Over Two-Arm DB Row**: 4 sets × 12 reps | **Load**: 2x 10kg (or 2x 5kg) | **Tempo**: 2-1-1-0 | **Rest**: 45–60s [Renaissance Periodization — Two Arm Dumbbell Row](https://www.youtube.com/watch?v=5PoEksoJNaw)
+- [ ] **Strict DB Lateral Raise (Side Delts)**: 5 sets × 15 reps | **Load**: 2x 4kg or 2x 5kg | **Tempo**: 3-1-1-0 (Strict side delts) | **Rest**: 60s [Scott Herman — DB Side Lateral Raise](https://www.youtube.com/watch?v=3VcKaXpzqRo)
+- [ ] **Diamond Push-ups (Tricep Overload)**: 4 sets × 10–12 reps | **Load**: Bodyweight | **Tempo**: 2-1-1-0 | **Rest**: 60s [Scott Herman — Diamond Push-Up](https://www.youtube.com/watch?v=J0DnG1_S92I)
+- [ ] **Seated Concentration Curl**: 4 sets × 10–12 reps / arm | **Load**: 1x 5kg or 1x 10kg | **Tempo**: 3-1-1-0 | **Rest**: 45s [Howcast — Concentration Curl Form](https://www.youtube.com/watch?v=0AUGkch3tzc)
 
 #### 🌙 Evening Session (30 mins — Core, Mobility & Steps)
-- [ ] **Core**: Hollow Body Hold — 3 sets x 30–35s hollow body hold [Calisthenicmovement — Hollow Body Hold](https://www.youtube.com/watch?v=44ScXWFaVBs)
-- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side [Squat University — Couch Stretch](https://www.youtube.com/watch?v=Kz60qV1gU2o)
+- [ ] **Core**: Hollow Body Hold — 3 sets x 30–35s hollow body hold [Antranik — Hollow Body Hold Guide](https://www.youtube.com/watch?v=44ScXWFaVBs)
+- [ ] **Mobility**: Couch Stretch (Hip Flexor & Psoas Opener) — 2 mins each side [Movementgems — Couch Stretch Guide](https://www.youtube.com/watch?v=SLxuJg_zKzw)
 - [ ] **Cardio/Steps**: Brisk Walk — 25 mins (3,000 steps)
 
 #### 🥗 PG Nutrition & Supplement Protocol
