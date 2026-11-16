@@ -1,4 +1,4 @@
-# 🏋️🧠 45-Day Total Transformation: Muscle & Brain Mastery
+# 🏋️🧠 45-Day Total Transformation: Muscle & Brain Mastery 
 
 A daily progressive workout, calisthenics, cognitive mastery, and PG-friendly budget nutrition system designed to forge an aesthetic, lean physique and an unbreakable, calm, high-IQ mind from **November 17, 2026 to December 31, 2026** (45 days to Jan 1, 2027).
 
