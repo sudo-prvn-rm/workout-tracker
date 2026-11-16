@@ -1,15 +1,19 @@
 {
   "name": "workout-tracker",
-  "version": "1.0.0",
-  "description": "68-Day Lean & Muscular Transformation Tracker (Oct 25 - Dec 31, 2026)",
+  "version": "2.0.0",
+  "description": "45-Day Total Transformation: Muscle & Brain Mastery (Nov 17 - Dec 31, 2026)",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "build": "python3 build_tracker.py && python3 generate_curriculum.py && python3 generate_index_html.py"
   },
   "keywords": [
     "workout-tracker",
     "calisthenics",
     "dumbbells",
+    "brain-mastery",
+    "overthinking-control",
+    "high-iq",
     "fitness",
     "nutrition"
   ],

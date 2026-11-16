@@ -4,11 +4,12 @@ with open('/home/praveen/personal-projects/workout-tracker/workout_plan.json') a
     plan = json.load(f)
 
 lines = []
-lines.append("# 🏋️ 68-Day Lean & Muscular Transformation Curriculum")
-lines.append("**Dates**: October 25, 2026 – December 31, 2026")
-lines.append("**Equipment**: 2 Dumbbells (adjustable with 4x2kg + 3kg plates up to 10kg) + Progressive Calisthenics")
-lines.append("**Schedule**: 60 min Morning (Strength/Hypertrophy) + 30 min Evening (Core/Mobility/Steps)")
-lines.append("**Diet**: PG-Friendly Indian Budget Nutrition (2 Eggs/day, Sunday PG Chicken, Whey, Creatine, Soya/Chana/Dahi/Sattu)\n")
+lines.append("# 🏋️🧠 45-Day Total Transformation Curriculum: Muscle & Brain Mastery")
+lines.append("**Dates**: November 17, 2026 – December 31, 2026 (45 Days to Jan 1, 2027)")
+lines.append("**Equipment**: 2 Dumbbells (up to 10kg) + Progressive Calisthenics")
+lines.append("**Schedule**: 60 min Morning (Strength/Hypertrophy) + Cognitive Mastery Focus + 30 min Evening (Core/Mobility/Steps)")
+lines.append("**Diet**: PG-Friendly Indian Budget Nutrition (2 Eggs/day, Sunday PG Chicken, Whey, Creatine, Soya/Chana/Dahi/Sattu)")
+lines.append("**Mental Mastery**: Neuroscience of Brain Control, The 5-Second Action Rule, High-IQ Deep Work, Stoic Overthinking Immunity\n")
 lines.append("---\n")
 
 curr_phase = 0
@@ -19,14 +20,23 @@ for day in plan:
         lines.append(f"_{day['tempoNote']}_\n")
 
     lines.append(f"### Day {day['day']} · {day['weekday']}, {day['date']} — {day['title']}")
-    lines.append(f"- **Focus**: {day['bodyPart']} · **Week**: {day['week']}")
+    lines.append(f"- **Focus Split**: {day['bodyPart']} · **Week**: {day['week']} · **Phase**: {day['phase']}")
     
-    # Morning
-    lines.append("\n#### ☀️ Morning Session (60 mins — Resistance Training)")
+    # Morning Workout
+    lines.append("\n#### ☀️ Morning Resistance Session (60 mins)")
     for ex in day['morning']:
         yt_link = f"[{ex['ytLabel']}]({ex['yt']})" if ex.get('yt') else ""
         lines.append(f"- [ ] **{ex['name']}**: {ex['sets']} sets × {ex['reps']} | **Load**: {ex['load']} | **Tempo**: {ex['tempo']} | **Rest**: {ex['rest']} {yt_link}")
     
+    # Brain Mastery
+    b = day['brain']
+    lines.append("\n#### 🧠 Cognitive Mastery & Overthinking Protocol")
+    lines.append(f"> **Daily Mission**: {b['theme']} ({b['pillar']})")
+    lines.append(f"> **Why It Works**: {b['principle']}")
+    lines.append(f"> **Today's Action**: {b['action']}")
+    for h in b['habits']:
+        lines.append(f"- [ ] **Habit**: {h['name']}")
+
     # Evening
     lines.append("\n#### 🌙 Evening Session (30 mins — Core, Mobility & Steps)")
     e = day['evening']
